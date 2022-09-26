@@ -3,6 +3,12 @@ body {
   padding: 0 0 0 0;
   margin: 0 0 0 0;
 }
+.dots-menu{
+  width: 200px;
+  .mat-menu-item {
+    color: #5a666f;
+  }
+}
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

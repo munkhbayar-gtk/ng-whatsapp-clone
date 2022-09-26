@@ -8,10 +8,12 @@ import { MaterialModule } from './material.module';
 
 import { AppComponent } from './app.component';
 import {SearchBoxComponent} from './components/search-box/search-box.component';
+import { ProfileBoxComponent } from './components/profile-box/profile-box.component';
 @NgModule({
   declarations: [
     AppComponent,
-    SearchBoxComponent
+    SearchBoxComponent,
+    ProfileBoxComponent
   ],
   imports: [
     BrowserModule,

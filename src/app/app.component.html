@@ -1,16 +1,29 @@
-<div id="bg-header"></div>
-<div id="bg-body"></div>
 
-<div id="chat-container">
-  <div id="sidebar">
-    <div id="sidebarHeader"></div>
-    <app-chat-search-box></app-chat-search-box>
-    <div id="sidebarContent">
-      <div id="no-conversations">
-          All chats are archived
+
+<div>
+  <div id="bg-header"></div>
+  <div id="bg-body"></div>
+  <div id="app-container" style="background-color: green">
+    <mat-drawer-container style="height: 100%">
+      <mat-drawer #drawer mode="over" style="width: 30%">
+        <p>Auto-resizing sidenav</p>
+      </mat-drawer>
+      <div class="chat-container">
+        <div id="sidebar">
+          <div id="sidebarHeader">
+            <app-profile-box (chatButtonClicked)="drawer.toggle()"></app-profile-box>
+          </div>
+          <app-chat-search-box></app-chat-search-box>
+          <div id="sidebarContent">
+            <div id="no-conversations">
+                All chats are archived
+            </div>
+          </div>
+        </div>
+        <div id="chat-panel"></div>
       </div>
-    </div>
+    </mat-drawer-container>
   </div>
-  <div id="chat-panel"></div>
 </div>
+
 <router-outlet></router-outlet>

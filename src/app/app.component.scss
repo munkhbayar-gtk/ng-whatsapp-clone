@@ -9,9 +9,7 @@
   height: 87vh;
   background-color: #dcdedd;
 }
-
-#chat-container {
-
+#app-container{
   position: fixed;
   top: 0px;
   bottom: 0px;
@@ -22,7 +20,9 @@
   left: 0px;
   right: 0px;
   box-shadow: 0 6px 18px rgba(var(--shadow-rgb),.05);
-
+}
+.chat-container {
+  width: 100%;
   display: flex;
   flex-direction: row;
   #sidebar{
@@ -30,10 +30,7 @@
     border-right: 1px solid #e1e4e5;
     display: flex;
     flex-direction: column;
-    #sidebarHeader {
-      flex-basis: 67px;
-      background-color: #f0f2f5;
-    }
+
     #no-conversations{
       padding-top: 30px;
       text-align: center;
@@ -43,7 +40,8 @@
       font-weight: 100;
     }
   }
-  #chat-panel{
+  >#chat-panel{
 
   }
 }
+

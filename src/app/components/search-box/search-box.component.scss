@@ -33,10 +33,10 @@
       border: 0px solid #e1e4e5;
       background-color: transparent;
       width: 100%;
+      outline: none;
     }
     input:focus {
       border: 0px solid #e1e4e5;
-      outline-width: 0;
     }
   }
   #unread-chat-filter-container{
@@ -60,6 +60,7 @@
       background-color: #00a884;
       border: 0px solid #e1e4e5;
       outline-width: 0;
+      --moz-outline-width: 0;
       svg path {
         fill:  #d8eeeb
       }

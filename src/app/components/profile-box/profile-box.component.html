@@ -1,0 +1,40 @@
+<div id="profile-box-contianer">
+  <div id="profile-picture">
+    <img src="../assets/images/avatar.jpg">
+  </div>
+  <div id="profile-actions">
+    <button mat-mini-fab>
+      <svg version="1.1" viewBox="0 0 24 24" width="24" height="24" class=""><path fill="currentColor" d="M12 20.664a9.163 9.163 0 0 1-6.521-2.702.977.977 0 0 1 1.381-1.381 7.269 7.269 0 0 0 10.024.244.977.977 0 0 1 1.313 1.445A9.192 9.192 0 0 1 12 20.664zm7.965-6.112a.977.977 0 0 1-.944-1.229 7.26 7.26 0 0 0-4.8-8.804.977.977 0 0 1 .594-1.86 9.212 9.212 0 0 1 6.092 11.169.976.976 0 0 1-.942.724zm-16.025-.39a.977.977 0 0 1-.953-.769 9.21 9.21 0 0 1 6.626-10.86.975.975 0 1 1 .52 1.882l-.015.004a7.259 7.259 0 0 0-5.223 8.558.978.978 0 0 1-.955 1.185z"></path></svg>
+    </button>
+    <button mat-mini-fab (click)="chatButtonClicked.emit('')">
+      <mat-icon>chat</mat-icon>
+    </button>
+    <button
+      class="mat-mini-fab-custom"
+      [ngClass]="{'mat-mini-fab-custom-clicked': dotsMenuOpened}"
+      [matMenuTriggerFor]="dots_menu"
+      (menuOpened)="dotsMenuOpened = true"
+      (menuClosed)="dotsMenuOpened = false"
+     aria-label="Dots menu area-lebel">
+      <mat-icon>more_vert</mat-icon>
+    </button>
+    <mat-menu class="dots-menu"  panelClass="dots-menu" #dots_menu="matMenu" xPosition="before">
+      <button mat-menu-item>
+        <span>New group</span>
+      </button>
+      <button mat-menu-item>
+        <span>Archived</span>
+      </button>
+      <button mat-menu-item>
+        <span>Starred messages</span>
+      </button>
+      <button mat-menu-item>
+        <span>Settings</span>
+      </button>
+      <button mat-menu-item>
+        <span>Log out</span>
+      </button>
+    </mat-menu>
+  </div>
+</div>
+
