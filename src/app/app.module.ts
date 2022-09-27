@@ -9,11 +9,14 @@ import { MaterialModule } from './material.module';
 import { AppComponent } from './app.component';
 import {SearchBoxComponent} from './components/search-box/search-box.component';
 import { ProfileBoxComponent } from './components/profile-box/profile-box.component';
+import { CreateChatPanelComponent } from './components/create-chat-panel/create-chat-panel.component';
+
 @NgModule({
   declarations: [
     AppComponent,
     SearchBoxComponent,
-    ProfileBoxComponent
+    ProfileBoxComponent,
+    CreateChatPanelComponent
   ],
   imports: [
     BrowserModule,

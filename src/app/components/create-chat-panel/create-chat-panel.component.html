@@ -1,0 +1,11 @@
+<div id="create-chat-container">
+  <div id="create-chat-header">
+    <!-- [@rotateOut]="arrowIconStateName" -->
+    <div id="create-chat-header-container" [@onShowAnim]="onShowAnimState">
+      <mat-icon (click)="onBackArrowClicked.emit()" id="search-icon" class="search-icon">arrow_back</mat-icon>
+      New chat
+    </div>
+  </div>
+  <div id="search-box"></div>
+  <div id="contact-list"></div>
+</div>

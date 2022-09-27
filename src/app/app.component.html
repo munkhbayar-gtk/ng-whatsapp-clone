@@ -4,9 +4,12 @@
   <div id="bg-header"></div>
   <div id="bg-body"></div>
   <div id="app-container" style="background-color: green">
-    <mat-drawer-container style="height: 100%">
-      <mat-drawer #drawer mode="over" style="width: 30%">
-        <p>Auto-resizing sidenav</p>
+    <mat-drawer-container style="height: 100%" [hasBackdrop]="true" >
+      <mat-drawer #drawer mode="over" style="width: 30%"
+        (openedStart)="appCreateChatPanel.changeOpenState(drawer.opened)"
+        (openedChange)="appCreateChatPanel.changeOpenState(drawer.opened)"
+        >
+        <app-create-chat-panel #appCreateChatPanel (onBackArrowClicked)="drawer.close()"></app-create-chat-panel>
       </mat-drawer>
       <div class="chat-container">
         <div id="sidebar">
