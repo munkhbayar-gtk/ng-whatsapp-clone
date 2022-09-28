@@ -1,11 +1,25 @@
-<div id="create-chat-container">
+<!-- (ngInit)="delay(appChatSearchBox.requestFocus, 200)" -->
+<div id="create-chat-container"
+  ngInit
+  >
   <div id="create-chat-header">
     <!-- [@rotateOut]="arrowIconStateName" -->
     <div id="create-chat-header-container" [@onShowAnim]="onShowAnimState">
-      <mat-icon (click)="onBackArrowClicked.emit()" id="search-icon" class="search-icon">arrow_back</mat-icon>
+      <mat-icon
+        (click)="
+          onBackArrowClicked.emit();
+          appChatSearchBox.requestBlur();
+        "
+        id="search-icon"
+        class="search-icon"
+        >arrow_back</mat-icon
+      >
       New chat
     </div>
   </div>
-  <div id="search-box"></div>
+  <app-chat-search-box
+    #appChatSearchBox
+  [filterable]="false" style="margin-right: 10px;"></app-chat-search-box>
   <div id="contact-list"></div>
 </div>
+{{onShowAnimState ? appChatSearchBox.requestFocus() : ''}}

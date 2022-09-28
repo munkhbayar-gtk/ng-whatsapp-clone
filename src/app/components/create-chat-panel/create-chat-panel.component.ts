@@ -1,5 +1,6 @@
 import { animate, state, style, transition, trigger } from '@angular/animations';
-import { Component, OnInit, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit, Output, EventEmitter, ElementRef, ViewChild } from '@angular/core';
+import { SearchBoxComponent } from '../search-box/search-box.component';
 
 @Component({
   selector: 'app-create-chat-panel',
@@ -15,6 +16,9 @@ import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 export class CreateChatPanelComponent implements OnInit {
 
   onShowAnimState = false;
+
+  @ViewChild("appChatSearchBox")
+  appChatSearchBox : SearchBoxComponent;
 
   @Output("onBackArrowClicked")
   onBackArrowClicked = new EventEmitter();
@@ -40,6 +44,15 @@ export class CreateChatPanelComponent implements OnInit {
 
   ngAfterViewInit(){
 
+  }
+
+  blurSearchInput() {
+    this.appChatSearchBox.requestBlur();
+    console.log('blur requested');
+  }
+
+  delay(callback : any, delay : number) {
+    setTimeout(callback, delay);
   }
 
 }

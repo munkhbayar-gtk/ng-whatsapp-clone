@@ -4,9 +4,14 @@
       <mat-icon [@rotateIn]="searchIconStateName" id="search-icon"  class="search-icon">search</mat-icon>
       <mat-icon [@rotateOut]="arrowIconStateName" id="search-icon-focused"  class="search-icon">arrow_back</mat-icon>
     </div>
-    <input type="text" (focus)="iconState = true" (blur)="iconState = false" placeholder="Search or start new chat" tabindex="2">
+    <input
+      #searchInput
+      type="text"
+      (focus)="iconState = true"
+      (blur)="iconState = false"
+      placeholder="Search or start new chat" tabindex="2">
   </div>
-  <div id="unread-chat-filter-container">
+  <div id="unread-chat-filter-container" *ngIf="filterable">
     <div id="unread-chat-filter" tabindex="3">
       <mat-icon>filter_list</mat-icon>
     </div>

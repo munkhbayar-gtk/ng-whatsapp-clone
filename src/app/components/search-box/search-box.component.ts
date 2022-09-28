@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit, ViewChild, ElementRef } from '@angular/core';
 import {trigger, style, animate, transition, state} from '@angular/animations';
 
 @Component({
@@ -24,9 +24,24 @@ export class SearchBoxComponent implements OnInit {
 
   iconState = false;
 
+  @Input("filterable")
+  filterable = true;
+
+  @ViewChild("searchInput")
+  searchInput : ElementRef<HTMLInputElement>;
+
   constructor() { }
 
   ngOnInit() {
+    console.log('search-box ngOnInit called');
+  }
+
+  requestFocus() {
+    this.searchInput.nativeElement.focus();
+  }
+
+  requestBlur() {
+    this.searchInput.nativeElement.blur();
   }
 
   get arrowIconStateName() {

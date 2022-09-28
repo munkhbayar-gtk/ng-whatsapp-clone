@@ -1,0 +1,42 @@
+#buddy-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  height: 50px;
+  width: auto;
+  padding: 10px 10px 10px 10px;
+  #icon-container {
+    flex-basis: 43px;
+    height: 43px;
+    background-color: white;
+    img {
+      height: 43px;
+      width: 43px;
+      border-radius: 50%;
+    }
+  }
+
+  #last-message-container{
+    flex-grow: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    white-space: nowrap;
+    z-index: 1;
+    overflow: hidden;
+    border-bottom: 1px solid #e1e4e5;
+    //max-width: calc(100% - 43px);
+    width: 100%;
+    height: 100%;
+
+    #contact-info {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    #message-container {
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+  }
+}

@@ -1,31 +1,55 @@
-
-
 <div>
   <div id="bg-header"></div>
   <div id="bg-body"></div>
-  <div id="app-container" style="background-color: green">
-    <mat-drawer-container style="height: 100%" [hasBackdrop]="true" >
-      <mat-drawer #drawer mode="over" style="width: 30%"
-        (openedStart)="appCreateChatPanel.changeOpenState(drawer.opened)"
-        (openedChange)="appCreateChatPanel.changeOpenState(drawer.opened)"
-        >
-        <app-create-chat-panel #appCreateChatPanel (onBackArrowClicked)="drawer.close()"></app-create-chat-panel>
-      </mat-drawer>
-      <div class="chat-container">
-        <div id="sidebar">
-          <div id="sidebarHeader">
-            <app-profile-box (chatButtonClicked)="drawer.toggle()"></app-profile-box>
-          </div>
-          <app-chat-search-box></app-chat-search-box>
-          <div id="sidebarContent">
-            <div id="no-conversations">
-                All chats are archived
+  <div id="app-container" style="background-color: transparent">
+    <div class="chat-container">
+      <div id="sidebar" #sideBar ngInit (ngInit)="calculatedWidth = getWidth(sideBar) - 1;">
+        <mat-sidenav-container
+          style="height: 100%; width: 100%;"
+          [hasBackdrop]="true"
+          (backdropClick)="appCreateChatPanel.blurSearchInput();"
+          >
+          <mat-sidenav
+            #drawer
+            mode="over"
+            style="width: 100%"
+            (openedStart)="appCreateChatPanel.changeOpenState(drawer.opened)"
+            (openedChange)="appCreateChatPanel.changeOpenState(drawer.opened)"
+          >
+            <app-create-chat-panel
+              #appCreateChatPanel
+              (onBackArrowClicked)="drawer.close()"
+            ></app-create-chat-panel>
+          </mat-sidenav>
+          <mat-sidenav-content style="border-right: 1px solid #e1e4e5;">
+            <div id="sidebarHeader">
+              <app-profile-box
+                (chatButtonClicked)="drawer.toggle()"
+              ></app-profile-box>
             </div>
-          </div>
-        </div>
-        <div id="chat-panel"></div>
+            <app-chat-search-box></app-chat-search-box>
+            <div id="sidebarContent" style="border-top: 1px solid #e1e4e5;" style="width: {{calculatedWidth}}px; max-width: {{calculatedWidth}}px;">
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <div id="no-conversations">All chats are archived</div>
+            </div>
+          </mat-sidenav-content>
+        </mat-sidenav-container>
       </div>
-    </mat-drawer-container>
+
+      <div id="chat-panel" style="background-color: gray; width: 100%; z-index: 1000">
+        {{calculatedWidth}}
+        <p>sdafasd adfas asdf</p>
+      </div>
+    </div>
+
+
+
   </div>
 </div>
 
