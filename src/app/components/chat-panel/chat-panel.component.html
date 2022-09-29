@@ -1,0 +1,32 @@
+<div id="chat-panel-container">
+  <div id="profile-header-container">
+    <div id="profile-picture">
+      <img src="../../../assets/images/avatar.jpg">
+    </div>
+    <div style="flex-grow: 1;">-1 (111) 111-0111</div>
+
+    <app-mat-icon-circle-button
+      (click)="log('clicked')"
+    [mat-icon-text]="'search'"></app-mat-icon-circle-button>
+    <app-mat-icon-circle-button
+      (click)="log('clicked')"
+    [mat-icon-text]="'more_vert'"></app-mat-icon-circle-button>
+  </div>
+  <div id="chat-messages-container">
+    Messages heere
+  </div>
+  <div id="message-typing-container">
+    <div id="chat-type-insertion-actions-container">
+      <mat-icon>insert_emoticon</mat-icon>
+      <mat-icon id="attach-file">attach_file</mat-icon>
+    </div>
+    <div id="input-container">
+      <input type="text"
+       [(ngModel)]="textToSend" placeholder=" Type a message" id="messageToSend">
+    </div>
+    <div id="audio-icon-container">
+      <mat-icon *ngIf="textToSend.length == 0">mic</mat-icon>
+      <mat-icon *ngIf="textToSend.length > 0">send</mat-icon>
+    </div>
+  </div>
+</div>

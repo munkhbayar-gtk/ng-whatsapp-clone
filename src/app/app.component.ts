@@ -6,6 +6,8 @@ import { Component, Input, ElementRef, ViewChild,HostListener } from '@angular/c
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+
+  textMsg = "Mbr";
   title = 'ng-whatsapp-clone';
 
   @ViewChild('sideBar')

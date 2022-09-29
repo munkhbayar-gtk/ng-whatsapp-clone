@@ -1,8 +1,9 @@
 <div>
+
   <div id="bg-header"></div>
   <div id="bg-body"></div>
-  <div id="app-container" style="background-color: transparent">
-    <div class="chat-container">
+  <div id="app-container" style="background-color: transparent; overflow: hidden;">
+    <div class="chat-container" style="overflow: hidden;">
       <div id="sidebar" #sideBar ngInit (ngInit)="calculatedWidth = getWidth(sideBar) - 1;">
         <mat-sidenav-container
           style="height: 100%; width: 100%;"
@@ -21,14 +22,28 @@
               (onBackArrowClicked)="drawer.close()"
             ></app-create-chat-panel>
           </mat-sidenav>
-          <mat-sidenav-content style="border-right: 1px solid #e1e4e5;">
+          <mat-sidenav-content style="border-right: 0px solid #e1e4e5; height: 100%; overflow: hidden;">
             <div id="sidebarHeader">
               <app-profile-box
                 (chatButtonClicked)="drawer.toggle()"
               ></app-profile-box>
             </div>
             <app-chat-search-box></app-chat-search-box>
-            <div id="sidebarContent" style="border-top: 1px solid #e1e4e5;" style="width: {{calculatedWidth}}px; max-width: {{calculatedWidth}}px;">
+            <div id="sidebarContent" class="v-scrollbar" style="width: {{calculatedWidth}}px; max-width: {{calculatedWidth}}px;">
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
+              <app-buddy-box></app-buddy-box>
               <app-buddy-box></app-buddy-box>
               <app-buddy-box></app-buddy-box>
               <app-buddy-box></app-buddy-box>
@@ -42,9 +57,8 @@
         </mat-sidenav-container>
       </div>
 
-      <div id="chat-panel" style="background-color: gray; width: 100%; z-index: 1000">
-        {{calculatedWidth}}
-        <p>sdafasd adfas asdf</p>
+      <div id="chat-panel" style="">
+        <app-chat-panel></app-chat-panel>
       </div>
     </div>
 

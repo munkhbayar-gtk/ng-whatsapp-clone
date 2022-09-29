@@ -1,3 +1,13 @@
+#buddy-container:hover {
+  background-color: #f0f2f5;
+  #chat-mnu-achor {
+    color: #667781;
+    font-size: 30px;
+    opacity: 1;
+    transform: translateX(0%);
+    transition: 0.15s ease-in-out;
+  }
+}
 #buddy-container{
   display: flex;
   flex-direction: row;
@@ -6,6 +16,12 @@
   height: 50px;
   width: auto;
   padding: 10px 10px 10px 10px;
+  cursor: pointer;
+
+  #chat-mnu-achor {
+    opacity: 0;
+    transform: translateX(100%);
+  }
   #icon-container {
     flex-basis: 43px;
     height: 43px;

@@ -14,4 +14,25 @@
        {{longText}}
     </div>
   </div>
+
+  <mat-icon id="chat-mnu-achor"
+  [matMenuTriggerFor]="chatMenu"
+  >keyboard_arrow_down</mat-icon>
+  <mat-menu class="mat-menu-custom"  panelClass="mat-menu-custom" #chatMenu="matMenu" xPosition="after">
+    <button mat-menu-item>
+      <span>Archive chat</span>
+    </button>
+    <button mat-menu-item>
+      <span>Mute notifications</span>
+    </button>
+    <button mat-menu-item>
+      <span>Delete chat</span>
+    </button>
+    <button mat-menu-item>
+      <span>Pin chat</span>
+    </button>
+    <button mat-menu-item>
+      <span>Mark as unread</span>
+    </button>
+  </mat-menu>
 </div>

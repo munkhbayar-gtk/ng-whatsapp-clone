@@ -1,14 +1,47 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  overflow: hidden;
+}
 body {
   padding: 0 0 0 0;
   margin: 0 0 0 0;
 }
-.dots-menu{
+.mat-menu-custom{
   width: 200px;
   .mat-menu-item {
-    color: #5a666f;
+    color: #3b4a54;
+    padding-left: 25px;
+    font-size: 15px;
+    font-weight: 300;
+    height: 40px;
   }
 }
-
+.v-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+/* Track */
+.v-scrollbar::-webkit-scrollbar-track {
+  //-webkit-border-radius: 10px;
+  //border-radius: 10px;
+}
+/* Handle */
+.v-scrollbar::-webkit-scrollbar-thumb {
+  //-webkit-border-radius: 10px;
+  //border-radius: 10px;
+  background: #ced0d1;
+}
+.v-scrollbar::-moz-scrollbar-button, .v-scrollbar::-webkit-scrollbar-button {
+  width: 0px;
+}
+.v-scrollbar::-moz-scrollbar-button:decrement,
+.v-scrollbar::-moz-scrollbar-button:increment,
+.v-scrollbar::-webkit-scrollbar-button:decrement,
+.v-scrollbar::-webkit-scrollbar-button:increment {
+  width: 0px;
+}
+mat-icon {
+  color: #54656f;
+  font-size: 29px;
+}
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

@@ -41,14 +41,16 @@
     .mat-mini-fab-custom-clicked {
       background-color: #dbdee1;
     }
+
     .mat-mini-fab {
         background-color: transparent;
         color: #54656f;
-        box-shadow: none;
+        box-shadow: none !important;
     }
     .cdk-focused,
-    .cdk-mous-focused {
+    .cdk-mouse-focused {
       background-color: #d9dbdf;
+      box-shadow: none !important;
     }
 
   }

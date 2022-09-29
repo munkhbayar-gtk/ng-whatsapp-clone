@@ -1,0 +1,26 @@
+.mat-mini-fab-custom {
+  border: 0px solid white;
+  background-color: transparent;
+  color: #54656f;
+  box-shadow: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  transition: background-color 200ms ease-in-out;
+}
+.mat-mini-fab-custom-clicked {
+  background-color: #dbdee1;
+  transition: background-color 200ms ease-in-out;
+}
+
+.mat-mini-fab {
+  background-color: transparent;
+  color: #54656f;
+  box-shadow: none !important;
+}
+.cdk-focused,
+.cdk-mouse-focused {
+  background-color: #d9dbdf;
+  box-shadow: none !important;
+  transition: background-color 200ms ease-in-out;
+}
