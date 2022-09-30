@@ -1,3 +1,7 @@
+
+import { MatIconCustomModule } from './mat-icon-custom.module';
+import { TabMatIconComponent } from './components/tab-mat-icon/tab-mat-icon.component';
+import { MediaSelectorComponent } from './components/emoji/media-selector/media-selector.component';
 import { MatIconCircleButtonComponent } from './components/mat-icon-circle-button/mat-icon-circle-button.component';
 import { BuddyBoxComponent } from './components/buddy-box/buddy-box.component';
 import { NgModule } from '@angular/core';
@@ -14,6 +18,8 @@ import { ProfileBoxComponent } from './components/profile-box/profile-box.compon
 import { CreateChatPanelComponent } from './components/create-chat-panel/create-chat-panel.component';
 import { NgInitDirective } from './directives/NgInit.directive';
 import { ChatPanelComponent } from './components/chat-panel/chat-panel.component';
+import { HttpClientModule } from '@angular/common/http';
+import { MediaPanelComponent } from './components/emoji/media-panel/media-panel.component';
 
 @NgModule({
   declarations: [
@@ -25,13 +31,19 @@ import { ChatPanelComponent } from './components/chat-panel/chat-panel.component
     ChatPanelComponent,
     MatIconCircleButtonComponent,
 
+    MediaPanelComponent,
+    MediaSelectorComponent,
+    TabMatIconComponent,
+
     NgInitDirective
   ],
   imports: [
     BrowserModule,
+    HttpClientModule,
     FormsModule,
     AppRoutingModule,
     MaterialModule,
+    MatIconCustomModule,
     BrowserAnimationsModule,
   ],
   providers: [],

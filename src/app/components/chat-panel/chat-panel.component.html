@@ -65,13 +65,49 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
       </div>
-      <div id="emoji-area" style="height: 250px; background-color: purple">
-        Emojis here
+      <!-- -->
+      <div id="emoji-area"
+         [ngClass]="{'active':emojiState}"
+        style=" background-color: transparent; z-index: 0;">
+        <app-media-panel *ngIf="mediaType == 'emoji'"
+          [tab-icons]="['smile','teddy','cup', 'soccer','car','bulb','hashtag','flag']"
+        ></app-media-panel>
+        <app-media-panel *ngIf="mediaType == 'gif'"
+          [tab-texts]="['smile','teddy','cup', 'soccer','car','bulb','hashtag','flag']"
+        ></app-media-panel>
+        <app-media-panel *ngIf="mediaType == 'sticker'"
+          [tab-texts]="['smile','teddy','cup', 'soccer','car','bulb','hashtag','flag']"
+        ></app-media-panel>
       </div>
-      <div id="message-typing-container">
-        <div id="chat-type-insertion-actions-container">
-          <mat-icon>insert_emoticon</mat-icon>
-          <mat-icon id="attach-file">attach_file</mat-icon>
+
+      <div id="message-typing-container" style="z-index: 100; background-color: #f0f2f5;">
+        <div id="chat-type-insertion-actions-container"
+          [@emojiStateExpanded]="emojiState"
+          >
+          <mat-icon
+            (click)="emojiState=false; mediaType=''"
+            [@emojiState]="emojiState"
+            *ngIf="emojiState"
+          >close</mat-icon>
+
+          <mat-icon
+            (click)="emojiState = true; mediaType='emoji'"
+            [ngClass]="{'active' : mediaType == 'emoji'}"
+           svgIcon="smile"></mat-icon>
+
+           <mat-icon svgIcon="gif"
+            [ngClass]="{'active' : mediaType == 'gif'}"
+            [@emojiState]="emojiState"
+            *ngIf="emojiState"
+            (click)="mediaType='gif'"></mat-icon>
+           <mat-icon svgIcon="sticker"
+            (click)="mediaType='sticker'"
+            [@emojiState]="emojiState"
+            *ngIf="emojiState"
+            [ngClass]="{'active' : mediaType == 'sticker'}"
+            ></mat-icon>
+
+          <mat-icon svgIcon="attach_file">attach_file</mat-icon>
         </div>
         <div id="input-container">
           <input type="text"

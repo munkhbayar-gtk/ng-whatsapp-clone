@@ -1,0 +1,15 @@
+#media-panel-container{
+  #tabs {
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    align-items: center;
+  }
+
+  #tabs ::ng-deep .mat-ink-bar {
+    background-color: #008069;
+  }
+}

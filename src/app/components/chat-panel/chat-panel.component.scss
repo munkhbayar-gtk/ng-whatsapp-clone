@@ -48,28 +48,43 @@
     background-color: #f1ece5;
     overflow-y: auto;
     overflow-x: hidden;
+
+
   }
   #message-typing-container{
     display: flex;
     flex-direction: row;
     padding: 8px 5px 8px 15px;
     align-items: center;
+
+    #chat-type-insertion-actions-container.collapsed {
+      max-width: 108px;
+      width: 108px;
+      transition: max-height 2000ms ease-in;
+    }
     #chat-type-insertion-actions-container{
       display: flex;
       align-items: center;
+      justify-content: space-between;
+      gap: 15px;
       height: 43px;
-      padding: 0px 10px 0px 5px;
+      padding: 0px 10px 0px 10px;
+      transition: max-height 2000ms ease-out;
       mat-icon {
-        width: 40px;
+        height: 28px;
+        width: 28px;
+        cursor: pointer;
       }
-      #attach-file {
-        transform: rotate(45deg);
-        width: 30px;
+      mat-icon.active {
+        color: #008069
+      }
+      mat-icon.hidden {
+        width: 0px;
       }
     }
 
     #input-container{
-      flex-basis: 100%;
+      flex-grow: 1;
       border-radius: 10px;
       background-color: white;
       height: 100%;
@@ -94,6 +109,19 @@
       align-content: center;
       align-items: center;
     }
+  }
 
+  #emoji-area {
+    overflow: hidden;
+    max-height: 0;
+    min-height: 0;
+    transition: 200ms ease-in;
+    transition-timing-function: cubic-bezier(0.1,0.82,0.25,1);
+  }
+  #emoji-area.active {
+    max-height: 320px;
+    min-height: 320px;
+    transition: 200ms ease-out;
+    transition-timing-function: cubic-bezier(0.1,0.82,0.25,1);
   }
 }

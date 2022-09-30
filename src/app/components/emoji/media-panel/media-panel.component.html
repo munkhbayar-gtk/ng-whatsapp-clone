@@ -1,0 +1,18 @@
+<div id="media-panel-container">
+  <div id="tabs">
+    <mat-tab-group
+      [disableRipple]="true"
+      mat-stretch-tabs
+      selectedIndex="0"
+      animationDuration="0ms" style="width: 100%"
+      >
+      <mat-tab *ngFor="let tab of [].constructor(max(tabIcons.length, tabTexts.length)); index as i, first as isFirst; last as isLast">
+        <ng-template mat-tab-label>
+          <mat-icon *ngIf="i < tabIcons.length" svgIcon="{{tabIcons[i]}}"></mat-icon>
+          <span *ngIf="i < tabTexts.length">{{tabTexts[i]}}</span>
+        </ng-template>
+      </mat-tab>
+    </mat-tab-group>
+  </div>
+  <div id="emoji-selectors-container"></div>
+</div>
