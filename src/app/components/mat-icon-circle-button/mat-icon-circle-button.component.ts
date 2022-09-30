@@ -11,6 +11,9 @@ export class MatIconCircleButtonComponent implements OnInit {
   @Input("mat-icon-text")
   iconText : string = "search"
 
+  @Input("focusable")
+  focusable : boolean = false;
+
   pressed : boolean = false;
 
   constructor() { }

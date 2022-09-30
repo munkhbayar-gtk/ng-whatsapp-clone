@@ -16,6 +16,7 @@
   display:flex;
   flex-direction: column;
   height: 100%;
+  overflow: hidden;
   #profile-header-container{
     display:flex;
     padding: 10px 15px 10px 15px;
@@ -45,7 +46,8 @@
   #chat-messages-container{
     height: 100%;
     background-color: #f1ece5;
-
+    overflow-y: auto;
+    overflow-x: hidden;
   }
   #message-typing-container{
     display: flex;

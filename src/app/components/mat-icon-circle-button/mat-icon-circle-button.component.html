@@ -1,9 +1,16 @@
-<button #button mat-mini-fab
-  onclick="setTimeout(()=>{
-    this.blur();
-  }, 200)"
+<button *ngIf="focusable" mat-mini-fab
+  onclick="setTimeout(()=>{this.blur();}, 200)"
   class="mat-mini-fab-custom"
   aria-label="mat-mini-fab-custom"
+  >
+  <mat-icon>{{iconText}}</mat-icon>
+</button>
+
+<button *ngIf="!focusable"
+  class="mat-mini-fab-custom"
+  aria-label="mat-mini-fab-custom"
+  [ngClass]="{'mat-mini-fab-custom-clicked': pressed}"
+
   >
   <mat-icon>{{iconText}}</mat-icon>
 </button>

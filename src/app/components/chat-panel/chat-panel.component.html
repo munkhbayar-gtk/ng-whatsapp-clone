@@ -1,32 +1,87 @@
-<div id="chat-panel-container">
-  <div id="profile-header-container">
-    <div id="profile-picture">
-      <img src="../../../assets/images/avatar.jpg">
-    </div>
-    <div style="flex-grow: 1;">-1 (111) 111-0111</div>
+<mat-sidenav-container style="height: 100%; flex-grow: 1;" [hasBackdrop]="false">
+  <mat-sidenav
+    #chatSearchNav
+    style="width: {{sidenavWidth}}px; max-width: {{sidenavWidth}}px"
+    mode="side" position="end">
+      This is sidenav
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div id="chat-panel-container">
+      <div id="profile-header-container">
+        <div id="profile-picture">
+          <img src="../../../assets/images/avatar.jpg">
+        </div>
+        <div style="flex-grow: 1;">-1 (111) 111-0111</div>
+        <app-mat-icon-circle-button
+          [focusable]="true"
+          (click)="chatSearchNav.toggle()"
+        [mat-icon-text]="'search'"></app-mat-icon-circle-button>
+        <app-mat-icon-circle-button
+          #dotsMenu
+          [matMenuTriggerFor]="dots_menu"
+          (menuOpened)="dotsMenu.pressed = true"
+          (menuClosed)="dotsMenu.pressed = false"
+          aria-label="Dots menu area-lebel"
+        [mat-icon-text]="'more_vert'"></app-mat-icon-circle-button>
 
-    <app-mat-icon-circle-button
-      (click)="log('clicked')"
-    [mat-icon-text]="'search'"></app-mat-icon-circle-button>
-    <app-mat-icon-circle-button
-      (click)="log('clicked')"
-    [mat-icon-text]="'more_vert'"></app-mat-icon-circle-button>
-  </div>
-  <div id="chat-messages-container">
-    Messages heere
-  </div>
-  <div id="message-typing-container">
-    <div id="chat-type-insertion-actions-container">
-      <mat-icon>insert_emoticon</mat-icon>
-      <mat-icon id="attach-file">attach_file</mat-icon>
+        <mat-menu class="mat-menu-custom"  panelClass="mat-menu-custom"
+          #dots_menu="matMenu" xPosition="before">
+          <button mat-menu-item>
+            <span>Contact info</span>
+          </button>
+          <button mat-menu-item>
+            <span>Report business</span>
+          </button>
+          <button mat-menu-item>
+            <span>Block</span>
+          </button>
+          <button mat-menu-item>
+            <span>Select messages</span>
+          </button>
+          <button mat-menu-item>
+            <span>Close chat</span>
+          </button>
+
+          <button mat-menu-item>
+            <span>Mute notifications</span>
+          </button>
+          <button mat-menu-item>
+            <span>Clear messages</span>
+          </button>
+          <button mat-menu-item>
+            <span>Delete chat</span>
+          </button>
+        </mat-menu>
+
+      </div>
+      <div id="chat-messages-container" class="v-scrollbar">
+        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+      </div>
+      <div id="emoji-area" style="height: 250px; background-color: purple">
+        Emojis here
+      </div>
+      <div id="message-typing-container">
+        <div id="chat-type-insertion-actions-container">
+          <mat-icon>insert_emoticon</mat-icon>
+          <mat-icon id="attach-file">attach_file</mat-icon>
+        </div>
+        <div id="input-container">
+          <input type="text"
+            [(ngModel)]="textToSend" placeholder=" Type a message" id="messageToSend">
+        </div>
+        <div id="audio-icon-container">
+          <mat-icon *ngIf="textToSend.length == 0">mic</mat-icon>
+          <mat-icon *ngIf="textToSend.length > 0">send</mat-icon>
+        </div>
+      </div>
     </div>
-    <div id="input-container">
-      <input type="text"
-       [(ngModel)]="textToSend" placeholder=" Type a message" id="messageToSend">
-    </div>
-    <div id="audio-icon-container">
-      <mat-icon *ngIf="textToSend.length == 0">mic</mat-icon>
-      <mat-icon *ngIf="textToSend.length > 0">send</mat-icon>
-    </div>
-  </div>
-</div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
