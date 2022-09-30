@@ -82,13 +82,12 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
       <div id="message-typing-container" style="z-index: 100; background-color: #f0f2f5;">
         <div id="chat-type-insertion-actions-container"
-          [@emojiStateExpanded]="emojiState"
           >
           <mat-icon
+            style="margin-left: 0; margin-right: 0"
             (click)="emojiState=false; mediaType=''"
             [@emojiState]="emojiState"
-            *ngIf="emojiState"
-          >close</mat-icon>
+            svgIcon="close"></mat-icon>
 
           <mat-icon
             (click)="emojiState = true; mediaType='emoji'"
@@ -98,12 +97,10 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
            <mat-icon svgIcon="gif"
             [ngClass]="{'active' : mediaType == 'gif'}"
             [@emojiState]="emojiState"
-            *ngIf="emojiState"
             (click)="mediaType='gif'"></mat-icon>
            <mat-icon svgIcon="sticker"
             (click)="mediaType='sticker'"
             [@emojiState]="emojiState"
-            *ngIf="emojiState"
             [ngClass]="{'active' : mediaType == 'sticker'}"
             ></mat-icon>
 

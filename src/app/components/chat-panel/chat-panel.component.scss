@@ -60,19 +60,18 @@
     #chat-type-insertion-actions-container.collapsed {
       max-width: 108px;
       width: 108px;
-      transition: max-height 2000ms ease-in;
     }
     #chat-type-insertion-actions-container{
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 15px;
       height: 43px;
-      padding: 0px 10px 0px 10px;
-      transition: max-height 2000ms ease-out;
+      padding: 0px 5px 0px 0px;
       mat-icon {
-        height: 28px;
-        width: 28px;
+        height: 26px;
+        width: 26px;
+        margin-right: 8px;
+        margin-left: 8px;
         cursor: pointer;
       }
       mat-icon.active {
@@ -115,13 +114,13 @@
     overflow: hidden;
     max-height: 0;
     min-height: 0;
-    transition: 200ms ease-in;
+    transition: 300ms ease-in;
     transition-timing-function: cubic-bezier(0.1,0.82,0.25,1);
   }
   #emoji-area.active {
     max-height: 320px;
     min-height: 320px;
-    transition: 200ms ease-out;
+    transition: 300ms ease-out;
     transition-timing-function: cubic-bezier(0.1,0.82,0.25,1);
   }
 }

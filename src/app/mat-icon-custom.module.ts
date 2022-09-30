@@ -30,6 +30,7 @@ export class MatIconCustomModule {
     this.addIcon('attach_file', 'attach_file');
     this.addIcon('sticker', 'sticker');
     this.addIcon('gif', 'gif');
+    this.addIcon('close', 'close');
   }
   private addIcon(name : string, file: string) {
     this.matIconRegistry.addSvgIcon(name, this.path(file));

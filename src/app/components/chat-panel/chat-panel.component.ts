@@ -26,15 +26,22 @@ import { Component, Input, OnInit } from '@angular/core';
       transition('false => true', animate('200ms ease-in'))
     ]),
     trigger('emojiState', [
-      state('true', style({ })),
-      state('false', style({ })),
-      transition('true => false', [
-        style({ width: '0px'}),
-        animate('4000ms ease-in', style({width:'*', opacity: 1}))
+      state('true', style({ width: '*', 'margin-right':'8px','margin-left':'8px', opacity: 1})),
+      state('false', style({ width: '0px', 'margin-right':'0px','margin-left':'0px', opacity: 0})),
+      transition('false<=>true', [
+        animate('200ms ease-in')
+      ])
+    ]),
+    trigger('emojiState1', [
+      state('true', style({ 'width': '*'})),
+      state('false', style({ width: '0px'})),
+      transition('true=>false', [
+        style({ width: '*'}),
+        animate('200ms ease-out', style({width:'0px', opacity: 1}))
       ]),
-      transition('false => true', [
-        style({width: '*'}),
-        animate('200ms ease-out', style({ width: '0px', opacity: 0}))
+      transition('false=>true', [
+        style({width: '0px'}),
+        animate('200ms ease-in', style({ width: '*', opacity: 0}))
       ])
     ]),
   ]
