@@ -73,10 +73,13 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
           [tab-icons]="['smile','teddy','cup', 'soccer','car','bulb','hashtag','flag']"
         ></app-media-panel>
         <app-media-panel *ngIf="mediaType == 'gif'"
-          [tab-texts]="['smile','teddy','cup', 'soccer','car','bulb','hashtag','flag']"
+          [tab-texts]="['TRENDING','HAHA','SAD', 'LOVE','REACTIONS','SPORTS','TV']"
         ></app-media-panel>
-        <app-media-panel *ngIf="mediaType == 'sticker'"
-          [tab-texts]="['smile','teddy','cup', 'soccer','car','bulb','hashtag','flag']"
+        <app-media-panel
+          *ngIf="mediaType == 'sticker'"
+          [tab-insertable]="true"
+          [tab-icons]="['clock']"
+          [tab-texts]="['','LOVE','GREETINGS', 'HAPPY','SAD','ANGRY','CELEBRATE']"
         ></app-media-panel>
       </div>
 

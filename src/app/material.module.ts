@@ -7,13 +7,13 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatMenuModule} from '@angular/material/menu';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatTabsModule} from '@angular/material/tabs';
+import {ScrollingModule} from '@angular/cdk/scrolling';
 
 import {MatDividerModule} from '@angular/material/divider';
 import {MatSelectModule} from '@angular/material/select';
 import {MatButtonToggleModule} from '@angular/material/button-toggle';
 
 import {MatSliderModule} from '@angular/material/slider';
-import {ScrollingModule} from '@angular/cdk/scrolling';
 
     /*,
     MatSidenavModule,
@@ -34,7 +34,8 @@ import {ScrollingModule} from '@angular/cdk/scrolling';
     MatButtonModule,
     MatMenuModule,
     MatSidenavModule,
-    MatTabsModule
+    MatTabsModule,
+    ScrollingModule
   ],
 
   declarations: [

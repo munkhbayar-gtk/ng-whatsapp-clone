@@ -31,6 +31,7 @@ export class MatIconCustomModule {
     this.addIcon('sticker', 'sticker');
     this.addIcon('gif', 'gif');
     this.addIcon('close', 'close');
+    this.addIcon('clock', 'clock');
   }
   private addIcon(name : string, file: string) {
     this.matIconRegistry.addSvgIcon(name, this.path(file));

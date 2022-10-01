@@ -1,18 +1,32 @@
 <div id="media-panel-container">
   <div id="tabs">
     <mat-tab-group
+      (click)="trackTabMouseClicking($event)"
+      style="width: 100%"
       [disableRipple]="true"
       mat-stretch-tabs
-      selectedIndex="0"
-      animationDuration="0ms" style="width: 100%"
+      animationDuration="0ms"
+      #tabGroup
+      (selectedTabChange)="onTabSelection($event, tabInsertable ? tabGroup._allTabs.length - 1 : -1, tabGroup)"
       >
-      <mat-tab *ngFor="let tab of [].constructor(max(tabIcons.length, tabTexts.length)); index as i, first as isFirst; last as isLast">
+      <mat-tab tabindex="{{i}}" *ngFor="let tab of [].constructor(max(tabIcons.length, tabTexts.length)); index as i, first as isFirst; last as isLast">
         <ng-template mat-tab-label>
           <mat-icon *ngIf="i < tabIcons.length" svgIcon="{{tabIcons[i]}}"></mat-icon>
           <span *ngIf="i < tabTexts.length">{{tabTexts[i]}}</span>
         </ng-template>
       </mat-tab>
+      <mat-tab  #tabInsertion *ngIf="tabInsertable" style="width: 100%; background-color: green">
+        <ng-template mat-tab-label >
+          <mat-icon>control_point</mat-icon>
+        </ng-template>
+      </mat-tab>
     </mat-tab-group>
   </div>
-  <div id="emoji-selectors-container"></div>
+  <div #viewportScroller
+  class="v-scrollbar" (scroll)="onViewportScroller($event)"  style="flex: 1; overflow-y: auto;">
+    <div [attr.index]="i"  style="height: 300px; background-color: aqua;"
+      *ngFor="let tab of [].constructor(max(tabIcons.length, tabTexts.length) + (tabInsertable ? 1 : 0)); index as i,">
+        Tab Content {{i}}
+      </div>
+  </div>
 </div>
