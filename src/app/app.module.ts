@@ -16,8 +16,9 @@ import { AppComponent } from './app.component';
 import {SearchBoxComponent} from './components/search-box/search-box.component';
 import { ProfileBoxComponent } from './components/profile-box/profile-box.component';
 import { CreateChatPanelComponent } from './components/create-chat-panel/create-chat-panel.component';
+import { ChatMessageComponent } from './components/chat/chat-message/chat-message.component';
 import { NgInitDirective } from './directives/NgInit.directive';
-import { ChatPanelComponent } from './components/chat-panel/chat-panel.component';
+import { ChatPanelComponent } from './components/chat/chat-panel/chat-panel.component';
 import { HttpClientModule } from '@angular/common/http';
 import { MediaPanelComponent } from './components/emoji/media-panel/media-panel.component';
 
@@ -29,6 +30,8 @@ import { MediaPanelComponent } from './components/emoji/media-panel/media-panel.
     CreateChatPanelComponent,
     BuddyBoxComponent,
     ChatPanelComponent,
+    ChatMessageComponent,
+
     MatIconCircleButtonComponent,
 
     MediaPanelComponent,

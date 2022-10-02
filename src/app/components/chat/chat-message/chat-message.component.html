@@ -1,0 +1,53 @@
+<div id="recv-chat-message-container">
+  <div id="chat-box-container">
+    <div id="chat-message-container" >
+      <span id="top-left-tri"></span>
+      <div id="chat-message-area" >
+        <div id="message-area">
+          <p id="chat-message">
+            {{data.text}}
+          </p>
+          <span id="chat-time">{{data.date | date: 'hh:mm'}}</span>
+        </div>
+      </div>
+      <span id="chat-menu-anchor"
+        #chatMenuTriggerElement
+        [ngClass]="{'active' : chatMenuState}"
+        (menuClosed)="chatMenuState = false"
+        (menuOpened)="chatMenuState = true"
+        [matMenuTriggerFor]="chatMenu">
+        <mat-icon >keyboard_arrow_down</mat-icon>
+      </span>
+      <mat-menu class="mat-menu-custom"  panelClass="mat-menu-custom" #chatMenu="matMenu" xPosition="after">
+        <button mat-menu-item>
+          <span>Reply</span>
+        </button>
+        <button mat-menu-item>
+          <span>React to message</span>
+        </button>
+        <button mat-menu-item>
+          <span>Forward message</span>
+        </button>
+        <button mat-menu-item>
+          <span>Report</span>
+        </button>
+        <button mat-menu-item>
+          <span>Delete message</span>
+        </button>
+      </mat-menu>
+    </div>
+
+    <div *ngIf="data.isYesNo" id="chat-message-action-container">
+      Yes / No
+    </div>
+  </div>
+
+</div>
+
+<!--
+<div id="send-chat-message-container">
+
+  <div id="chat-message" style="border-radius: 15px"></div>
+
+</div>
+-->
