@@ -1,13 +1,101 @@
+
+#chat-box-container{
+  flex: 1;
+  max-width: 75%;
+}
+#chat-message-area{
+  display: flex;
+  align-items: center;
+}
+#chat-message {
+  text-align: justify;
+  margin: 0 0 0 0 ;
+  padding: 5px 5px 5px 5px;
+}
+#message-area{
+  display: flex;
+  flex-direction: column;
+  justify-items: flex-end;
+  padding: 6px 7px 8px 8px;
+}
+#chat-time {
+  width: auto;
+  text-align: right;
+  display: inline-block;
+}
+#send-chat-message-container{
+  padding: 5px 5px 5px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  #top-right-tri {
+    border-top: 10px solid #d9fdd3;
+    border-right: 8px solid transparent;
+    background-color: transparent;
+  }
+  #chat-message-container{
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    flex-direction: row;
+  }
+  #chat-message-area {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #d9fdd3;
+
+    display: flex;
+    flex-direction: row;
+  }
+
+  #chat-menu-anchor {
+    background: radial-gradient(
+      at top right,
+        rgba(#d9fdd3,1) 60%,
+        rgba(#d9fdd3,0) 80%);
+  }
+
+  #chat-menu-anchor.active {
+    transform: translateX(-130%);
+    opacity: 1;
+  }
+  #chat-message-container:hover {
+    #chat-menu-anchor {
+      color: #667781;
+      font-size: 30px;
+      opacity: 1;
+      transform: translateX(-130%);
+      transition: 0.15s ease-in-out;
+    }
+
+    app-chat-emoji-button {
+      opacity: 1;
+    }
+
+  }
+
+}
+#emoji-button-container{
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+}
+#chat-message-container{
+  display: flex;
+  flex-direction: row;
+  app-chat-emoji-button.active {
+    opacity: 1;
+  }
+  app-chat-emoji-button {
+    opacity: 0;
+  }
+}
 #recv-chat-message-container {
   padding: 5px 5px 5px 5px;
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
 
-  #chat-box-container{
-    flex: 1;
-    max-width: 75%;
-  }
   #top-left-tri {
     border-top: 10px solid white;
     border-left: 8px solid transparent;
@@ -15,7 +103,7 @@
   }
   #chat-message-action-container{
     margin-left: 15px;
-    margin-right: 40px;
+    margin-right: 50px;
     background-color: gray;
   }
   #chat-message-container{
@@ -26,36 +114,8 @@
       transform: translateX(-120%);
       opacity: 1;
     }
-    #chat-menu-anchor{
-      transform: translateX(-50%);
-      opacity: 0;
-      height: 30px;
-      width: 80px;
-      margin-top: 5px;
-      margin-right: 5px;
-      border-radius: 10px;
-      cursor: pointer;
-      z-index: 800;
-      display: flex;
-      justify-content: flex-end;
-      background: radial-gradient(
-        at top right,
-          rgba(rgb(255, 255, 255),1) 60%,
-          rgba(rgb(119, 66, 66),0) 80%);
-      mat-icon {
-        opacity: 0.8;
-      }
-    }
   }
-  #chat-message-container:hover {
-    #chat-menu-anchor {
-      color: #667781;
-      font-size: 30px;
-      opacity: 1;
-      transform: translateX(-120%);
-      transition: 0.15s ease-in-out;
-    }
-  }
+
   #chat-message-area {
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -66,22 +126,41 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+  }
 
-    #message-area{
-      display: flex;
-      flex-direction: column;
-      justify-items: flex-end;
-      padding: 6px 7px 8px 8px;
-      #chat-message {
-        text-align: justify;
-        margin: 0 0 0 0 ;
-        padding: 5px 5px 5px 5px;
-      }
-      #chat-time {
-        width: auto;
-        text-align: right;
-        display: inline-block;
-      }
-    }
+  #emoji-button-container {
+    margin-left: -50px;
+    padding-left: 15px;
+  }
+}
+#chat-message-container:hover {
+  #chat-menu-anchor {
+    color: #667781;
+    font-size: 30px;
+    opacity: 1;
+    transform: translateX(-120%);
+    transition: 0.15s ease-in-out;
+  }
+  app-chat-emoji-button {
+    opacity: 1;
+  }
+}
+#chat-menu-anchor{
+  transform: translateX(-50%);
+  opacity: 0;
+  height: 30px;
+  width: 80px;
+  margin-top: 5px;
+  margin-right: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+  background: radial-gradient(
+    at top right,
+      rgba(rgb(255, 255, 255),1) 60%,
+      rgba(rgb(255, 255, 255),0) 80%);
+  mat-icon {
+    opacity: 0.8;
   }
 }

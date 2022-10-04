@@ -8,7 +8,7 @@ import {MatMenuModule} from '@angular/material/menu';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatTabsModule} from '@angular/material/tabs';
 import {ScrollingModule} from '@angular/cdk/scrolling';
-
+import {OverlayModule} from '@angular/cdk/overlay';
 import {MatDividerModule} from '@angular/material/divider';
 import {MatSelectModule} from '@angular/material/select';
 import {MatButtonToggleModule} from '@angular/material/button-toggle';
@@ -35,7 +35,8 @@ import {MatSliderModule} from '@angular/material/slider';
     MatMenuModule,
     MatSidenavModule,
     MatTabsModule,
-    ScrollingModule
+    ScrollingModule,
+    OverlayModule
   ],
 
   declarations: [

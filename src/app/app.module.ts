@@ -1,3 +1,5 @@
+import { QuickActionMenuItemComponent } from './components/menu/quick-action-menu-item/quick-action-menu-item.component';
+import { QuickActionMenuComponent } from './components/menu/quick-action-menu/quick-action-menu.component';
 
 import { MatIconCustomModule } from './mat-icon-custom.module';
 import { TabMatIconComponent } from './components/tab-mat-icon/tab-mat-icon.component';
@@ -21,6 +23,7 @@ import { NgInitDirective } from './directives/NgInit.directive';
 import { ChatPanelComponent } from './components/chat/chat-panel/chat-panel.component';
 import { HttpClientModule } from '@angular/common/http';
 import { MediaPanelComponent } from './components/emoji/media-panel/media-panel.component';
+import { ChatEmojiButtonComponent } from './components/chat/chat-emoji-button/chat-emoji-button.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +34,10 @@ import { MediaPanelComponent } from './components/emoji/media-panel/media-panel.
     BuddyBoxComponent,
     ChatPanelComponent,
     ChatMessageComponent,
+    ChatEmojiButtonComponent,
+
+    QuickActionMenuComponent,
+    QuickActionMenuItemComponent,
 
     MatIconCircleButtonComponent,
 

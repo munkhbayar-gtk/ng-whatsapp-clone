@@ -9,8 +9,8 @@ import { MatMenu, MatMenuTrigger } from '@angular/material/menu';
 })
 export class ChatMessageComponent implements OnInit {
 
-
   chatMenuState : boolean | null;
+  anchorState : boolean | null;
 
   @Input("data")
   data : ChatMessage
