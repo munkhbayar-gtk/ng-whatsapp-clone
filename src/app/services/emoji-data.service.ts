@@ -1,13 +1,57 @@
-// This file can be replaced during build by using the `fileReplacements` array.
-// `ng build` replaces `environment.ts` with `environment.prod.ts`.
-// The list of file replacements can be found in `angular.json`.
+import { Injectable } from '@angular/core';
 
-export const environment = {
-  production: false
-};
+export interface EmojiData {
+  idx : number,
+  url: string,
+  posX: number,
+  posY: number
+}
+@Injectable({
+  providedIn: 'root'
+})
+export class EmojiDataService {
+  private n = 25;
+  private m = 25;
+  private data : Map<string, EmojiData>;
+  constructor() {
+    this.prepareData();
+  }
 
-export const emojis = {
-  urls: [
+  private prepareData() {
+    this.data = new Map();
+    for(let i = 0 ; i < this.urls.length; i ++) {
+      const url = this.urls[i];
+      this.extractUrl(url, i);
+    }
+  }
+
+  private extractUrl(url : string, idx : number) {
+    for(let i = 0 ; i < this.n ; i ++) {
+      for(let j = 0 ; j < this.m ; j ++){
+        const key = this.key(idx, i, j);//`${idx}_${i}_${j}`;
+        const emojiData : EmojiData = {
+          idx : idx,
+          posX : j * -40,
+          posY : i * -40,
+          url: url,
+        }
+        this.data.set(key, emojiData);
+      }
+    }
+  }
+
+  private key(idx: number, i : number, j : number) : string {
+    return `${idx}_${i}_${j}`;
+  }
+
+  getEmoji(idx : number, subIdx : number) : EmojiData | undefined {
+    const i = Math.floor(subIdx / this.n);
+    const j = subIdx % this.m;
+    const k = this.key(idx, i, j);
+    return this.data.get(k);
+  }
+
+  private urls = [
       "https://web.whatsapp.com/img/emoji-0-40_5acfb0b.webp",
       "https://web.whatsapp.com/img/emoji-1-40_8b08ff4.webp",
       "https://web.whatsapp.com/img/emoji-2-40_ed53db9.webp",
@@ -145,11 +189,3 @@ export const emojis = {
       "https://web.whatsapp.com/img/emoji-136-40_8b99645.webp",
   ]
 }
-/*
- * For easier debugging in development mode, you can import the following file
- * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
- *
- * This import should be commented out in production mode because it will have a negative impact
- * on performance if an error is thrown.
- */
-// import 'zone.js/plugins/zone-error';  // Included with Angular CLI.

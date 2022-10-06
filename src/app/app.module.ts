@@ -1,3 +1,4 @@
+import { EmojiComponent } from './components/emoji/emoji/emoji.component';
 import { QuickActionMenuItemComponent } from './components/menu/quick-action-menu-item/quick-action-menu-item.component';
 import { QuickActionMenuComponent } from './components/menu/quick-action-menu/quick-action-menu.component';
 
@@ -35,6 +36,7 @@ import { ChatEmojiButtonComponent } from './components/chat/chat-emoji-button/ch
     ChatPanelComponent,
     ChatMessageComponent,
     ChatEmojiButtonComponent,
+    EmojiComponent,
 
     QuickActionMenuComponent,
     QuickActionMenuItemComponent,
@@ -45,7 +47,8 @@ import { ChatEmojiButtonComponent } from './components/chat/chat-emoji-button/ch
     MediaSelectorComponent,
     TabMatIconComponent,
 
-    NgInitDirective
+    NgInitDirective,
+
   ],
   imports: [
     BrowserModule,
