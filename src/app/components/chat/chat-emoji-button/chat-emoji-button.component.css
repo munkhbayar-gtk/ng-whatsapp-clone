@@ -9,8 +9,8 @@
   justify-items: center;
   justify-content: center;
 
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
 
   cursor: pointer;
   opacity: 0.8;
@@ -19,10 +19,10 @@
   position: fixed;
   opacity: 0;
   height: 40px;
+  z-index: -1;
 }
 #menu-items-container.active {
   position: fixed;
   opacity: 1;
   z-index: 10000;
-  background-color: gray;
 }

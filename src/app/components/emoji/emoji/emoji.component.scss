@@ -1,4 +1,10 @@
 .emoji-img {
   height: 40px;
-  height: 40px;
+  width: 40px;
+  image-rendering: -webkit-optimize-contrast;
+  border: 0px solid white;
+  border-radius: 3px;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
 }

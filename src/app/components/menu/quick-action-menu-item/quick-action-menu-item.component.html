@@ -1,3 +1,5 @@
-<div id="quick-menu-item-icon-container">
-  <app-emoji (idx)="0" (subIdx)="1"></app-emoji>
+<div id="quick-menu-item-icon-container"
+  (click)="_handleClick($event)">
+  <app-emoji *ngIf="iconType == 'img'" [scale]="0.75" [idx]="idx" [subIdx]="subIdx"></app-emoji>
+  <mat-icon *ngIf="iconType == 'mat-icon'">{{imgSrc}}</mat-icon>
 </div>

@@ -2,14 +2,18 @@
   *ngIf="data.dir == 's'"
 >
   <div id="chat-box-container">
-    <div id="chat-message-container" >
-      <div id="emoji-button-container">
-        <app-chat-emoji-button
-          *ngIf="chatMenuState"
-          [ngClass]="{'active' : chatMenuState}"
-        ></app-chat-emoji-button>
-      </div>
+    <div id="chat-message-container"
+      (mouseover)="anchorState=true"
+      (mouseleave)="anchorState=false;"
+    >
+    <div id="emoji-button-container">
+      <app-chat-emoji-button
+        #sChatEmojiBtn
+        (initialState)="false && true && anchorState"
+        [ngClass]="{'active' : anchorState || sChatEmojiBtn.openState}"
 
+      ></app-chat-emoji-button>
+    </div>
       <div id="chat-message-area" >
         <div id="message-area">
           <p id="chat-message">

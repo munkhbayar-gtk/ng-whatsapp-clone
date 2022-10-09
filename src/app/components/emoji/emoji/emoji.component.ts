@@ -15,6 +15,8 @@ export class EmojiComponent implements OnInit {
   @Input("idx")
   idx : number = 0;
 
+  @Input("scale")
+  scale : number = 0.8;
   private _emojiData : EmojiData;
 
   get emojiData() : EmojiData {
@@ -27,10 +29,15 @@ export class EmojiComponent implements OnInit {
     this.redraw();
   }
 
+  ngAfterViewInit(){
+    this.redraw();
+  }
+
   ngOnChanges() {
     this.redraw();
   }
   private redraw() {
+    console.log('redraw', this.idx, this.subIdx);
     const data = this.emojiService.getEmoji(this.idx, this.subIdx);
     this._emojiData = data !!;
   }

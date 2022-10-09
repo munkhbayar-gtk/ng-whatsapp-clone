@@ -15,11 +15,19 @@
 -->
 <div id="menu-items-container"
   [ngClass]="{'active':openState}"
-  [ngStyle]="{'top': (mYCord-45) + 'px', 'left' : (mXCord-50)+'px'}"
+  [ngStyle]="mXCord > -1 ? {'top': (mYCord-45) + 'px', 'left' : (mXCord-getActionMenuWidth(quickActionMenu) * 0.5)+'px'} : {}"
 >
-  <app-quick-action-menu></app-quick-action-menu>
+<app-quick-action-menu (onItemSelected)="onQuickMenuItemSelected($event)" #quickActionMenu [animationState]="openState">
+  <app-quick-action-menu-item [idx]="38" [subIdx]="10"></app-quick-action-menu-item>
+  <app-quick-action-menu-item [idx]="7" [subIdx]="24"></app-quick-action-menu-item>
+  <app-quick-action-menu-item [idx]="82" [subIdx]="17"></app-quick-action-menu-item>
+  <app-quick-action-menu-item [idx]="83" [subIdx]="24"></app-quick-action-menu-item>
+  <app-quick-action-menu-item [idx]="88" [subIdx]="18"></app-quick-action-menu-item>
+  <app-quick-action-menu-item [idx]="-2" [iconType]="'mat-icon'" [imgSrc]="'add'"></app-quick-action-menu-item>
+</app-quick-action-menu>
 </div>
 <div id="emoji-button-container"
+  #clickTrigger
 >
   <mat-icon>insert_emoticon</mat-icon>
 </div>

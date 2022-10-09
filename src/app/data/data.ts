@@ -6,3 +6,7 @@ export interface ChatMessage {
   isYesNo : boolean,
   answered: boolean
 }
+export interface Conversation {
+  userId: string,
+  lastMessage : ChatMessage,
+}

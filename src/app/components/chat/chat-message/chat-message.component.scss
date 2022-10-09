@@ -37,6 +37,7 @@
     padding: 5px 5px 5px 5px;
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
   }
   #chat-message-area {
     border-top-right-radius: 0px;
@@ -74,7 +75,10 @@
     }
 
   }
-
+  #emoji-button-container {
+    margin-left: -50px;
+    padding-left: 15px;
+  }
 }
 #emoji-button-container{
   background-color: transparent;
@@ -149,13 +153,16 @@
   transform: translateX(-50%);
   opacity: 0;
   height: 30px;
-  width: 80px;
+  width: 30px;
+  max-width: 30px;
+  min-width: 30px;
   margin-top: 5px;
   margin-right: 5px;
   border-radius: 10px;
   cursor: pointer;
   display: flex;
   justify-content: flex-end;
+  background-color: gray;
   background: radial-gradient(
     at top right,
       rgba(rgb(255, 255, 255),1) 60%,

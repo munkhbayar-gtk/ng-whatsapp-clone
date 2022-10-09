@@ -1,4 +1,6 @@
-<div id="quick-action-menu-items-container">
-
-  <app-quick-action-menu-item></app-quick-action-menu-item>
+<div #quickActionMenuContainer
+  class="quick-action-menu-items-container"
+  [ngClass]="dir == 'horizontal' ? 'horizontal' : 'vertical'"
+  [style]="getStyle(50)"
+  >
 </div>

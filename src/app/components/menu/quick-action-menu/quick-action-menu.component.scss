@@ -1,0 +1,16 @@
+.quick-action-menu-items-container {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50px;
+
+  box-shadow: 0 2px 30px rgba(0,0,0,.2);
+}
+.horizontal {
+  justify-content: space-around;
+}
+.vertical {
+  align-content: space-around;
+}
+

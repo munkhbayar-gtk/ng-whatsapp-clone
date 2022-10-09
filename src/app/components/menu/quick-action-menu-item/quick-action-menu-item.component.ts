@@ -1,8 +1,13 @@
-import { Component, OnInit,Input } from '@angular/core';
+import { Component, OnInit,Input, ElementRef,Output,EventEmitter } from '@angular/core';
 
 enum IconType {
   IMG,
+  MAT_ICON,
   SVG
+}
+
+export interface QuickMenuItemSelectedListener {
+  onSelected (item : QuickActionMenuItemComponent) : void
 }
 
 @Component({
@@ -12,14 +17,32 @@ enum IconType {
 })
 export class QuickActionMenuItemComponent implements OnInit {
 
-  @Input('iconType')
-  iconType : IconType = IconType.IMG;
+  @Input('idx')
+  idx : number = -1;
 
+  @Input('subIdx')
+  subIdx : number = -1;
+
+  @Input('iconType')
+  iconType = 'img' ;
+  //iconType : IconType = IconType.IMG;
+
+  @Input('imgSrc')
   imgSrc : string = '';
 
-  constructor() { }
+  itemSelection : QuickMenuItemSelectedListener;
+
+  constructor(public elementRef : ElementRef<HTMLElement>) { }
 
   ngOnInit() {
   }
 
+  _handleClick(event: Event) {
+    console.log('clicked', this.idx, this.subIdx);
+    event.preventDefault();
+    event.stopPropagation();
+    if(this.itemSelection) {
+      this.itemSelection.onSelected(this);
+    }
+  }
 }
