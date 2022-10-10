@@ -26,7 +26,7 @@
   class="v-scrollbar" (scroll)="onViewportScroller($event)"  style="flex: 1; overflow-y: auto;">
     <div [attr.index]="i"  style="height: 300px; background-color: aqua;"
       *ngFor="let tab of [].constructor(max(tabIcons.length, tabTexts.length) + (tabInsertable ? 1 : 0)); index as i,">
-        Tab Content {{i}}
+        <app-media-selector [media-index]="i"></app-media-selector>
       </div>
   </div>
 </div>

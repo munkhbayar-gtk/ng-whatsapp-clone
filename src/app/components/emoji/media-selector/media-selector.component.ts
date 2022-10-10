@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-media-selector',
@@ -7,9 +7,22 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MediaSelectorComponent implements OnInit {
 
+  @Input('media-index')
+  mediaIndex : number = 0;
+
   constructor() { }
 
   ngOnInit() {
   }
 
+  private emojiTabMap = [
+    [
+      {82: []},
+      {98: []},
+      {106: []},
+      {3: []},
+      {83: []},
+      {82: []},
+    ]
+  ]
 }
