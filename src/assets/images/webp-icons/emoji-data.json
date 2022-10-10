@@ -2,71 +2,83 @@
   [
     "🤥",
     "0",
+    "24",
     "b98",
     "background-position: -128px -128px;"
   ],
   [
     "😶",
     "1",
+    "21",
     "b84",
     "background-position: -32px -128px;"
   ],
   [
     "🫥",
     "2",
+    "12",
     "b13",
     "background-position: -64px -64px;"
   ],
   [
     "😐",
     "3",
+    "6",
     "b83",
     "background-position: -32px -32px;"
   ],
   [
     "🫤",
     "4",
+    "11",
     "b13",
     "background-position: -32px -64px;"
   ],
   [
     "😑",
     "5",
+    "7",
     "b83",
     "background-position: -64px -32px;"
   ],
   [
     "😬",
     "6",
+    "9",
     "b84",
     "background-position: -128px -32px;"
   ],
   [
     "🙄",
     "7",
+    "11",
     "b85",
     "background-position: -32px -64px;"
   ],
   [
     "😯",
     "8",
+    "13",
     "b84",
     "background-position: -96px -64px;"
   ],
   [
     "😦",
     "9",
+    "3",
     "b84",
     "background-position: -96px 0px;"
   ],
   [
     "😧",
     "10",
+    "4",
     "b84",
     "background-position: -128px 0px;"
   ],
   [
     "😮",
+    "11",
     "11",
     "b84",
     "background-position: -32px -64px;"
@@ -74,269 +86,314 @@
   [
     "😲",
     "12",
+    "16",
     "b84",
     "background-position: -32px -96px;"
   ],
   [
     "🥱",
     "13",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "😴",
     "14",
+    "18",
     "b84",
     "background-position: -96px -96px;"
   ],
   [
     "🤤",
     "15",
+    "23",
     "b98",
     "background-position: -96px -128px;"
   ],
   [
     "😪",
     "16",
+    "7",
     "b84",
     "background-position: -64px -32px;"
   ],
   [
     "😮‍💨",
     "17",
+    "12",
     "b84",
     "background-position: -64px -64px;"
   ],
   [
     "😵",
     "18",
+    "19",
     "b84",
     "background-position: -128px -96px;"
   ],
   [
     "😵‍💫",
     "19",
+    "20",
     "b84",
     "background-position: 0px -128px;"
   ],
   [
     "🤐",
     "20",
+    "13",
     "b96",
     "background-position: -96px -64px;"
   ],
   [
     "🥴",
     "21",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🤢",
     "22",
+    "21",
     "b98",
     "background-position: -32px -128px;"
   ],
   [
     "🤮",
     "23",
+    "19",
     "b99",
     "background-position: -128px -96px;"
   ],
   [
     "😀",
     "0",
+    "15",
     "b82",
     "background-position: 0px -96px;"
   ],
   [
     "😃",
     "1",
+    "18",
     "b82",
     "background-position: -96px -96px;"
   ],
   [
     "😄",
     "2",
+    "19",
     "b82",
     "background-position: -128px -96px;"
   ],
   [
     "😁",
     "3",
+    "16",
     "b82",
     "background-position: -32px -96px;"
   ],
   [
     "😆",
     "4",
+    "21",
     "b82",
     "background-position: -32px -128px;"
   ],
   [
     "🥹",
     "5",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "😅",
     "6",
+    "20",
     "b82",
     "background-position: 0px -128px;"
   ],
   [
     "😂",
     "7",
+    "17",
     "b82",
     "background-position: -64px -96px;"
   ],
   [
     "🤣",
     "8",
+    "22",
     "b98",
     "background-position: -64px -128px;"
   ],
   [
     "🥲",
     "9",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "☺️",
     "10",
+    "3",
     "b3 ",
     "background-position: -96px 0px;"
   ],
   [
     "😊",
     "11",
+    "0",
     "b83",
     "background-position: 0px 0px;"
   ],
   [
     "😇",
     "12",
+    "22",
     "b82",
     "background-position: -64px -128px;"
   ],
   [
     "🙂",
     "13",
+    "9",
     "b85",
     "background-position: -128px -32px;"
   ],
   [
     "🙃",
     "14",
+    "10",
     "b85",
     "background-position: 0px -64px;"
   ],
   [
     "😉",
     "15",
+    "24",
     "b82",
     "background-position: -128px -128px;"
   ],
   [
     "😌",
     "16",
+    "2",
     "b83",
     "background-position: -64px 0px;"
   ],
   [
     "😍",
     "17",
+    "3",
     "b83",
     "background-position: -96px 0px;"
   ],
   [
     "🥰",
     "18",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "😘",
     "19",
+    "14",
     "b83",
     "background-position: -128px -64px;"
   ],
   [
     "😗",
     "20",
+    "13",
     "b83",
     "background-position: -96px -64px;"
   ],
   [
     "😙",
     "21",
+    "15",
     "b83",
     "background-position: 0px -96px;"
   ],
   [
     "😚",
     "22",
+    "16",
     "b83",
     "background-position: -32px -96px;"
   ],
   [
     "😋",
     "23",
+    "1",
     "b83",
     "background-position: -32px 0px;"
   ],
   [
     "🫳",
     "0",
+    "3",
     "b13",
     "background-position: -96px 0px;"
   ],
   [
     "🫴",
     "1",
+    "9",
     "b13",
     "background-position: -128px -32px;"
   ],
   [
     "👈",
     "2",
+    "5",
     "b37",
     "background-position: 0px -32px;"
   ],
   [
     "👉",
     "3",
+    "11",
     "b37",
     "background-position: -32px -64px;"
   ],
   [
     "👆",
     "4",
+    "18",
     "b36",
     "background-position: -96px -96px;"
   ],
   [
     "👇",
     "5",
+    "24",
     "b36",
     "background-position: -128px -128px;"
   ],
   [
     "☝️",
     "6",
+    "18",
     "b2 ",
     "background-position: -96px -96px;"
   ],
   [
     "✋",
     "7",
+    "13",
     "b6 ",
     "background-position: -96px -64px;"
   ],
   [
     "🤚",
+    "8",
     "8",
     "b97",
     "background-position: -96px -32px;"
@@ -344,155 +401,181 @@
   [
     "🖐️",
     "9",
+    "1",
     "b81",
     "background-position: -32px 0px;"
   ],
   [
     "🖖",
     "10",
+    "8",
     "b81",
     "background-position: -96px -32px;"
   ],
   [
     "👋",
     "11",
+    "23",
     "b37",
     "background-position: -96px -128px;"
   ],
   [
     "🤙",
     "12",
+    "2",
     "b97",
     "background-position: -64px 0px;"
   ],
   [
     "🫲",
     "13",
+    "22",
     "b13",
     "background-position: -64px -128px;"
   ],
   [
     "🫱",
     "14",
+    "21",
     "b13",
     "background-position: -32px -128px;"
   ],
   [
     "💪",
     "15",
+    "3",
     "b72",
     "background-position: -96px 0px;"
   ],
   [
     "🦾",
     "16",
+    "6",
     "b11",
     "background-position: -32px -32px;"
   ],
   [
     "🖕",
     "17",
+    "2",
     "b81",
     "background-position: -64px 0px;"
   ],
   [
     "✍️",
     "18",
+    "5",
     "b7 ",
     "background-position: 0px -32px;"
   ],
   [
     "🙏",
     "19",
+    "18",
     "b88",
     "background-position: -96px -96px;"
   ],
   [
     "🫵",
     "20",
+    "15",
     "b13",
     "background-position: 0px -96px;"
   ],
   [
     "🦶",
     "21",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "🦵",
     "22",
+    "10",
     "b10",
     "background-position: 0px -64px;"
   ],
   [
     "🦿",
     "23",
+    "7",
     "b11",
     "background-position: -64px -32px;"
   ],
   [
     "😽",
     "0",
+    "4",
     "b85",
     "background-position: -128px 0px;"
   ],
   [
     "🙀",
     "1",
+    "7",
     "b85",
     "background-position: -64px -32px;"
   ],
   [
     "😿",
     "2",
+    "6",
     "b85",
     "background-position: -32px -32px;"
   ],
   [
     "😾",
     "3",
+    "5",
     "b85",
     "background-position: 0px -32px;"
   ],
   [
     "🫶",
     "4",
+    "21",
     "b13",
     "background-position: -32px -128px;"
   ],
   [
     "🤲",
     "5",
+    "8",
     "b10",
     "background-position: -96px -32px;"
   ],
   [
     "👐",
     "6",
+    "3",
     "b39",
     "background-position: -96px 0px;"
   ],
   [
     "🙌",
     "7",
+    "13",
     "b87",
     "background-position: -96px -64px;"
   ],
   [
     "👏",
     "8",
+    "22",
     "b38",
     "background-position: -64px -128px;"
   ],
   [
     "🤝",
     "9",
+    "1",
     "b98",
     "background-position: -32px 0px;"
   ],
   [
     "👍",
+    "10",
     "10",
     "b38",
     "background-position: 0px -64px;"
@@ -500,23 +583,27 @@
   [
     "👎",
     "11",
+    "16",
     "b38",
     "background-position: -32px -96px;"
   ],
   [
     "👊",
     "12",
+    "17",
     "b37",
     "background-position: -64px -96px;"
   ],
   [
     "✊",
     "13",
+    "7",
     "b6 ",
     "background-position: -64px -32px;"
   ],
   [
     "🤛",
+    "14",
     "14",
     "b97",
     "background-position: -128px -64px;"
@@ -524,83 +611,97 @@
   [
     "🤜",
     "15",
+    "20",
     "b97",
     "background-position: 0px -128px;"
   ],
   [
     "🤞",
     "16",
+    "7",
     "b98",
     "background-position: -64px -32px;"
   ],
   [
     "✌️",
     "17",
+    "24",
     "b6 ",
     "background-position: -128px -128px;"
   ],
   [
     "🫰",
     "18",
+    "15",
     "b13",
     "background-position: 0px -96px;"
   ],
   [
     "🤟",
     "19",
+    "13",
     "b98",
     "background-position: -96px -64px;"
   ],
   [
     "🤘",
     "20",
+    "21",
     "b96",
     "background-position: -32px -128px;"
   ],
   [
     "👌",
     "21",
+    "4",
     "b38",
     "background-position: -128px 0px;"
   ],
   [
     "🤌",
     "22",
+    "24",
     "b95",
     "background-position: -128px -128px;"
   ],
   [
     "🤏",
     "23",
+    "7",
     "b96",
     "background-position: -64px -32px;"
   ],
   [
     "🧑",
     "0",
+    "1",
     "b11",
     "background-position: -32px 0px;"
   ],
   [
     "👨",
     "1",
+    "17",
     "b40",
     "background-position: -64px -96px;"
   ],
   [
     "👩‍🦱",
     "2",
+    "13",
     "b51",
     "background-position: -96px -64px;"
   ],
   [
     "🧑‍🦱",
     "3",
+    "23",
     "b11",
     "background-position: -96px -128px;"
   ],
   [
     "👨‍🦱",
+    "4",
     "4",
     "b42",
     "background-position: -128px 0px;"
@@ -608,479 +709,559 @@
   [
     "👩‍🦰",
     "5",
+    "12",
     "b51",
     "background-position: -64px -64px;"
   ],
   [
     "🧑‍🦰",
     "6",
+    "22",
     "b11",
     "background-position: -64px -128px;"
   ],
   [
     "👨‍🦰",
     "7",
+    "3",
     "b42",
     "background-position: -96px 0px;"
   ],
   [
     "👱‍♀️",
     "8",
+    "19",
     "b64",
     "background-position: -128px -96px;"
   ],
   [
     "👱‍♂️",
     "9",
+    "20",
     "b64",
     "background-position: 0px -128px;"
   ],
   [
     "👩‍🦳",
     "10",
+    "15",
     "b51",
     "background-position: 0px -96px;"
   ],
   [
     "🧑‍🦳",
     "11",
+    "0",
     "b11",
     "background-position: 0px 0px;"
   ],
   [
     "👨‍🦳",
     "12",
+    "6",
     "b42",
     "background-position: -32px -32px;"
   ],
   [
     "👩‍🦲",
     "13",
+    "14",
     "b51",
     "background-position: -128px -64px;"
   ],
   [
     "🧑‍🦲",
     "14",
+    "24",
     "b11",
     "background-position: -128px -128px;"
   ],
   [
     "👨‍🦲",
     "15",
+    "5",
     "b42",
     "background-position: 0px -32px;"
   ],
   [
     "🧔‍♀️",
     "16",
+    "11",
     "b12",
     "background-position: -32px -64px;"
   ],
   [
     "🧔",
     "17",
+    "10",
     "b12",
     "background-position: 0px -64px;"
   ],
   [
     "🧔‍♂️",
     "18",
+    "12",
     "b12",
     "background-position: -64px -64px;"
   ],
   [
     "👵",
     "19",
+    "5",
     "b66",
     "background-position: 0px -32px;"
   ],
   [
     "🧓",
     "20",
+    "4",
     "b12",
     "background-position: -128px 0px;"
   ],
   [
     "👴",
     "21",
+    "24",
     "b65",
     "background-position: -128px -128px;"
   ],
   [
     "👲",
     "22",
+    "6",
     "b65",
     "background-position: -32px -32px;"
   ],
   [
     "👳‍♀️",
     "23",
+    "12",
     "b65",
     "background-position: -64px -64px;"
   ],
   [
     "💄",
     "0",
+    "3",
     "b69",
     "background-position: -96px 0px;"
   ],
   [
     "💋",
     "1",
+    "12",
     "b70",
     "background-position: -64px -64px;"
   ],
   [
     "👄",
     "2",
+    "16",
     "b36",
     "background-position: -32px -96px;"
   ],
   [
     "🫦",
     "3",
+    "13",
     "b13",
     "background-position: -96px -64px;"
   ],
   [
     "🦷",
     "4",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "👅",
     "5",
+    "17",
     "b36",
     "background-position: -64px -96px;"
   ],
   [
     "👂",
     "6",
+    "4",
     "b36",
     "background-position: -128px 0px;"
   ],
   [
     "🦻",
     "7",
+    "23",
     "b11",
     "background-position: -96px -128px;"
   ],
   [
     "👃",
     "8",
+    "10",
     "b36",
     "background-position: 0px -64px;"
   ],
   [
     "👣",
     "9",
+    "2",
     "b40",
     "background-position: -64px 0px;"
   ],
   [
     "👁️",
     "10",
+    "2",
     "b36",
     "background-position: -64px 0px;"
   ],
   [
     "👀",
     "11",
+    "1",
     "b36",
     "background-position: -32px 0px;"
   ],
   [
     "🫀",
     "12",
+    "1",
     "b13",
     "background-position: -32px 0px;"
   ],
   [
     "🫁",
     "13",
+    "2",
     "b13",
     "background-position: -64px 0px;"
   ],
   [
     "🧠",
     "14",
+    "12",
     "b12",
     "background-position: -64px -64px;"
   ],
   [
     "🗣️",
     "15",
+    "5",
     "b82",
     "background-position: 0px -32px;"
   ],
   [
     "👤",
     "16",
+    "3",
     "b40",
     "background-position: -96px 0px;"
   ],
   [
     "👥",
     "17",
+    "4",
     "b40",
     "background-position: -128px 0px;"
   ],
   [
     "🫂",
     "18",
+    "3",
     "b13",
     "background-position: -96px 0px;"
   ],
   [
     "👶",
     "19",
+    "11",
     "b66",
     "background-position: -32px -64px;"
   ],
   [
     "👧",
     "20",
+    "11",
     "b40",
     "background-position: -32px -64px;"
   ],
   [
     "🧒",
     "21",
+    "23",
     "b12",
     "background-position: -96px -128px;"
   ],
   [
     "👦",
     "22",
+    "5",
     "b40",
     "background-position: 0px -32px;"
   ],
   [
     "👩",
     "23",
+    "4",
     "b50",
     "background-position: -128px 0px;"
   ],
   [
     "😛",
     "0",
+    "17",
     "b83",
     "background-position: -64px -96px;"
   ],
   [
     "😝",
     "1",
+    "19",
     "b83",
     "background-position: -128px -96px;"
   ],
   [
     "😜",
     "2",
+    "18",
     "b83",
     "background-position: -96px -96px;"
   ],
   [
     "🤪",
     "3",
+    "15",
     "b99",
     "background-position: 0px -96px;"
   ],
   [
     "🤨",
     "4",
+    "13",
     "b99",
     "background-position: -96px -64px;"
   ],
   [
     "🧐",
     "5",
+    "0",
     "b11",
     "background-position: 0px 0px;"
   ],
   [
     "🤓",
     "6",
+    "16",
     "b96",
     "background-position: -32px -96px;"
   ],
   [
     "😎",
     "7",
+    "4",
     "b83",
     "background-position: -128px 0px;"
   ],
   [
     "🥸",
     "8",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🤩",
     "9",
+    "14",
     "b99",
     "background-position: -128px -64px;"
   ],
   [
     "🥳",
     "10",
+    "18",
     "b10",
     "background-position: -96px -96px;"
   ],
   [
     "😏",
     "11",
+    "5",
     "b83",
     "background-position: 0px -32px;"
   ],
   [
     "😒",
     "12",
+    "8",
     "b83",
     "background-position: -96px -32px;"
   ],
   [
     "😞",
     "13",
+    "20",
     "b83",
     "background-position: 0px -128px;"
   ],
   [
     "😔",
     "14",
+    "10",
     "b83",
     "background-position: 0px -64px;"
   ],
   [
     "😟",
     "15",
+    "21",
     "b83",
     "background-position: -32px -128px;"
   ],
   [
     "😕",
     "16",
+    "11",
     "b83",
     "background-position: -32px -64px;"
   ],
   [
     "🙁",
     "17",
+    "8",
     "b85",
     "background-position: -96px -32px;"
   ],
   [
     "☹️",
     "18",
+    "2",
     "b3 ",
     "background-position: -64px 0px;"
   ],
   [
     "😣",
     "19",
+    "0",
     "b84",
     "background-position: 0px 0px;"
   ],
   [
     "😖",
     "20",
+    "12",
     "b83",
     "background-position: -64px -64px;"
   ],
   [
     "😫",
     "21",
+    "8",
     "b84",
     "background-position: -96px -32px;"
   ],
   [
     "😩",
     "22",
+    "6",
     "b84",
     "background-position: -32px -32px;"
   ],
   [
     "🥺",
     "23",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🤧",
     "0",
+    "12",
     "b99",
     "background-position: -64px -64px;"
   ],
   [
     "😷",
     "1",
+    "23",
     "b84",
     "background-position: -96px -128px;"
   ],
   [
     "🤒",
     "2",
+    "15",
     "b96",
     "background-position: 0px -96px;"
   ],
   [
     "🤕",
     "3",
+    "18",
     "b96",
     "background-position: -96px -96px;"
   ],
   [
     "🤑",
     "4",
+    "14",
     "b96",
     "background-position: -128px -64px;"
   ],
   [
     "🤠",
     "5",
+    "19",
     "b98",
     "background-position: -128px -96px;"
   ],
   [
     "😈",
     "6",
+    "23",
     "b82",
     "background-position: -96px -128px;"
   ],
   [
     "👿",
     "7",
+    "21",
     "b67",
     "background-position: -32px -128px;"
   ],
   [
     "👹",
     "8",
+    "10",
     "b67",
     "background-position: 0px -64px;"
   ],
   [
     "👺",
     "9",
+    "11",
     "b67",
     "background-position: -32px -64px;"
   ],
   [
     "🤡",
     "10",
+    "20",
     "b98",
     "background-position: 0px -128px;"
   ],
   [
     "💩",
     "11",
+    "2",
     "b72",
     "background-position: -64px 0px;"
   ],
   [
     "👻",
+    "12",
     "12",
     "b67",
     "background-position: -64px -64px;"
@@ -1088,173 +1269,202 @@
   [
     "💀",
     "13",
+    "22",
     "b67",
     "background-position: -64px -128px;"
   ],
   [
     "☠️",
     "14",
+    "19",
     "b2 ",
     "background-position: -128px -96px;"
   ],
   [
     "👽",
     "15",
+    "19",
     "b67",
     "background-position: -128px -96px;"
   ],
   [
     "👾",
     "16",
+    "20",
     "b67",
     "background-position: 0px -128px;"
   ],
   [
     "🤖",
     "17",
+    "19",
     "b96",
     "background-position: -128px -96px;"
   ],
   [
     "🎃",
     "18",
+    "15",
     "b25",
     "background-position: 0px -96px;"
   ],
   [
     "😺",
     "19",
+    "1",
     "b85",
     "background-position: -32px 0px;"
   ],
   [
     "😸",
     "20",
+    "24",
     "b84",
     "background-position: -128px -128px;"
   ],
   [
     "😹",
     "21",
+    "0",
     "b85",
     "background-position: 0px 0px;"
   ],
   [
     "😻",
     "22",
+    "2",
     "b85",
     "background-position: -64px 0px;"
   ],
   [
     "😼",
     "23",
+    "3",
     "b85",
     "background-position: -96px 0px;"
   ],
   [
     "😢",
     "0",
+    "24",
     "b83",
     "background-position: -128px -128px;"
   ],
   [
     "😭",
     "1",
+    "10",
     "b84",
     "background-position: 0px -64px;"
   ],
   [
     "😤",
     "2",
+    "1",
     "b84",
     "background-position: -32px 0px;"
   ],
   [
     "😠",
     "3",
+    "22",
     "b83",
     "background-position: -64px -128px;"
   ],
   [
     "😡",
     "4",
+    "23",
     "b83",
     "background-position: -96px -128px;"
   ],
   [
     "🤬",
     "5",
+    "17",
     "b99",
     "background-position: -64px -96px;"
   ],
   [
     "🤯",
     "6",
+    "20",
     "b99",
     "background-position: 0px -128px;"
   ],
   [
     "😳",
     "7",
+    "17",
     "b84",
     "background-position: -64px -96px;"
   ],
   [
     "🥵",
     "8",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🥶",
     "9",
+    "21",
     "b10",
     "background-position: -32px -128px;"
   ],
   [
     "😶‍🌫️",
     "10",
+    "22",
     "b84",
     "background-position: -64px -128px;"
   ],
   [
     "😱",
     "11",
+    "15",
     "b84",
     "background-position: 0px -96px;"
   ],
   [
     "😨",
     "12",
+    "5",
     "b84",
     "background-position: 0px -32px;"
   ],
   [
     "😰",
     "13",
+    "14",
     "b84",
     "background-position: -128px -64px;"
   ],
   [
     "😥",
     "14",
+    "2",
     "b84",
     "background-position: -64px 0px;"
   ],
   [
     "😓",
     "15",
+    "9",
     "b83",
     "background-position: -128px -32px;"
   ],
   [
     "🤗",
     "16",
+    "20",
     "b96",
     "background-position: 0px -128px;"
   ],
   [
     "🤔",
+    "17",
     "17",
     "b96",
     "background-position: -64px -96px;"
@@ -1262,89 +1472,104 @@
   [
     "🫣",
     "18",
+    "10",
     "b13",
     "background-position: 0px -64px;"
   ],
   [
     "🤭",
     "19",
+    "18",
     "b99",
     "background-position: -96px -96px;"
   ],
   [
     "🫢",
     "20",
+    "9",
     "b13",
     "background-position: -128px -32px;"
   ],
   [
     "🫡",
     "21",
+    "8",
     "b13",
     "background-position: -96px -32px;"
   ],
   [
     "🤫",
     "22",
+    "16",
     "b99",
     "background-position: -32px -96px;"
   ],
   [
     "🫠",
     "23",
+    "7",
     "b13",
     "background-position: -64px -32px;"
   ],
   [
     "🐉",
     "0",
+    "19",
     "b33",
     "background-position: -128px -96px;"
   ],
   [
     "🐲",
     "1",
+    "11",
     "b35",
     "background-position: -32px -64px;"
   ],
   [
     "🌵",
     "2",
+    "12",
     "b22",
     "background-position: -64px -64px;"
   ],
   [
     "🎄",
     "3",
+    "16",
     "b25",
     "background-position: -32px -96px;"
   ],
   [
     "🌲",
     "4",
+    "9",
     "b22",
     "background-position: -128px -32px;"
   ],
   [
     "🌳",
     "5",
+    "10",
     "b22",
     "background-position: 0px -64px;"
   ],
   [
     "🌴",
     "6",
+    "11",
     "b22",
     "background-position: -32px -64px;"
   ],
   [
     "🪵",
     "7",
+    "20",
     "b13",
     "background-position: 0px -128px;"
   ],
   [
     "🌱",
+    "8",
     "8",
     "b22",
     "background-position: -96px -32px;"
@@ -1352,263 +1577,307 @@
   [
     "🌿",
     "9",
+    "22",
     "b22",
     "background-position: -64px -128px;"
   ],
   [
     "☘️",
     "10",
+    "12",
     "b2 ",
     "background-position: -64px -64px;"
   ],
   [
     "🍀",
     "11",
+    "23",
     "b22",
     "background-position: -96px -128px;"
   ],
   [
     "🎍",
     "12",
+    "5",
     "b26",
     "background-position: 0px -32px;"
   ],
   [
     "🪴",
     "13",
+    "19",
     "b13",
     "background-position: -128px -96px;"
   ],
   [
     "🎋",
     "14",
+    "3",
     "b26",
     "background-position: -96px 0px;"
   ],
   [
     "🍃",
     "15",
+    "1",
     "b23",
     "background-position: -32px 0px;"
   ],
   [
     "🍂",
     "16",
+    "0",
     "b23",
     "background-position: 0px 0px;"
   ],
   [
     "🍁",
     "17",
+    "24",
     "b22",
     "background-position: -128px -128px;"
   ],
   [
     "🪺",
     "18",
+    "0",
     "b13",
     "background-position: 0px 0px;"
   ],
   [
     "🪹",
     "19",
+    "24",
     "b13",
     "background-position: -128px -128px;"
   ],
   [
     "🍄",
     "20",
+    "2",
     "b23",
     "background-position: -64px 0px;"
   ],
   [
     "🐚",
     "21",
+    "12",
     "b34",
     "background-position: -64px -64px;"
   ],
   [
     "🪸",
     "22",
+    "23",
     "b13",
     "background-position: -96px -128px;"
   ],
   [
     "🪨",
     "23",
+    "10",
     "b13",
     "background-position: 0px -64px;"
   ],
   [
     "👨‍👩‍👦‍👦",
     "0",
+    "17",
     "b41",
     "background-position: -64px -96px;"
   ],
   [
     "👨‍👩‍👧‍👧",
     "1",
+    "20",
     "b41",
     "background-position: 0px -128px;"
   ],
   [
     "👩‍👩‍👦",
     "2",
+    "0",
     "b51",
     "background-position: 0px 0px;"
   ],
   [
     "👩‍👩‍👧",
     "3",
+    "2",
     "b51",
     "background-position: -64px 0px;"
   ],
   [
     "👩‍👩‍👧‍👦",
     "4",
+    "3",
     "b51",
     "background-position: -96px 0px;"
   ],
   [
     "👩‍👩‍👦‍👦",
     "5",
+    "1",
     "b51",
     "background-position: -32px 0px;"
   ],
   [
     "👩‍👩‍👧‍👧",
     "6",
+    "4",
     "b51",
     "background-position: -128px 0px;"
   ],
   [
     "👨‍👨‍👦",
     "7",
+    "11",
     "b41",
     "background-position: -32px -64px;"
   ],
   [
     "👨‍👨‍👧",
     "8",
+    "13",
     "b41",
     "background-position: -96px -64px;"
   ],
   [
     "👨‍👨‍👧‍👦",
     "9",
+    "14",
     "b41",
     "background-position: -128px -64px;"
   ],
   [
     "👨‍👨‍👦‍👦",
     "10",
+    "12",
     "b41",
     "background-position: -64px -64px;"
   ],
   [
     "👨‍👨‍👧‍👧",
     "11",
+    "15",
     "b41",
     "background-position: 0px -96px;"
   ],
   [
     "👩‍👦",
     "12",
+    "20",
     "b50",
     "background-position: 0px -128px;"
   ],
   [
     "👩‍👧",
     "13",
+    "22",
     "b50",
     "background-position: -64px -128px;"
   ],
   [
     "👩‍👧‍👦",
     "14",
+    "23",
     "b50",
     "background-position: -96px -128px;"
   ],
   [
     "👩‍👦‍👦",
     "15",
+    "21",
     "b50",
     "background-position: -32px -128px;"
   ],
   [
     "👩‍👧‍👧",
     "16",
+    "24",
     "b50",
     "background-position: -128px -128px;"
   ],
   [
     "👨‍👦",
     "17",
+    "6",
     "b41",
     "background-position: -32px -32px;"
   ],
   [
     "👨‍👧",
     "18",
+    "8",
     "b41",
     "background-position: -96px -32px;"
   ],
   [
     "👨‍👧‍👦",
     "19",
+    "9",
     "b41",
     "background-position: -128px -32px;"
   ],
   [
     "👨‍👦‍👦",
     "20",
+    "7",
     "b41",
     "background-position: -64px -32px;"
   ],
   [
     "👨‍👧‍👧",
     "21",
+    "10",
     "b41",
     "background-position: 0px -64px;"
   ],
   [
     "🪢",
     "22",
+    "4",
     "b13",
     "background-position: -128px 0px;"
   ],
   [
     "🧶",
     "23",
+    "9",
     "b12",
     "background-position: -128px -32px;"
   ],
   [
     "🐕‍🦺",
     "0",
+    "7",
     "b34",
     "background-position: -64px -32px;"
   ],
   [
     "🐈",
     "1",
+    "17",
     "b33",
     "background-position: -64px -96px;"
   ],
   [
     "🐈‍⬛",
     "2",
+    "18",
     "b33",
     "background-position: -96px -96px;"
   ],
   [
     "🪶",
     "3",
+    "21",
     "b13",
     "background-position: -32px -128px;"
   ],
   [
     "🐓",
+    "4",
     "4",
     "b34",
     "background-position: -128px 0px;"
@@ -1616,185 +1885,216 @@
   [
     "🦃",
     "5",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🦤",
     "6",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "🦚",
     "7",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🦜",
     "8",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🦢",
     "9",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🦩",
     "10",
+    "2",
     "b10",
     "background-position: -64px 0px;"
   ],
   [
     "🕊️",
     "11",
+    "6",
     "b78",
     "background-position: -32px -32px;"
   ],
   [
     "🐇",
     "12",
+    "16",
     "b33",
     "background-position: -32px -96px;"
   ],
   [
     "🦝",
     "13",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🦨",
     "14",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🦡",
     "15",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🦫",
     "16",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🦦",
     "17",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🦥",
     "18",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "🐁",
     "19",
+    "10",
     "b33",
     "background-position: 0px -64px;"
   ],
   [
     "🐀",
     "20",
+    "9",
     "b33",
     "background-position: -128px -32px;"
   ],
   [
     "🐿️",
     "21",
+    "0",
     "b36",
     "background-position: 0px 0px;"
   ],
   [
     "🦔",
     "22",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🐾",
     "23",
+    "24",
     "b35",
     "background-position: -128px -128px;"
   ],
   [
     "🕸️",
     "0",
+    "8",
     "b80",
     "background-position: -96px -32px;"
   ],
   [
     "🦂",
     "1",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🐢",
     "2",
+    "20",
     "b34",
     "background-position: 0px -128px;"
   ],
   [
     "🐍",
     "3",
+    "23",
     "b33",
     "background-position: -96px -128px;"
   ],
   [
     "🦎",
     "4",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🦖",
     "5",
+    "8",
     "b10",
     "background-position: -96px -32px;"
   ],
   [
     "🦕",
     "6",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "🐙",
     "7",
+    "11",
     "b34",
     "background-position: -32px -64px;"
   ],
   [
     "🦑",
     "8",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🦐",
     "9",
+    "2",
     "b10",
     "background-position: -64px 0px;"
   ],
   [
     "🦞",
     "10",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "🦀",
+    "11",
     "11",
     "b10",
     "background-position: -32px -64px;"
@@ -1802,53 +2102,62 @@
   [
     "🐡",
     "12",
+    "19",
     "b34",
     "background-position: -128px -96px;"
   ],
   [
     "🐠",
     "13",
+    "18",
     "b34",
     "background-position: -96px -96px;"
   ],
   [
     "🐟",
     "14",
+    "17",
     "b34",
     "background-position: -64px -96px;"
   ],
   [
     "🐬",
     "15",
+    "5",
     "b35",
     "background-position: 0px -32px;"
   ],
   [
     "🐳",
     "16",
+    "12",
     "b35",
     "background-position: -64px -64px;"
   ],
   [
     "🐋",
     "17",
+    "21",
     "b33",
     "background-position: -32px -128px;"
   ],
   [
     "🦈",
     "18",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🦭",
     "19",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🐊",
+    "20",
     "20",
     "b33",
     "background-position: 0px -128px;"
@@ -1856,101 +2165,118 @@
   [
     "🐅",
     "21",
+    "14",
     "b33",
     "background-position: -128px -64px;"
   ],
   [
     "🐆",
     "22",
+    "15",
     "b33",
     "background-position: 0px -96px;"
   ],
   [
     "🦓",
     "23",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🦍",
     "0",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🦧",
     "1",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🦣",
     "2",
+    "21",
     "b10",
     "background-position: -32px -128px;"
   ],
   [
     "🐘",
     "3",
+    "10",
     "b34",
     "background-position: 0px -64px;"
   ],
   [
     "🦛",
     "4",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🦏",
     "5",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🐪",
     "6",
+    "3",
     "b35",
     "background-position: -96px 0px;"
   ],
   [
     "🐫",
     "7",
+    "4",
     "b35",
     "background-position: -128px 0px;"
   ],
   [
     "🦒",
     "8",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🦘",
     "9",
+    "10",
     "b10",
     "background-position: 0px -64px;"
   ],
   [
     "🦬",
     "10",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🐃",
     "11",
+    "12",
     "b33",
     "background-position: -64px -64px;"
   ],
   [
     "🐂",
     "12",
+    "11",
     "b33",
     "background-position: -32px -64px;"
   ],
   [
     "🐄",
+    "13",
     "13",
     "b33",
     "background-position: -96px -64px;"
@@ -1958,101 +2284,118 @@
   [
     "🐎",
     "14",
+    "24",
     "b33",
     "background-position: -128px -128px;"
   ],
   [
     "🐖",
     "15",
+    "8",
     "b34",
     "background-position: -96px -32px;"
   ],
   [
     "🐏",
     "16",
+    "0",
     "b34",
     "background-position: 0px 0px;"
   ],
   [
     "🐑",
     "17",
+    "2",
     "b34",
     "background-position: -64px 0px;"
   ],
   [
     "🦙",
     "18",
+    "11",
     "b10",
     "background-position: -32px -64px;"
   ],
   [
     "🐐",
     "19",
+    "1",
     "b34",
     "background-position: -32px 0px;"
   ],
   [
     "🦌",
     "20",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "🐕",
     "21",
+    "6",
     "b34",
     "background-position: -32px -32px;"
   ],
   [
     "🐩",
     "22",
+    "2",
     "b35",
     "background-position: -64px 0px;"
   ],
   [
     "🦮",
     "23",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "👨‍🦯",
     "0",
+    "2",
     "b42",
     "background-position: -64px 0px;"
   ],
   [
     "🧎‍♀️",
     "1",
+    "15",
     "b11",
     "background-position: 0px -96px;"
   ],
   [
     "🧎",
     "2",
+    "14",
     "b11",
     "background-position: -128px -64px;"
   ],
   [
     "🧎‍♂️",
     "3",
+    "16",
     "b11",
     "background-position: -32px -96px;"
   ],
   [
     "🏃‍♀️",
     "4",
+    "5",
     "b28",
     "background-position: 0px -32px;"
   ],
   [
     "🏃",
     "5",
+    "4",
     "b28",
     "background-position: -128px 0px;"
   ],
   [
     "🏃‍♂️",
+    "6",
     "6",
     "b28",
     "background-position: -32px -32px;"
@@ -2060,269 +2403,314 @@
   [
     "🧍‍♀️",
     "7",
+    "22",
     "b11",
     "background-position: -64px -128px;"
   ],
   [
     "🧍",
     "8",
+    "21",
     "b11",
     "background-position: -32px -128px;"
   ],
   [
     "🧍‍♂️",
     "9",
+    "23",
     "b11",
     "background-position: -96px -128px;"
   ],
   [
     "👫",
     "10",
+    "9",
     "b62",
     "background-position: -128px -32px;"
   ],
   [
     "👭",
     "11",
+    "21",
     "b62",
     "background-position: -32px -128px;"
   ],
   [
     "👬",
     "12",
+    "15",
     "b62",
     "background-position: 0px -96px;"
   ],
   [
     "👩‍❤️‍👨",
     "13",
+    "8",
     "b50",
     "background-position: -96px -32px;"
   ],
   [
     "👩‍❤️‍👩",
     "14",
+    "9",
     "b50",
     "background-position: -128px -32px;"
   ],
   [
     "💑",
     "15",
+    "23",
     "b70",
     "background-position: -96px -128px;"
   ],
   [
     "👨‍❤️‍👨",
     "16",
+    "21",
     "b40",
     "background-position: -32px -128px;"
   ],
   [
     "👩‍❤️‍💋‍👨",
     "17",
+    "10",
     "b50",
     "background-position: 0px -64px;"
   ],
   [
     "👩‍❤️‍💋‍👩",
     "18",
+    "11",
     "b50",
     "background-position: -32px -64px;"
   ],
   [
     "💏",
     "19",
+    "16",
     "b70",
     "background-position: -32px -96px;"
   ],
   [
     "👨‍❤️‍💋‍👨",
     "20",
+    "22",
     "b40",
     "background-position: -64px -128px;"
   ],
   [
     "👨‍👩‍👦",
     "21",
+    "16",
     "b41",
     "background-position: -32px -96px;"
   ],
   [
     "👨‍👩‍👧",
     "22",
+    "18",
     "b41",
     "background-position: -96px -96px;"
   ],
   [
     "👨‍👩‍👧‍👦",
     "23",
+    "19",
     "b41",
     "background-position: -128px -96px;"
   ],
   [
     "🐶",
     "0",
+    "15",
     "b35",
     "background-position: 0px -96px;"
   ],
   [
     "🐱",
     "1",
+    "10",
     "b35",
     "background-position: 0px -64px;"
   ],
   [
     "🐭",
     "2",
+    "6",
     "b35",
     "background-position: -32px -32px;"
   ],
   [
     "🐹",
     "3",
+    "18",
     "b35",
     "background-position: -96px -96px;"
   ],
   [
     "🐰",
     "4",
+    "9",
     "b35",
     "background-position: -128px -32px;"
   ],
   [
     "🦊",
     "5",
+    "21",
     "b10",
     "background-position: -32px -128px;"
   ],
   [
     "🐻",
     "6",
+    "20",
     "b35",
     "background-position: 0px -128px;"
   ],
   [
     "🐼",
     "7",
+    "22",
     "b35",
     "background-position: -64px -128px;"
   ],
   [
     "🐻‍❄️",
     "8",
+    "21",
     "b35",
     "background-position: -32px -128px;"
   ],
   [
     "🐨",
     "9",
+    "1",
     "b35",
     "background-position: -32px 0px;"
   ],
   [
     "🐯",
     "10",
+    "8",
     "b35",
     "background-position: -96px -32px;"
   ],
   [
     "🦁",
     "11",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🐮",
     "12",
+    "7",
     "b35",
     "background-position: -64px -32px;"
   ],
   [
     "🐷",
     "13",
+    "16",
     "b35",
     "background-position: -32px -96px;"
   ],
   [
     "🐽",
     "14",
+    "23",
     "b35",
     "background-position: -96px -128px;"
   ],
   [
     "🐸",
     "15",
+    "17",
     "b35",
     "background-position: -64px -96px;"
   ],
   [
     "🐵",
     "16",
+    "14",
     "b35",
     "background-position: -128px -64px;"
   ],
   [
     "🙈",
     "17",
+    "23",
     "b86",
     "background-position: -96px -128px;"
   ],
   [
     "🙉",
     "18",
+    "24",
     "b86",
     "background-position: -128px -128px;"
   ],
   [
     "🙊",
     "19",
+    "0",
     "b87",
     "background-position: 0px 0px;"
   ],
   [
     "🐒",
     "20",
+    "3",
     "b34",
     "background-position: -96px 0px;"
   ],
   [
     "🐔",
     "21",
+    "5",
     "b34",
     "background-position: 0px -32px;"
   ],
   [
     "🐧",
     "22",
+    "0",
     "b35",
     "background-position: 0px 0px;"
   ],
   [
     "🐦",
     "23",
+    "24",
     "b34",
     "background-position: -128px -128px;"
   ],
   [
     "🧦",
     "0",
+    "18",
     "b12",
     "background-position: -96px -96px;"
   ],
   [
     "🧤",
     "1",
+    "16",
     "b12",
     "background-position: -32px -96px;"
   ],
   [
     "🧣",
     "2",
+    "15",
     "b12",
     "background-position: 0px -96px;"
   ],
   [
     "🎩",
+    "3",
     "3",
     "b27",
     "background-position: -96px 0px;"
@@ -2330,35 +2718,41 @@
   [
     "🧢",
     "4",
+    "14",
     "b12",
     "background-position: -128px -64px;"
   ],
   [
     "👒",
     "5",
+    "10",
     "b39",
     "background-position: 0px -64px;"
   ],
   [
     "🎓",
     "6",
+    "11",
     "b26",
     "background-position: -32px -64px;"
   ],
   [
     "⛑️",
     "7",
+    "0",
     "b5 ",
     "background-position: 0px 0px;"
   ],
   [
     "🪖",
     "8",
+    "17",
     "b13",
     "background-position: -64px -96px;"
   ],
   [
     "👑",
+    "9",
     "9",
     "b39",
     "background-position: -128px -32px;"
@@ -2366,311 +2760,363 @@
   [
     "💍",
     "10",
+    "14",
     "b70",
     "background-position: -128px -64px;"
   ],
   [
     "👝",
     "11",
+    "21",
     "b39",
     "background-position: -32px -128px;"
   ],
   [
     "👛",
     "12",
+    "19",
     "b39",
     "background-position: -128px -96px;"
   ],
   [
     "👜",
     "13",
+    "20",
     "b39",
     "background-position: 0px -128px;"
   ],
   [
     "💼",
     "14",
+    "1",
     "b73",
     "background-position: -32px 0px;"
   ],
   [
     "🎒",
     "15",
+    "10",
     "b26",
     "background-position: 0px -64px;"
   ],
   [
     "🧳",
     "16",
+    "6",
     "b12",
     "background-position: -32px -32px;"
   ],
   [
     "👓",
     "17",
+    "11",
     "b39",
     "background-position: -32px -64px;"
   ],
   [
     "🕶️",
     "18",
+    "6",
     "b80",
     "background-position: -32px -32px;"
   ],
   [
     "🥽",
     "19",
+    "8",
     "b10",
     "background-position: -96px -32px;"
   ],
   [
     "🌂",
     "20",
+    "13",
     "b20",
     "background-position: -96px -64px;"
   ],
   [
     "🧵",
     "0",
+    "8",
     "b12",
     "background-position: -96px -32px;"
   ],
   [
     "🪡",
     "1",
+    "3",
     "b13",
     "background-position: -96px 0px;"
   ],
   [
     "🧥",
     "2",
+    "17",
     "b12",
     "background-position: -64px -96px;"
   ],
   [
     "🥼",
     "3",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "🦺",
     "4",
+    "22",
     "b11",
     "background-position: -64px -128px;"
   ],
   [
     "👚",
     "5",
+    "18",
     "b39",
     "background-position: -96px -96px;"
   ],
   [
     "👕",
     "6",
+    "13",
     "b39",
     "background-position: -96px -64px;"
   ],
   [
     "👖",
     "7",
+    "14",
     "b39",
     "background-position: -128px -64px;"
   ],
   [
     "🩲",
     "8",
+    "21",
     "b12",
     "background-position: -32px -128px;"
   ],
   [
     "🩳",
     "9",
+    "22",
     "b12",
     "background-position: -64px -128px;"
   ],
   [
     "👔",
     "10",
+    "12",
     "b39",
     "background-position: -64px -64px;"
   ],
   [
     "👗",
     "11",
+    "15",
     "b39",
     "background-position: 0px -96px;"
   ],
   [
     "👙",
     "12",
+    "17",
     "b39",
     "background-position: -64px -96px;"
   ],
   [
     "🩱",
     "13",
+    "20",
     "b12",
     "background-position: 0px -128px;"
   ],
   [
     "👘",
     "14",
+    "16",
     "b39",
     "background-position: -32px -96px;"
   ],
   [
     "🥻",
     "15",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🩴",
     "16",
+    "23",
     "b12",
     "background-position: -96px -128px;"
   ],
   [
     "🥿",
     "17",
+    "10",
     "b10",
     "background-position: 0px -64px;"
   ],
   [
     "👠",
     "18",
+    "24",
     "b39",
     "background-position: -128px -128px;"
   ],
   [
     "👡",
     "19",
+    "0",
     "b40",
     "background-position: 0px 0px;"
   ],
   [
     "👢",
     "20",
+    "1",
     "b40",
     "background-position: -32px 0px;"
   ],
   [
     "👞",
     "21",
+    "22",
     "b39",
     "background-position: -64px -128px;"
   ],
   [
     "👟",
     "22",
+    "23",
     "b39",
     "background-position: -96px -128px;"
   ],
   [
     "🥾",
     "23",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "💇‍♂️",
     "0",
+    "23",
     "b69",
     "background-position: -96px -128px;"
   ],
   [
     "💆‍♀️",
     "1",
+    "10",
     "b69",
     "background-position: 0px -64px;"
   ],
   [
     "💆‍♂️",
     "2",
+    "11",
     "b69",
     "background-position: -32px -64px;"
   ],
   [
     "🧖‍♀️",
     "3",
+    "10",
     "b12",
     "background-position: 0px -64px;"
   ],
   [
     "🧖",
     "4",
+    "9",
     "b12",
     "background-position: -128px -32px;"
   ],
   [
     "🧖‍♂️",
     "5",
+    "11",
     "b12",
     "background-position: -32px -64px;"
   ],
   [
     "💅",
     "6",
+    "4",
     "b69",
     "background-position: -128px 0px;"
   ],
   [
     "🤳",
     "7",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "💃",
     "8",
+    "22",
     "b68",
     "background-position: -64px -128px;"
   ],
   [
     "🕺",
     "9",
+    "10",
     "b80",
     "background-position: 0px -64px;"
   ],
   [
     "👯‍♀️",
     "10",
+    "14",
     "b63",
     "background-position: -128px -64px;"
   ],
   [
     "👯‍♂️",
     "11",
+    "15",
     "b63",
     "background-position: 0px -96px;"
   ],
   [
     "🕴️",
     "12",
+    "18",
     "b79",
     "background-position: -96px -96px;"
   ],
   [
     "👩‍🦽",
     "13",
+    "17",
     "b51",
     "background-position: -64px -96px;"
   ],
   [
     "🧑‍🦽",
     "14",
+    "2",
     "b11",
     "background-position: -64px 0px;"
   ],
   [
     "👨‍🦽",
     "15",
+    "8",
     "b42",
     "background-position: -96px -32px;"
   ],
   [
     "👩‍🦼",
+    "16",
     "16",
     "b51",
     "background-position: -32px -96px;"
@@ -2678,125 +3124,146 @@
   [
     "🧑‍🦼",
     "17",
+    "1",
     "b11",
     "background-position: -32px 0px;"
   ],
   [
     "👨‍🦼",
     "18",
+    "7",
     "b42",
     "background-position: -64px -32px;"
   ],
   [
     "🚶‍♀️",
     "19",
+    "15",
     "b92",
     "background-position: 0px -96px;"
   ],
   [
     "🚶",
     "20",
+    "14",
     "b92",
     "background-position: -128px -64px;"
   ],
   [
     "🚶‍♂️",
     "21",
+    "16",
     "b92",
     "background-position: -32px -96px;"
   ],
   [
     "👩‍🦯",
     "22",
+    "11",
     "b51",
     "background-position: -32px -64px;"
   ],
   [
     "🧑‍🦯",
     "23",
+    "21",
     "b11",
     "background-position: -32px -128px;"
   ],
   [
     "🐤",
     "0",
+    "22",
     "b34",
     "background-position: -64px -128px;"
   ],
   [
     "🐣",
     "1",
+    "21",
     "b34",
     "background-position: -32px -128px;"
   ],
   [
     "🐥",
     "2",
+    "23",
     "b34",
     "background-position: -96px -128px;"
   ],
   [
     "🦆",
     "3",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🦅",
     "4",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "🦉",
     "5",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🦇",
     "6",
+    "18",
     "b10",
     "background-position: -96px -96px;"
   ],
   [
     "🐺",
     "7",
+    "19",
     "b35",
     "background-position: -128px -96px;"
   ],
   [
     "🐗",
     "8",
+    "9",
     "b34",
     "background-position: -128px -32px;"
   ],
   [
     "🐴",
     "9",
+    "13",
     "b35",
     "background-position: -96px -64px;"
   ],
   [
     "🦄",
     "10",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🐝",
     "11",
+    "15",
     "b34",
     "background-position: 0px -96px;"
   ],
   [
     "🪱",
     "12",
+    "16",
     "b13",
     "background-position: -32px -96px;"
   ],
   [
     "🐛",
+    "13",
     "13",
     "b34",
     "background-position: -96px -64px;"
@@ -2804,17 +3271,20 @@
   [
     "🦋",
     "14",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "🐌",
     "15",
+    "22",
     "b33",
     "background-position: -64px -128px;"
   ],
   [
     "🐞",
+    "16",
     "16",
     "b34",
     "background-position: -32px -96px;"
@@ -2822,95 +3292,111 @@
   [
     "🐜",
     "17",
+    "14",
     "b34",
     "background-position: -128px -64px;"
   ],
   [
     "🪰",
     "18",
+    "15",
     "b13",
     "background-position: 0px -96px;"
   ],
   [
     "🪲",
     "19",
+    "17",
     "b13",
     "background-position: -64px -96px;"
   ],
   [
     "🪳",
     "20",
+    "18",
     "b13",
     "background-position: -96px -96px;"
   ],
   [
     "🦟",
     "21",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🦗",
     "22",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "🕷️",
     "23",
+    "7",
     "b80",
     "background-position: -64px -32px;"
   ],
   [
     "🐉",
     "0",
+    "19",
     "b33",
     "background-position: -128px -96px;"
   ],
   [
     "🐲",
     "1",
+    "11",
     "b35",
     "background-position: -32px -64px;"
   ],
   [
     "🌵",
     "2",
+    "12",
     "b22",
     "background-position: -64px -64px;"
   ],
   [
     "🎄",
     "3",
+    "16",
     "b25",
     "background-position: -32px -96px;"
   ],
   [
     "🌲",
     "4",
+    "9",
     "b22",
     "background-position: -128px -32px;"
   ],
   [
     "🌳",
     "5",
+    "10",
     "b22",
     "background-position: 0px -64px;"
   ],
   [
     "🌴",
     "6",
+    "11",
     "b22",
     "background-position: -32px -64px;"
   ],
   [
     "🪵",
     "7",
+    "20",
     "b13",
     "background-position: 0px -128px;"
   ],
   [
     "🌱",
+    "8",
     "8",
     "b22",
     "background-position: -96px -32px;"
@@ -2918,263 +3404,307 @@
   [
     "🌿",
     "9",
+    "22",
     "b22",
     "background-position: -64px -128px;"
   ],
   [
     "☘️",
     "10",
+    "12",
     "b2 ",
     "background-position: -64px -64px;"
   ],
   [
     "🍀",
     "11",
+    "23",
     "b22",
     "background-position: -96px -128px;"
   ],
   [
     "🎍",
     "12",
+    "5",
     "b26",
     "background-position: 0px -32px;"
   ],
   [
     "🪴",
     "13",
+    "19",
     "b13",
     "background-position: -128px -96px;"
   ],
   [
     "🎋",
     "14",
+    "3",
     "b26",
     "background-position: -96px 0px;"
   ],
   [
     "🍃",
     "15",
+    "1",
     "b23",
     "background-position: -32px 0px;"
   ],
   [
     "🍂",
     "16",
+    "0",
     "b23",
     "background-position: 0px 0px;"
   ],
   [
     "🍁",
     "17",
+    "24",
     "b22",
     "background-position: -128px -128px;"
   ],
   [
     "🪺",
     "18",
+    "0",
     "b13",
     "background-position: 0px 0px;"
   ],
   [
     "🪹",
     "19",
+    "24",
     "b13",
     "background-position: -128px -128px;"
   ],
   [
     "🍄",
     "20",
+    "2",
     "b23",
     "background-position: -64px 0px;"
   ],
   [
     "🐚",
     "21",
+    "12",
     "b34",
     "background-position: -64px -64px;"
   ],
   [
     "🪸",
     "22",
+    "23",
     "b13",
     "background-position: -96px -128px;"
   ],
   [
     "🪨",
     "23",
+    "10",
     "b13",
     "background-position: 0px -64px;"
   ],
   [
     "🌭",
     "0",
+    "4",
     "b22",
     "background-position: -128px 0px;"
   ],
   [
     "🍔",
     "1",
+    "18",
     "b23",
     "background-position: -96px -96px;"
   ],
   [
     "🍟",
     "2",
+    "4",
     "b24",
     "background-position: -128px 0px;"
   ],
   [
     "🍕",
     "3",
+    "19",
     "b23",
     "background-position: -128px -96px;"
   ],
   [
     "🫓",
     "4",
+    "0",
     "b13",
     "background-position: 0px 0px;"
   ],
   [
     "🥪",
     "5",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "🥙",
     "6",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🧆",
     "7",
+    "14",
     "b11",
     "background-position: -128px -64px;"
   ],
   [
     "🌮",
     "8",
+    "5",
     "b22",
     "background-position: 0px -32px;"
   ],
   [
     "🌯",
     "9",
+    "6",
     "b22",
     "background-position: -32px -32px;"
   ],
   [
     "🫔",
     "10",
+    "1",
     "b13",
     "background-position: -32px 0px;"
   ],
   [
     "🥗",
     "11",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🥘",
     "12",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "🫕",
     "13",
+    "2",
     "b13",
     "background-position: -64px 0px;"
   ],
   [
     "🥫",
     "14",
+    "10",
     "b10",
     "background-position: 0px -64px;"
   ],
   [
     "🫙",
     "15",
+    "6",
     "b13",
     "background-position: -32px -32px;"
   ],
   [
     "🍝",
     "16",
+    "2",
     "b24",
     "background-position: -64px 0px;"
   ],
   [
     "🍜",
     "17",
+    "1",
     "b24",
     "background-position: -32px 0px;"
   ],
   [
     "🍲",
     "18",
+    "23",
     "b24",
     "background-position: -96px -128px;"
   ],
   [
     "🍛",
     "19",
+    "0",
     "b24",
     "background-position: 0px 0px;"
   ],
   [
     "🍣",
     "20",
+    "8",
     "b24",
     "background-position: -96px -32px;"
   ],
   [
     "🍱",
     "21",
+    "22",
     "b24",
     "background-position: -64px -128px;"
   ],
   [
     "🥟",
     "22",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "🦪",
     "23",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🐕‍🦺",
     "0",
+    "7",
     "b34",
     "background-position: -64px -32px;"
   ],
   [
     "🐈",
     "1",
+    "17",
     "b33",
     "background-position: -64px -96px;"
   ],
   [
     "🐈‍⬛",
     "2",
+    "18",
     "b33",
     "background-position: -96px -96px;"
   ],
   [
     "🪶",
     "3",
+    "21",
     "b13",
     "background-position: -32px -128px;"
   ],
   [
     "🐓",
+    "4",
     "4",
     "b34",
     "background-position: -128px 0px;"
@@ -3182,305 +3712,356 @@
   [
     "🦃",
     "5",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🦤",
     "6",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "🦚",
     "7",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🦜",
     "8",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🦢",
     "9",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🦩",
     "10",
+    "2",
     "b10",
     "background-position: -64px 0px;"
   ],
   [
     "🕊️",
     "11",
+    "6",
     "b78",
     "background-position: -32px -32px;"
   ],
   [
     "🐇",
     "12",
+    "16",
     "b33",
     "background-position: -32px -96px;"
   ],
   [
     "🦝",
     "13",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🦨",
     "14",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🦡",
     "15",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🦫",
     "16",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🦦",
     "17",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🦥",
     "18",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "🐁",
     "19",
+    "10",
     "b33",
     "background-position: 0px -64px;"
   ],
   [
     "🐀",
     "20",
+    "9",
     "b33",
     "background-position: -128px -32px;"
   ],
   [
     "🐿️",
     "21",
+    "0",
     "b36",
     "background-position: 0px 0px;"
   ],
   [
     "🦔",
     "22",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🐾",
     "23",
+    "24",
     "b35",
     "background-position: -128px -128px;"
   ],
   [
     "🌾",
     "0",
+    "21",
     "b22",
     "background-position: -32px -128px;"
   ],
   [
     "💐",
     "1",
+    "22",
     "b70",
     "background-position: -64px -128px;"
   ],
   [
     "🌷",
     "2",
+    "14",
     "b22",
     "background-position: -128px -64px;"
   ],
   [
     "🌹",
     "3",
+    "16",
     "b22",
     "background-position: -32px -96px;"
   ],
   [
     "🥀",
     "4",
+    "18",
     "b10",
     "background-position: -96px -96px;"
   ],
   [
     "🪷",
     "5",
+    "22",
     "b13",
     "background-position: -64px -128px;"
   ],
   [
     "🌺",
     "6",
+    "17",
     "b22",
     "background-position: -64px -96px;"
   ],
   [
     "🌸",
     "7",
+    "15",
     "b22",
     "background-position: 0px -96px;"
   ],
   [
     "🌼",
     "8",
+    "19",
     "b22",
     "background-position: -128px -96px;"
   ],
   [
     "🌻",
     "9",
+    "18",
     "b22",
     "background-position: -96px -96px;"
   ],
   [
     "🌞",
     "10",
+    "16",
     "b21",
     "background-position: -32px -96px;"
   ],
   [
     "🌝",
     "11",
+    "15",
     "b21",
     "background-position: 0px -96px;"
   ],
   [
     "🌛",
     "12",
+    "13",
     "b21",
     "background-position: -96px -64px;"
   ],
   [
     "🌜",
     "13",
+    "14",
     "b21",
     "background-position: -128px -64px;"
   ],
   [
     "🌚",
     "14",
+    "12",
     "b21",
     "background-position: -64px -64px;"
   ],
   [
     "🌕",
     "15",
+    "7",
     "b21",
     "background-position: -64px -32px;"
   ],
   [
     "🌖",
     "16",
+    "8",
     "b21",
     "background-position: -96px -32px;"
   ],
   [
     "🌗",
     "17",
+    "9",
     "b21",
     "background-position: -128px -32px;"
   ],
   [
     "🌘",
     "18",
+    "10",
     "b21",
     "background-position: 0px -64px;"
   ],
   [
     "🌑",
     "19",
+    "3",
     "b21",
     "background-position: -96px 0px;"
   ],
   [
     "🌒",
     "20",
+    "4",
     "b21",
     "background-position: -128px 0px;"
   ],
   [
     "🌓",
     "21",
+    "5",
     "b21",
     "background-position: 0px -32px;"
   ],
   [
     "🌔",
     "22",
+    "6",
     "b21",
     "background-position: -32px -32px;"
   ],
   [
     "🌙",
     "23",
+    "11",
     "b21",
     "background-position: -32px -64px;"
   ],
   [
     "🍤",
     "0",
+    "9",
     "b24",
     "background-position: -128px -32px;"
   ],
   [
     "🍙",
     "1",
+    "23",
     "b23",
     "background-position: -96px -128px;"
   ],
   [
     "🍚",
     "2",
+    "24",
     "b23",
     "background-position: -128px -128px;"
   ],
   [
     "🍘",
     "3",
+    "22",
     "b23",
     "background-position: -64px -128px;"
   ],
   [
     "🍥",
     "4",
+    "10",
     "b24",
     "background-position: 0px -64px;"
   ],
   [
     "🥠",
     "5",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🥮",
     "6",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🍢",
+    "7",
     "7",
     "b24",
     "background-position: -64px -32px;"
@@ -3488,23 +4069,27 @@
   [
     "🍡",
     "8",
+    "6",
     "b24",
     "background-position: -32px -32px;"
   ],
   [
     "🍧",
     "9",
+    "12",
     "b24",
     "background-position: -64px -64px;"
   ],
   [
     "🍨",
     "10",
+    "13",
     "b24",
     "background-position: -96px -64px;"
   ],
   [
     "🍦",
+    "11",
     "11",
     "b24",
     "background-position: -32px -64px;"
@@ -3512,95 +4097,111 @@
   [
     "🥧",
     "12",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🧁",
     "13",
+    "9",
     "b11",
     "background-position: -128px -32px;"
   ],
   [
     "🍰",
     "14",
+    "21",
     "b24",
     "background-position: -32px -128px;"
   ],
   [
     "🎂",
     "15",
+    "14",
     "b25",
     "background-position: -128px -64px;"
   ],
   [
     "🍮",
     "16",
+    "19",
     "b24",
     "background-position: -128px -96px;"
   ],
   [
     "🍭",
     "17",
+    "18",
     "b24",
     "background-position: -96px -96px;"
   ],
   [
     "🍬",
     "18",
+    "17",
     "b24",
     "background-position: -64px -96px;"
   ],
   [
     "🍫",
     "19",
+    "16",
     "b24",
     "background-position: -32px -96px;"
   ],
   [
     "🍿",
     "20",
+    "11",
     "b25",
     "background-position: -32px -64px;"
   ],
   [
     "🍩",
     "21",
+    "14",
     "b24",
     "background-position: -128px -64px;"
   ],
   [
     "🍪",
     "22",
+    "15",
     "b24",
     "background-position: 0px -96px;"
   ],
   [
     "🌰",
     "23",
+    "7",
     "b22",
     "background-position: -64px -32px;"
   ],
   [
     "❄️",
     "0",
+    "15",
     "b7 ",
     "background-position: 0px -96px;"
   ],
   [
     "☃️",
     "1",
+    "6",
     "b2 ",
     "background-position: -32px -32px;"
   ],
   [
     "⛄",
     "2",
+    "20",
     "b4 ",
     "background-position: 0px -128px;"
   ],
   [
     "🌬️",
+    "3",
     "3",
     "b22",
     "background-position: -96px 0px;"
@@ -3608,245 +4209,286 @@
   [
     "💨",
     "4",
+    "1",
     "b72",
     "background-position: -32px 0px;"
   ],
   [
     "💧",
     "5",
+    "0",
     "b72",
     "background-position: 0px 0px;"
   ],
   [
     "💦",
     "6",
+    "24",
     "b71",
     "background-position: -128px -128px;"
   ],
   [
     "🫧",
     "7",
+    "14",
     "b13",
     "background-position: -128px -64px;"
   ],
   [
     "☔",
     "8",
+    "10",
     "b2 ",
     "background-position: 0px -64px;"
   ],
   [
     "☂️",
     "9",
+    "5",
     "b2 ",
     "background-position: 0px -32px;"
   ],
   [
     "🌊",
     "10",
+    "21",
     "b20",
     "background-position: -32px -128px;"
   ],
   [
     "🌫️",
     "11",
+    "2",
     "b22",
     "background-position: -64px 0px;"
   ],
   [
     "🍏",
     "0",
+    "13",
     "b23",
     "background-position: -96px -64px;"
   ],
   [
     "🍎",
     "1",
+    "12",
     "b23",
     "background-position: -64px -64px;"
   ],
   [
     "🍐",
     "2",
+    "14",
     "b23",
     "background-position: -128px -64px;"
   ],
   [
     "🍊",
     "3",
+    "8",
     "b23",
     "background-position: -96px -32px;"
   ],
   [
     "🍋",
     "4",
+    "9",
     "b23",
     "background-position: -128px -32px;"
   ],
   [
     "🍌",
     "5",
+    "10",
     "b23",
     "background-position: 0px -64px;"
   ],
   [
     "🍉",
     "6",
+    "7",
     "b23",
     "background-position: -64px -32px;"
   ],
   [
     "🍇",
     "7",
+    "5",
     "b23",
     "background-position: 0px -32px;"
   ],
   [
     "🍓",
     "8",
+    "17",
     "b23",
     "background-position: -64px -96px;"
   ],
   [
     "🫐",
     "9",
+    "22",
     "b13",
     "background-position: -64px -128px;"
   ],
   [
     "🍈",
     "10",
+    "6",
     "b23",
     "background-position: -32px -32px;"
   ],
   [
     "🍒",
     "11",
+    "16",
     "b23",
     "background-position: -32px -96px;"
   ],
   [
     "🍑",
     "12",
+    "15",
     "b23",
     "background-position: 0px -96px;"
   ],
   [
     "🥭",
     "13",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🍍",
     "14",
+    "11",
     "b23",
     "background-position: -32px -64px;"
   ],
   [
     "🥥",
     "15",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🥝",
     "16",
+    "21",
     "b10",
     "background-position: -32px -128px;"
   ],
   [
     "🍅",
     "17",
+    "3",
     "b23",
     "background-position: -96px 0px;"
   ],
   [
     "🍆",
     "18",
+    "4",
     "b23",
     "background-position: -128px 0px;"
   ],
   [
     "🥑",
     "19",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "🥦",
     "20",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🥬",
     "21",
+    "11",
     "b10",
     "background-position: -32px -64px;"
   ],
   [
     "🥒",
     "22",
+    "10",
     "b10",
     "background-position: 0px -64px;"
   ],
   [
     "🌶️",
     "23",
+    "13",
     "b22",
     "background-position: -96px -64px;"
   ],
   [
     "🫑",
     "0",
+    "23",
     "b13",
     "background-position: -96px -128px;"
   ],
   [
     "🌽",
     "1",
+    "20",
     "b22",
     "background-position: 0px -128px;"
   ],
   [
     "🥕",
     "2",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🫒",
     "3",
+    "24",
     "b13",
     "background-position: -128px -128px;"
   ],
   [
     "🧄",
     "4",
+    "12",
     "b11",
     "background-position: -64px -64px;"
   ],
   [
     "🧅",
     "5",
+    "13",
     "b11",
     "background-position: -96px -64px;"
   ],
   [
     "🥔",
     "6",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🍠",
     "7",
+    "5",
     "b24",
     "background-position: 0px -32px;"
   ],
   [
     "🥐",
+    "8",
     "8",
     "b10",
     "background-position: -96px -32px;"
@@ -3854,47 +4496,55 @@
   [
     "🥯",
     "9",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🍞",
     "10",
+    "3",
     "b24",
     "background-position: -96px 0px;"
   ],
   [
     "🥖",
     "11",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🥨",
     "12",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "🧀",
     "13",
+    "8",
     "b11",
     "background-position: -96px -32px;"
   ],
   [
     "🥚",
     "14",
+    "18",
     "b10",
     "background-position: -96px -96px;"
   ],
   [
     "🍳",
     "15",
+    "24",
     "b24",
     "background-position: -128px -128px;"
   ],
   [
     "🧈",
+    "16",
     "16",
     "b11",
     "background-position: -32px -96px;"
@@ -3902,29 +4552,34 @@
   [
     "🥞",
     "17",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "🧇",
     "18",
+    "15",
     "b11",
     "background-position: 0px -96px;"
   ],
   [
     "🥓",
     "19",
+    "11",
     "b10",
     "background-position: -32px -64px;"
   ],
   [
     "🥩",
     "20",
+    "8",
     "b10",
     "background-position: -96px -32px;"
   ],
   [
     "🍗",
+    "21",
     "21",
     "b23",
     "background-position: -32px -128px;"
@@ -3932,41 +4587,48 @@
   [
     "🍖",
     "22",
+    "20",
     "b23",
     "background-position: 0px -128px;"
   ],
   [
     "🦴",
     "23",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "🥜",
     "0",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🫘",
     "1",
+    "5",
     "b13",
     "background-position: 0px -32px;"
   ],
   [
     "🍯",
     "2",
+    "20",
     "b24",
     "background-position: 0px -128px;"
   ],
   [
     "🥛",
     "3",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🫗",
+    "4",
     "4",
     "b13",
     "background-position: -128px 0px;"
@@ -3974,119 +4636,139 @@
   [
     "🍼",
     "5",
+    "8",
     "b25",
     "background-position: -96px -32px;"
   ],
   [
     "🫖",
     "6",
+    "3",
     "b13",
     "background-position: -96px 0px;"
   ],
   [
     "☕",
     "7",
+    "11",
     "b2 ",
     "background-position: -32px -64px;"
   ],
   [
     "🍵",
     "8",
+    "1",
     "b25",
     "background-position: -32px 0px;"
   ],
   [
     "🧃",
     "9",
+    "11",
     "b11",
     "background-position: -32px -64px;"
   ],
   [
     "🥤",
     "10",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🧋",
     "11",
+    "19",
     "b11",
     "background-position: -128px -96px;"
   ],
   [
     "🍶",
     "12",
+    "2",
     "b25",
     "background-position: -64px 0px;"
   ],
   [
     "🍺",
     "13",
+    "6",
     "b25",
     "background-position: -32px -32px;"
   ],
   [
     "🍻",
     "14",
+    "7",
     "b25",
     "background-position: -64px -32px;"
   ],
   [
     "🥂",
     "15",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🍷",
     "16",
+    "3",
     "b25",
     "background-position: -96px 0px;"
   ],
   [
     "🥃",
     "17",
+    "21",
     "b10",
     "background-position: -32px -128px;"
   ],
   [
     "🍸",
     "18",
+    "4",
     "b25",
     "background-position: -128px 0px;"
   ],
   [
     "🍹",
     "19",
+    "5",
     "b25",
     "background-position: 0px -32px;"
   ],
   [
     "🧉",
     "20",
+    "17",
     "b11",
     "background-position: -64px -96px;"
   ],
   [
     "🍾",
     "21",
+    "10",
     "b25",
     "background-position: 0px -64px;"
   ],
   [
     "🧊",
     "22",
+    "18",
     "b11",
     "background-position: -96px -96px;"
   ],
   [
     "🥄",
     "23",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "🌎",
+    "0",
     "0",
     "b21",
     "background-position: 0px 0px;"
@@ -4094,143 +4776,167 @@
   [
     "🌍",
     "1",
+    "24",
     "b20",
     "background-position: -128px -128px;"
   ],
   [
     "🌏",
     "2",
+    "1",
     "b21",
     "background-position: -32px 0px;"
   ],
   [
     "🪐",
     "3",
+    "11",
     "b13",
     "background-position: -32px -64px;"
   ],
   [
     "💫",
     "4",
+    "9",
     "b72",
     "background-position: -128px -32px;"
   ],
   [
     "⭐",
     "5",
+    "15",
     "b8 ",
     "background-position: 0px -96px;"
   ],
   [
     "🌟",
     "6",
+    "17",
     "b21",
     "background-position: -64px -96px;"
   ],
   [
     "✨",
     "7",
+    "12",
     "b7 ",
     "background-position: -64px -64px;"
   ],
   [
     "⚡",
     "8",
+    "12",
     "b4 ",
     "background-position: -64px -64px;"
   ],
   [
     "☄️",
     "9",
+    "7",
     "b2 ",
     "background-position: -64px -32px;"
   ],
   [
     "💥",
     "10",
+    "23",
     "b71",
     "background-position: -96px -128px;"
   ],
   [
     "🔥",
     "11",
+    "5",
     "b77",
     "background-position: 0px -32px;"
   ],
   [
     "🌪️",
     "12",
+    "1",
     "b22",
     "background-position: -32px 0px;"
   ],
   [
     "🌈",
     "13",
+    "19",
     "b20",
     "background-position: -128px -96px;"
   ],
   [
     "☀️",
     "14",
+    "3",
     "b2 ",
     "background-position: -96px 0px;"
   ],
   [
     "🌤️",
     "15",
+    "20",
     "b21",
     "background-position: 0px -128px;"
   ],
   [
     "⛅",
     "16",
+    "21",
     "b4 ",
     "background-position: -32px -128px;"
   ],
   [
     "🌥️",
     "17",
+    "21",
     "b21",
     "background-position: -32px -128px;"
   ],
   [
     "☁️",
     "18",
+    "4",
     "b2 ",
     "background-position: -128px 0px;"
   ],
   [
     "🌦️",
     "19",
+    "22",
     "b21",
     "background-position: -64px -128px;"
   ],
   [
     "🌧️",
     "20",
+    "23",
     "b21",
     "background-position: -96px -128px;"
   ],
   [
     "⛈️",
     "21",
+    "22",
     "b4 ",
     "background-position: -64px -128px;"
   ],
   [
     "🌩️",
     "22",
+    "0",
     "b22",
     "background-position: 0px 0px;"
   ],
   [
     "🌨️",
     "23",
+    "24",
     "b21",
     "background-position: -128px -128px;"
   ],
   [
     "🍴",
+    "0",
     "0",
     "b25",
     "background-position: 0px 0px;"
@@ -4238,11 +4944,13 @@
   [
     "🍽️",
     "1",
+    "9",
     "b25",
     "background-position: -128px -32px;"
   ],
   [
     "🥣",
+    "2",
     "2",
     "b10",
     "background-position: -64px 0px;"
@@ -4250,29 +4958,34 @@
   [
     "🥡",
     "3",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🥢",
     "4",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🧂",
     "5",
+    "10",
     "b11",
     "background-position: 0px -64px;"
   ],
   [
     "🎤",
     "0",
+    "23",
     "b26",
     "background-position: -96px -128px;"
   ],
   [
     "🎧",
+    "1",
     "1",
     "b27",
     "background-position: -32px 0px;"
@@ -4280,65 +4993,76 @@
   [
     "🎼",
     "2",
+    "22",
     "b27",
     "background-position: -64px -128px;"
   ],
   [
     "🎹",
     "3",
+    "19",
     "b27",
     "background-position: -128px -96px;"
   ],
   [
     "🥁",
     "4",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🪘",
     "5",
+    "19",
     "b13",
     "background-position: -128px -96px;"
   ],
   [
     "🎷",
     "6",
+    "17",
     "b27",
     "background-position: -64px -96px;"
   ],
   [
     "🎺",
     "7",
+    "20",
     "b27",
     "background-position: 0px -128px;"
   ],
   [
     "🪗",
     "8",
+    "18",
     "b13",
     "background-position: -96px -96px;"
   ],
   [
     "🎸",
     "9",
+    "18",
     "b27",
     "background-position: -96px -96px;"
   ],
   [
     "🪕",
     "10",
+    "16",
     "b13",
     "background-position: -32px -96px;"
   ],
   [
     "🎻",
     "11",
+    "21",
     "b27",
     "background-position: -32px -128px;"
   ],
   [
     "🎲",
+    "12",
     "12",
     "b27",
     "background-position: -64px -64px;"
@@ -4346,191 +5070,223 @@
   [
     "♟️",
     "13",
+    "18",
     "b3 ",
     "background-position: -96px -96px;"
   ],
   [
     "🎯",
     "14",
+    "9",
     "b27",
     "background-position: -128px -32px;"
   ],
   [
     "🎳",
     "15",
+    "13",
     "b27",
     "background-position: -96px -64px;"
   ],
   [
     "🎮",
     "16",
+    "8",
     "b27",
     "background-position: -96px -32px;"
   ],
   [
     "🎰",
     "17",
+    "10",
     "b27",
     "background-position: 0px -64px;"
   ],
   [
     "🧩",
     "18",
+    "21",
     "b12",
     "background-position: -32px -128px;"
   ],
   [
     "🌭",
     "0",
+    "4",
     "b22",
     "background-position: -128px 0px;"
   ],
   [
     "🍔",
     "1",
+    "18",
     "b23",
     "background-position: -96px -96px;"
   ],
   [
     "🍟",
     "2",
+    "4",
     "b24",
     "background-position: -128px 0px;"
   ],
   [
     "🍕",
     "3",
+    "19",
     "b23",
     "background-position: -128px -96px;"
   ],
   [
     "🫓",
     "4",
+    "0",
     "b13",
     "background-position: 0px 0px;"
   ],
   [
     "🥪",
     "5",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "🥙",
     "6",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🧆",
     "7",
+    "14",
     "b11",
     "background-position: -128px -64px;"
   ],
   [
     "🌮",
     "8",
+    "5",
     "b22",
     "background-position: 0px -32px;"
   ],
   [
     "🌯",
     "9",
+    "6",
     "b22",
     "background-position: -32px -32px;"
   ],
   [
     "🫔",
     "10",
+    "1",
     "b13",
     "background-position: -32px 0px;"
   ],
   [
     "🥗",
     "11",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🥘",
     "12",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "🫕",
     "13",
+    "2",
     "b13",
     "background-position: -64px 0px;"
   ],
   [
     "🥫",
     "14",
+    "10",
     "b10",
     "background-position: 0px -64px;"
   ],
   [
     "🫙",
     "15",
+    "6",
     "b13",
     "background-position: -32px -32px;"
   ],
   [
     "🍝",
     "16",
+    "2",
     "b24",
     "background-position: -64px 0px;"
   ],
   [
     "🍜",
     "17",
+    "1",
     "b24",
     "background-position: -32px 0px;"
   ],
   [
     "🍲",
     "18",
+    "23",
     "b24",
     "background-position: -96px -128px;"
   ],
   [
     "🍛",
     "19",
+    "0",
     "b24",
     "background-position: 0px 0px;"
   ],
   [
     "🍣",
     "20",
+    "8",
     "b24",
     "background-position: -96px -32px;"
   ],
   [
     "🍱",
     "21",
+    "22",
     "b24",
     "background-position: -64px -128px;"
   ],
   [
     "🥟",
     "22",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "🦪",
     "23",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "⚽",
     "0",
+    "18",
     "b4 ",
     "background-position: -96px -96px;"
   ],
   [
     "🏀",
+    "1",
     "1",
     "b28",
     "background-position: -32px 0px;"
@@ -4538,29 +5294,34 @@
   [
     "🏈",
     "2",
+    "13",
     "b29",
     "background-position: -96px -64px;"
   ],
   [
     "⚾",
     "3",
+    "19",
     "b4 ",
     "background-position: -128px -96px;"
   ],
   [
     "🥎",
     "4",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🎾",
     "5",
+    "24",
     "b27",
     "background-position: -128px -128px;"
   ],
   [
     "🏐",
+    "6",
     "6",
     "b31",
     "background-position: -32px -32px;"
@@ -4568,125 +5329,146 @@
   [
     "🏉",
     "7",
+    "14",
     "b29",
     "background-position: -128px -64px;"
   ],
   [
     "🥏",
     "8",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "🎱",
     "9",
+    "11",
     "b27",
     "background-position: -32px -64px;"
   ],
   [
     "🪀",
     "10",
+    "4",
     "b13",
     "background-position: -128px 0px;"
   ],
   [
     "🏓",
     "11",
+    "9",
     "b31",
     "background-position: -128px -32px;"
   ],
   [
     "🏸",
     "12",
+    "1",
     "b33",
     "background-position: -32px 0px;"
   ],
   [
     "🏒",
     "13",
+    "8",
     "b31",
     "background-position: -96px -32px;"
   ],
   [
     "🏑",
     "14",
+    "7",
     "b31",
     "background-position: -64px -32px;"
   ],
   [
     "🥍",
     "15",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🏏",
     "16",
+    "5",
     "b31",
     "background-position: 0px -32px;"
   ],
   [
     "🪃",
     "17",
+    "7",
     "b13",
     "background-position: -64px -32px;"
   ],
   [
     "🥅",
     "18",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "⛳",
     "19",
+    "8",
     "b5 ",
     "background-position: -96px -32px;"
   ],
   [
     "🪁",
     "20",
+    "5",
     "b13",
     "background-position: 0px -32px;"
   ],
   [
     "🛝",
     "21",
+    "13",
     "b94",
     "background-position: -96px -64px;"
   ],
   [
     "🏹",
     "22",
+    "2",
     "b33",
     "background-position: -64px 0px;"
   ],
   [
     "🎣",
     "23",
+    "22",
     "b26",
     "background-position: -64px -128px;"
   ],
   [
     "🧗‍♂️",
     "0",
+    "24",
     "b12",
     "background-position: -128px -128px;"
   ],
   [
     "🚵‍♀️",
     "1",
+    "2",
     "b92",
     "background-position: -64px 0px;"
   ],
   [
     "🚵",
     "2",
+    "1",
     "b92",
     "background-position: -32px 0px;"
   ],
   [
     "🚵‍♂️",
+    "3",
     "3",
     "b92",
     "background-position: -96px 0px;"
@@ -4694,53 +5476,62 @@
   [
     "🚴‍♀️",
     "4",
+    "14",
     "b91",
     "background-position: -128px -64px;"
   ],
   [
     "🚴",
     "5",
+    "13",
     "b91",
     "background-position: -96px -64px;"
   ],
   [
     "🚴‍♂️",
     "6",
+    "15",
     "b91",
     "background-position: 0px -96px;"
   ],
   [
     "🏆",
     "7",
+    "6",
     "b29",
     "background-position: -32px -32px;"
   ],
   [
     "🥇",
     "8",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🥈",
     "9",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🥉",
     "10",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🏅",
     "11",
+    "5",
     "b29",
     "background-position: 0px -32px;"
   ],
   [
     "🎖️",
+    "12",
     "12",
     "b26",
     "background-position: -64px -64px;"
@@ -4748,113 +5539,132 @@
   [
     "🏵️",
     "13",
+    "24",
     "b32",
     "background-position: -128px -128px;"
   ],
   [
     "🎗️",
     "14",
+    "13",
     "b26",
     "background-position: -96px -64px;"
   ],
   [
     "🎫",
     "15",
+    "5",
     "b27",
     "background-position: 0px -32px;"
   ],
   [
     "🎟️",
     "16",
+    "18",
     "b26",
     "background-position: -96px -96px;"
   ],
   [
     "🎪",
     "17",
+    "4",
     "b27",
     "background-position: -128px 0px;"
   ],
   [
     "🤹‍♀️",
     "18",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🤹‍♂️",
     "19",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🎭",
     "20",
+    "7",
     "b27",
     "background-position: -64px -32px;"
   ],
   [
     "🩰",
     "21",
+    "19",
     "b12",
     "background-position: -128px -96px;"
   ],
   [
     "🎨",
     "22",
+    "2",
     "b27",
     "background-position: -64px 0px;"
   ],
   [
     "🎬",
     "23",
+    "6",
     "b27",
     "background-position: -32px -32px;"
   ],
   [
     "🍤",
     "0",
+    "9",
     "b24",
     "background-position: -128px -32px;"
   ],
   [
     "🍙",
     "1",
+    "23",
     "b23",
     "background-position: -96px -128px;"
   ],
   [
     "🍚",
     "2",
+    "24",
     "b23",
     "background-position: -128px -128px;"
   ],
   [
     "🍘",
     "3",
+    "22",
     "b23",
     "background-position: -64px -128px;"
   ],
   [
     "🍥",
     "4",
+    "10",
     "b24",
     "background-position: 0px -64px;"
   ],
   [
     "🥠",
     "5",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🥮",
     "6",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🍢",
+    "7",
     "7",
     "b24",
     "background-position: -64px -32px;"
@@ -4862,23 +5672,27 @@
   [
     "🍡",
     "8",
+    "6",
     "b24",
     "background-position: -32px -32px;"
   ],
   [
     "🍧",
     "9",
+    "12",
     "b24",
     "background-position: -64px -64px;"
   ],
   [
     "🍨",
     "10",
+    "13",
     "b24",
     "background-position: -96px -64px;"
   ],
   [
     "🍦",
+    "11",
     "11",
     "b24",
     "background-position: -32px -64px;"
@@ -4886,155 +5700,181 @@
   [
     "🥧",
     "12",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🧁",
     "13",
+    "9",
     "b11",
     "background-position: -128px -32px;"
   ],
   [
     "🍰",
     "14",
+    "21",
     "b24",
     "background-position: -32px -128px;"
   ],
   [
     "🎂",
     "15",
+    "14",
     "b25",
     "background-position: -128px -64px;"
   ],
   [
     "🍮",
     "16",
+    "19",
     "b24",
     "background-position: -128px -96px;"
   ],
   [
     "🍭",
     "17",
+    "18",
     "b24",
     "background-position: -96px -96px;"
   ],
   [
     "🍬",
     "18",
+    "17",
     "b24",
     "background-position: -64px -96px;"
   ],
   [
     "🍫",
     "19",
+    "16",
     "b24",
     "background-position: -32px -96px;"
   ],
   [
     "🍿",
     "20",
+    "11",
     "b25",
     "background-position: -32px -64px;"
   ],
   [
     "🍩",
     "21",
+    "14",
     "b24",
     "background-position: -128px -64px;"
   ],
   [
     "🍪",
     "22",
+    "15",
     "b24",
     "background-position: 0px -96px;"
   ],
   [
     "🌰",
     "23",
+    "7",
     "b22",
     "background-position: -64px -32px;"
   ],
   [
     "🤿",
     "0",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🥊",
     "1",
+    "2",
     "b10",
     "background-position: -64px 0px;"
   ],
   [
     "🥋",
     "2",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🎽",
     "3",
+    "23",
     "b27",
     "background-position: -96px -128px;"
   ],
   [
     "🛹",
     "4",
+    "7",
     "b95",
     "background-position: -64px -32px;"
   ],
   [
     "🛼",
     "5",
+    "10",
     "b95",
     "background-position: 0px -64px;"
   ],
   [
     "🛷",
     "6",
+    "5",
     "b95",
     "background-position: 0px -32px;"
   ],
   [
     "⛸️",
     "7",
+    "12",
     "b5 ",
     "background-position: -64px -64px;"
   ],
   [
     "🥌",
     "8",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🎿",
     "9",
+    "0",
     "b28",
     "background-position: 0px 0px;"
   ],
   [
     "⛷️",
     "10",
+    "11",
     "b5 ",
     "background-position: -32px -64px;"
   ],
   [
     "🏂",
     "11",
+    "3",
     "b28",
     "background-position: -96px 0px;"
   ],
   [
     "🪂",
     "12",
+    "6",
     "b13",
     "background-position: -32px -32px;"
   ],
   [
     "🏋️‍♀️",
+    "13",
     "13",
     "b30",
     "background-position: -96px -64px;"
@@ -5042,113 +5882,132 @@
   [
     "🏋️‍♂️",
     "14",
+    "14",
     "b30",
     "background-position: -128px -64px;"
   ],
   [
     "🤼‍♀️",
     "15",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🤼‍♂️",
     "16",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🤸‍♀️",
     "17",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🤸",
     "18",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🤸‍♂️",
     "19",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "⛹️‍♀️",
     "20",
+    "24",
     "b5 ",
     "background-position: -128px -128px;"
   ],
   [
     "⛹️",
     "21",
+    "23",
     "b5 ",
     "background-position: -96px -128px;"
   ],
   [
     "⛹️‍♂️",
     "22",
+    "0",
     "b6 ",
     "background-position: 0px 0px;"
   ],
   [
     "🤺",
     "23",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🫑",
     "0",
+    "23",
     "b13",
     "background-position: -96px -128px;"
   ],
   [
     "🌽",
     "1",
+    "20",
     "b22",
     "background-position: 0px -128px;"
   ],
   [
     "🥕",
     "2",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🫒",
     "3",
+    "24",
     "b13",
     "background-position: -128px -128px;"
   ],
   [
     "🧄",
     "4",
+    "12",
     "b11",
     "background-position: -64px -64px;"
   ],
   [
     "🧅",
     "5",
+    "13",
     "b11",
     "background-position: -96px -64px;"
   ],
   [
     "🥔",
     "6",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🍠",
     "7",
+    "5",
     "b24",
     "background-position: 0px -32px;"
   ],
   [
     "🥐",
+    "8",
     "8",
     "b10",
     "background-position: -96px -32px;"
@@ -5156,47 +6015,55 @@
   [
     "🥯",
     "9",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🍞",
     "10",
+    "3",
     "b24",
     "background-position: -96px 0px;"
   ],
   [
     "🥖",
     "11",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🥨",
     "12",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "🧀",
     "13",
+    "8",
     "b11",
     "background-position: -96px -32px;"
   ],
   [
     "🥚",
     "14",
+    "18",
     "b10",
     "background-position: -96px -96px;"
   ],
   [
     "🍳",
     "15",
+    "24",
     "b24",
     "background-position: -128px -128px;"
   ],
   [
     "🧈",
+    "16",
     "16",
     "b11",
     "background-position: -32px -96px;"
@@ -5204,29 +6071,34 @@
   [
     "🥞",
     "17",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "🧇",
     "18",
+    "15",
     "b11",
     "background-position: 0px -96px;"
   ],
   [
     "🥓",
     "19",
+    "11",
     "b10",
     "background-position: -32px -64px;"
   ],
   [
     "🥩",
     "20",
+    "8",
     "b10",
     "background-position: -96px -32px;"
   ],
   [
     "🍗",
+    "21",
     "21",
     "b23",
     "background-position: -32px -128px;"
@@ -5234,41 +6106,48 @@
   [
     "🍖",
     "22",
+    "20",
     "b23",
     "background-position: 0px -128px;"
   ],
   [
     "🦴",
     "23",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "🥜",
     "0",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🫘",
     "1",
+    "5",
     "b13",
     "background-position: 0px -32px;"
   ],
   [
     "🍯",
     "2",
+    "20",
     "b24",
     "background-position: 0px -128px;"
   ],
   [
     "🥛",
     "3",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🫗",
+    "4",
     "4",
     "b13",
     "background-position: -128px 0px;"
@@ -5276,227 +6155,265 @@
   [
     "🍼",
     "5",
+    "8",
     "b25",
     "background-position: -96px -32px;"
   ],
   [
     "🫖",
     "6",
+    "3",
     "b13",
     "background-position: -96px 0px;"
   ],
   [
     "☕",
     "7",
+    "11",
     "b2 ",
     "background-position: -32px -64px;"
   ],
   [
     "🍵",
     "8",
+    "1",
     "b25",
     "background-position: -32px 0px;"
   ],
   [
     "🧃",
     "9",
+    "11",
     "b11",
     "background-position: -32px -64px;"
   ],
   [
     "🥤",
     "10",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🧋",
     "11",
+    "19",
     "b11",
     "background-position: -128px -96px;"
   ],
   [
     "🍶",
     "12",
+    "2",
     "b25",
     "background-position: -64px 0px;"
   ],
   [
     "🍺",
     "13",
+    "6",
     "b25",
     "background-position: -32px -32px;"
   ],
   [
     "🍻",
     "14",
+    "7",
     "b25",
     "background-position: -64px -32px;"
   ],
   [
     "🥂",
     "15",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🍷",
     "16",
+    "3",
     "b25",
     "background-position: -96px 0px;"
   ],
   [
     "🥃",
     "17",
+    "21",
     "b10",
     "background-position: -32px -128px;"
   ],
   [
     "🍸",
     "18",
+    "4",
     "b25",
     "background-position: -128px 0px;"
   ],
   [
     "🍹",
     "19",
+    "5",
     "b25",
     "background-position: 0px -32px;"
   ],
   [
     "🧉",
     "20",
+    "17",
     "b11",
     "background-position: -64px -96px;"
   ],
   [
     "🍾",
     "21",
+    "10",
     "b25",
     "background-position: 0px -64px;"
   ],
   [
     "🧊",
     "22",
+    "18",
     "b11",
     "background-position: -96px -96px;"
   ],
   [
     "🥄",
     "23",
+    "22",
     "b10",
     "background-position: -64px -128px;"
   ],
   [
     "🤾‍♀️",
     "0",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🤾",
     "1",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🤾‍♂️",
     "2",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🏌️‍♀️",
     "3",
+    "1",
     "b31",
     "background-position: -32px 0px;"
   ],
   [
     "🏌️",
     "4",
+    "0",
     "b31",
     "background-position: 0px 0px;"
   ],
   [
     "🏌️‍♂️",
     "5",
+    "2",
     "b31",
     "background-position: -64px 0px;"
   ],
   [
     "🏇",
     "6",
+    "7",
     "b29",
     "background-position: -64px -32px;"
   ],
   [
     "🧘‍♀️",
     "7",
+    "11",
     "b12",
     "background-position: -32px -64px;"
   ],
   [
     "🧘",
     "8",
+    "10",
     "b12",
     "background-position: 0px -64px;"
   ],
   [
     "🧘‍♂️",
     "9",
+    "12",
     "b12",
     "background-position: -64px -64px;"
   ],
   [
     "🏄‍♀️",
     "10",
+    "18",
     "b28",
     "background-position: -96px -96px;"
   ],
   [
     "🏄",
     "11",
+    "17",
     "b28",
     "background-position: -64px -96px;"
   ],
   [
     "🏄‍♂️",
     "12",
+    "19",
     "b28",
     "background-position: -128px -96px;"
   ],
   [
     "🏊‍♀️",
     "13",
+    "16",
     "b29",
     "background-position: -32px -96px;"
   ],
   [
     "🏊",
     "14",
+    "15",
     "b29",
     "background-position: 0px -96px;"
   ],
   [
     "🏊‍♂️",
     "15",
+    "17",
     "b29",
     "background-position: -64px -96px;"
   ],
   [
     "🤽‍♀️",
     "16",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🤽",
     "17",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "🤽‍♂️",
+    "18",
     "18",
     "b10",
     "background-position: -96px -96px;"
@@ -5504,35 +6421,41 @@
   [
     "🚣‍♀️",
     "19",
+    "10",
     "b90",
     "background-position: 0px -64px;"
   ],
   [
     "🚣",
     "20",
+    "9",
     "b90",
     "background-position: -128px -32px;"
   ],
   [
     "🚣‍♂️",
     "21",
+    "11",
     "b90",
     "background-position: -32px -64px;"
   ],
   [
     "🧗‍♀️",
     "22",
+    "23",
     "b12",
     "background-position: -96px -128px;"
   ],
   [
     "🧗",
     "23",
+    "22",
     "b12",
     "background-position: -64px -128px;"
   ],
   [
     "🍴",
+    "0",
     "0",
     "b25",
     "background-position: 0px 0px;"
@@ -5540,11 +6463,13 @@
   [
     "🍽️",
     "1",
+    "9",
     "b25",
     "background-position: -128px -32px;"
   ],
   [
     "🥣",
+    "2",
     "2",
     "b10",
     "background-position: -64px 0px;"
@@ -5552,29 +6477,34 @@
   [
     "🥡",
     "3",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🥢",
     "4",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🧂",
     "5",
+    "10",
     "b11",
     "background-position: 0px -64px;"
   ],
   [
     "🎤",
     "0",
+    "23",
     "b26",
     "background-position: -96px -128px;"
   ],
   [
     "🎧",
+    "1",
     "1",
     "b27",
     "background-position: -32px 0px;"
@@ -5582,65 +6512,76 @@
   [
     "🎼",
     "2",
+    "22",
     "b27",
     "background-position: -64px -128px;"
   ],
   [
     "🎹",
     "3",
+    "19",
     "b27",
     "background-position: -128px -96px;"
   ],
   [
     "🥁",
     "4",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🪘",
     "5",
+    "19",
     "b13",
     "background-position: -128px -96px;"
   ],
   [
     "🎷",
     "6",
+    "17",
     "b27",
     "background-position: -64px -96px;"
   ],
   [
     "🎺",
     "7",
+    "20",
     "b27",
     "background-position: 0px -128px;"
   ],
   [
     "🪗",
     "8",
+    "18",
     "b13",
     "background-position: -96px -96px;"
   ],
   [
     "🎸",
     "9",
+    "18",
     "b27",
     "background-position: -96px -96px;"
   ],
   [
     "🪕",
     "10",
+    "16",
     "b13",
     "background-position: -32px -96px;"
   ],
   [
     "🎻",
     "11",
+    "21",
     "b27",
     "background-position: -32px -128px;"
   ],
   [
     "🎲",
+    "12",
     "12",
     "b27",
     "background-position: -64px -64px;"
@@ -5648,143 +6589,167 @@
   [
     "♟️",
     "13",
+    "18",
     "b3 ",
     "background-position: -96px -96px;"
   ],
   [
     "🎯",
     "14",
+    "9",
     "b27",
     "background-position: -128px -32px;"
   ],
   [
     "🎳",
     "15",
+    "13",
     "b27",
     "background-position: -96px -64px;"
   ],
   [
     "🎮",
     "16",
+    "8",
     "b27",
     "background-position: -96px -32px;"
   ],
   [
     "🎰",
     "17",
+    "10",
     "b27",
     "background-position: 0px -64px;"
   ],
   [
     "🧩",
     "18",
+    "21",
     "b12",
     "background-position: -32px -128px;"
   ],
   [
     "🌄",
     "0",
+    "15",
     "b20",
     "background-position: 0px -96px;"
   ],
   [
     "🌠",
     "1",
+    "18",
     "b21",
     "background-position: -96px -96px;"
   ],
   [
     "🎇",
     "2",
+    "24",
     "b25",
     "background-position: -128px -128px;"
   ],
   [
     "🎆",
     "3",
+    "23",
     "b25",
     "background-position: -96px -128px;"
   ],
   [
     "🌇",
     "4",
+    "18",
     "b20",
     "background-position: -96px -96px;"
   ],
   [
     "🌆",
     "5",
+    "17",
     "b20",
     "background-position: -64px -96px;"
   ],
   [
     "🏙️",
     "6",
+    "15",
     "b31",
     "background-position: 0px -96px;"
   ],
   [
     "🌃",
     "7",
+    "14",
     "b20",
     "background-position: -128px -64px;"
   ],
   [
     "🌌",
     "8",
+    "23",
     "b20",
     "background-position: -96px -128px;"
   ],
   [
     "🌉",
     "9",
+    "20",
     "b20",
     "background-position: 0px -128px;"
   ],
   [
     "🌁",
     "10",
+    "12",
     "b20",
     "background-position: -64px -64px;"
   ],
   [
     "🚨",
     "0",
+    "1",
     "b91",
     "background-position: -32px 0px;"
   ],
   [
     "🚔",
     "1",
+    "19",
     "b89",
     "background-position: -128px -96px;"
   ],
   [
     "🚍",
     "2",
+    "12",
     "b89",
     "background-position: -64px -64px;"
   ],
   [
     "🚘",
     "3",
+    "23",
     "b89",
     "background-position: -96px -128px;"
   ],
   [
     "🚖",
     "4",
+    "21",
     "b89",
     "background-position: -32px -128px;"
   ],
   [
     "🚡",
     "5",
+    "7",
     "b90",
     "background-position: -64px -32px;"
   ],
   [
     "🚠",
+    "6",
     "6",
     "b90",
     "background-position: -32px -32px;"
@@ -5792,113 +6757,132 @@
   [
     "🚟",
     "7",
+    "5",
     "b90",
     "background-position: 0px -32px;"
   ],
   [
     "🚃",
     "8",
+    "2",
     "b89",
     "background-position: -64px 0px;"
   ],
   [
     "🚋",
     "9",
+    "10",
     "b89",
     "background-position: 0px -64px;"
   ],
   [
     "🚞",
     "10",
+    "4",
     "b90",
     "background-position: -128px 0px;"
   ],
   [
     "🚝",
     "11",
+    "3",
     "b90",
     "background-position: -96px 0px;"
   ],
   [
     "🚄",
     "12",
+    "3",
     "b89",
     "background-position: -96px 0px;"
   ],
   [
     "🚅",
     "13",
+    "4",
     "b89",
     "background-position: -128px 0px;"
   ],
   [
     "🚈",
     "14",
+    "7",
     "b89",
     "background-position: -64px -32px;"
   ],
   [
     "🚂",
     "15",
+    "1",
     "b89",
     "background-position: -32px 0px;"
   ],
   [
     "🚆",
     "16",
+    "5",
     "b89",
     "background-position: 0px -32px;"
   ],
   [
     "🚇",
     "17",
+    "6",
     "b89",
     "background-position: -32px -32px;"
   ],
   [
     "🚊",
     "18",
+    "9",
     "b89",
     "background-position: -128px -32px;"
   ],
   [
     "🚉",
     "19",
+    "8",
     "b89",
     "background-position: -96px -32px;"
   ],
   [
     "✈️",
     "20",
+    "5",
     "b6 ",
     "background-position: 0px -32px;"
   ],
   [
     "🛫",
     "21",
+    "23",
     "b94",
     "background-position: -96px -128px;"
   ],
   [
     "🛬",
     "22",
+    "24",
     "b94",
     "background-position: -128px -128px;"
   ],
   [
     "🛩️",
     "23",
+    "22",
     "b94",
     "background-position: -64px -128px;"
   ],
   [
     "⚽",
     "0",
+    "18",
     "b4 ",
     "background-position: -96px -96px;"
   ],
   [
     "🏀",
+    "1",
     "1",
     "b28",
     "background-position: -32px 0px;"
@@ -5906,29 +6890,34 @@
   [
     "🏈",
     "2",
+    "13",
     "b29",
     "background-position: -96px -64px;"
   ],
   [
     "⚾",
     "3",
+    "19",
     "b4 ",
     "background-position: -128px -96px;"
   ],
   [
     "🥎",
     "4",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🎾",
     "5",
+    "24",
     "b27",
     "background-position: -128px -128px;"
   ],
   [
     "🏐",
+    "6",
     "6",
     "b31",
     "background-position: -32px -32px;"
@@ -5936,125 +6925,146 @@
   [
     "🏉",
     "7",
+    "14",
     "b29",
     "background-position: -128px -64px;"
   ],
   [
     "🥏",
     "8",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "🎱",
     "9",
+    "11",
     "b27",
     "background-position: -32px -64px;"
   ],
   [
     "🪀",
     "10",
+    "4",
     "b13",
     "background-position: -128px 0px;"
   ],
   [
     "🏓",
     "11",
+    "9",
     "b31",
     "background-position: -128px -32px;"
   ],
   [
     "🏸",
     "12",
+    "1",
     "b33",
     "background-position: -32px 0px;"
   ],
   [
     "🏒",
     "13",
+    "8",
     "b31",
     "background-position: -96px -32px;"
   ],
   [
     "🏑",
     "14",
+    "7",
     "b31",
     "background-position: -64px -32px;"
   ],
   [
     "🥍",
     "15",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🏏",
     "16",
+    "5",
     "b31",
     "background-position: 0px -32px;"
   ],
   [
     "🪃",
     "17",
+    "7",
     "b13",
     "background-position: -64px -32px;"
   ],
   [
     "🥅",
     "18",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "⛳",
     "19",
+    "8",
     "b5 ",
     "background-position: -96px -32px;"
   ],
   [
     "🪁",
     "20",
+    "5",
     "b13",
     "background-position: 0px -32px;"
   ],
   [
     "🛝",
     "21",
+    "13",
     "b94",
     "background-position: -96px -64px;"
   ],
   [
     "🏹",
     "22",
+    "2",
     "b33",
     "background-position: -64px 0px;"
   ],
   [
     "🎣",
     "23",
+    "22",
     "b26",
     "background-position: -64px -128px;"
   ],
   [
     "🧗‍♂️",
     "0",
+    "24",
     "b12",
     "background-position: -128px -128px;"
   ],
   [
     "🚵‍♀️",
     "1",
+    "2",
     "b92",
     "background-position: -64px 0px;"
   ],
   [
     "🚵",
     "2",
+    "1",
     "b92",
     "background-position: -32px 0px;"
   ],
   [
     "🚵‍♂️",
+    "3",
     "3",
     "b92",
     "background-position: -96px 0px;"
@@ -6062,53 +7072,62 @@
   [
     "🚴‍♀️",
     "4",
+    "14",
     "b91",
     "background-position: -128px -64px;"
   ],
   [
     "🚴",
     "5",
+    "13",
     "b91",
     "background-position: -96px -64px;"
   ],
   [
     "🚴‍♂️",
     "6",
+    "15",
     "b91",
     "background-position: 0px -96px;"
   ],
   [
     "🏆",
     "7",
+    "6",
     "b29",
     "background-position: -32px -32px;"
   ],
   [
     "🥇",
     "8",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🥈",
     "9",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🥉",
     "10",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🏅",
     "11",
+    "5",
     "b29",
     "background-position: 0px -32px;"
   ],
   [
     "🎖️",
+    "12",
     "12",
     "b26",
     "background-position: -64px -64px;"
@@ -6116,113 +7135,132 @@
   [
     "🏵️",
     "13",
+    "24",
     "b32",
     "background-position: -128px -128px;"
   ],
   [
     "🎗️",
     "14",
+    "13",
     "b26",
     "background-position: -96px -64px;"
   ],
   [
     "🎫",
     "15",
+    "5",
     "b27",
     "background-position: 0px -32px;"
   ],
   [
     "🎟️",
     "16",
+    "18",
     "b26",
     "background-position: -96px -96px;"
   ],
   [
     "🎪",
     "17",
+    "4",
     "b27",
     "background-position: -128px 0px;"
   ],
   [
     "🤹‍♀️",
     "18",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "🤹‍♂️",
     "19",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🎭",
     "20",
+    "7",
     "b27",
     "background-position: -64px -32px;"
   ],
   [
     "🩰",
     "21",
+    "19",
     "b12",
     "background-position: -128px -96px;"
   ],
   [
     "🎨",
     "22",
+    "2",
     "b27",
     "background-position: -64px 0px;"
   ],
   [
     "🎬",
     "23",
+    "6",
     "b27",
     "background-position: -32px -32px;"
   ],
   [
     "🏢",
     "0",
+    "24",
     "b31",
     "background-position: -128px -128px;"
   ],
   [
     "🏬",
     "1",
+    "9",
     "b32",
     "background-position: -128px -32px;"
   ],
   [
     "🏣",
     "2",
+    "0",
     "b32",
     "background-position: 0px 0px;"
   ],
   [
     "🏤",
     "3",
+    "1",
     "b32",
     "background-position: -32px 0px;"
   ],
   [
     "🏥",
     "4",
+    "2",
     "b32",
     "background-position: -64px 0px;"
   ],
   [
     "🏦",
     "5",
+    "3",
     "b32",
     "background-position: -96px 0px;"
   ],
   [
     "🏨",
     "6",
+    "5",
     "b32",
     "background-position: 0px -32px;"
   ],
   [
     "🏪",
+    "7",
     "7",
     "b32",
     "background-position: -64px -32px;"
@@ -6230,71 +7268,83 @@
   [
     "🏫",
     "8",
+    "8",
     "b32",
     "background-position: -96px -32px;"
   ],
   [
     "🏩",
     "9",
+    "6",
     "b32",
     "background-position: -32px -32px;"
   ],
   [
     "💒",
     "10",
+    "4",
     "b71",
     "background-position: -128px 0px;"
   ],
   [
     "🏛️",
     "11",
+    "17",
     "b31",
     "background-position: -64px -96px;"
   ],
   [
     "⛪",
     "12",
+    "4",
     "b5 ",
     "background-position: -128px 0px;"
   ],
   [
     "🕌",
     "13",
+    "8",
     "b78",
     "background-position: -96px -32px;"
   ],
   [
     "🕍",
     "14",
+    "9",
     "b78",
     "background-position: -128px -32px;"
   ],
   [
     "🛕",
     "15",
+    "10",
     "b94",
     "background-position: 0px -64px;"
   ],
   [
     "🕋",
     "16",
+    "7",
     "b78",
     "background-position: -64px -32px;"
   ],
   [
     "⛩️",
     "17",
+    "3",
     "b5 ",
     "background-position: -96px 0px;"
   ],
   [
     "🛤️",
     "18",
+    "20",
     "b94",
     "background-position: 0px -128px;"
   ],
   [
     "🛣️",
+    "19",
     "19",
     "b94",
     "background-position: -128px -96px;"
@@ -6302,107 +7352,125 @@
   [
     "🗾",
     "20",
+    "13",
     "b82",
     "background-position: -96px -64px;"
   ],
   [
     "🎑",
     "21",
+    "9",
     "b26",
     "background-position: -128px -32px;"
   ],
   [
     "🏞️",
     "22",
+    "20",
     "b31",
     "background-position: 0px -128px;"
   ],
   [
     "🌅",
     "23",
+    "16",
     "b20",
     "background-position: -32px -96px;"
   ],
   [
     "🤿",
     "0",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🥊",
     "1",
+    "2",
     "b10",
     "background-position: -64px 0px;"
   ],
   [
     "🥋",
     "2",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🎽",
     "3",
+    "23",
     "b27",
     "background-position: -96px -128px;"
   ],
   [
     "🛹",
     "4",
+    "7",
     "b95",
     "background-position: -64px -32px;"
   ],
   [
     "🛼",
     "5",
+    "10",
     "b95",
     "background-position: 0px -64px;"
   ],
   [
     "🛷",
     "6",
+    "5",
     "b95",
     "background-position: 0px -32px;"
   ],
   [
     "⛸️",
     "7",
+    "12",
     "b5 ",
     "background-position: -64px -64px;"
   ],
   [
     "🥌",
     "8",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🎿",
     "9",
+    "0",
     "b28",
     "background-position: 0px 0px;"
   ],
   [
     "⛷️",
     "10",
+    "11",
     "b5 ",
     "background-position: -32px -64px;"
   ],
   [
     "🏂",
     "11",
+    "3",
     "b28",
     "background-position: -96px 0px;"
   ],
   [
     "🪂",
     "12",
+    "6",
     "b13",
     "background-position: -32px -32px;"
   ],
   [
     "🏋️‍♀️",
+    "13",
     "13",
     "b30",
     "background-position: -96px -64px;"
@@ -6410,461 +7478,538 @@
   [
     "🏋️‍♂️",
     "14",
+    "14",
     "b30",
     "background-position: -128px -64px;"
   ],
   [
     "🤼‍♀️",
     "15",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "🤼‍♂️",
     "16",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🤸‍♀️",
     "17",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🤸",
     "18",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🤸‍♂️",
     "19",
+    "14",
     "b10",
     "background-position: -128px -64px;"
   ],
   [
     "⛹️‍♀️",
     "20",
+    "24",
     "b5 ",
     "background-position: -128px -128px;"
   ],
   [
     "⛹️",
     "21",
+    "23",
     "b5 ",
     "background-position: -96px -128px;"
   ],
   [
     "⛹️‍♂️",
     "22",
+    "0",
     "b6 ",
     "background-position: 0px 0px;"
   ],
   [
     "🤺",
     "23",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🚗",
     "0",
+    "22",
     "b89",
     "background-position: -64px -128px;"
   ],
   [
     "🚕",
     "1",
+    "20",
     "b89",
     "background-position: 0px -128px;"
   ],
   [
     "🚙",
     "2",
+    "24",
     "b89",
     "background-position: -128px -128px;"
   ],
   [
     "🚌",
     "3",
+    "11",
     "b89",
     "background-position: -32px -64px;"
   ],
   [
     "🚎",
     "4",
+    "13",
     "b89",
     "background-position: -96px -64px;"
   ],
   [
     "🏎️",
     "5",
+    "4",
     "b31",
     "background-position: -128px 0px;"
   ],
   [
     "🚓",
     "6",
+    "18",
     "b89",
     "background-position: -96px -96px;"
   ],
   [
     "🚑",
     "7",
+    "16",
     "b89",
     "background-position: -32px -96px;"
   ],
   [
     "🚒",
     "8",
+    "17",
     "b89",
     "background-position: -64px -96px;"
   ],
   [
     "🚐",
     "9",
+    "15",
     "b89",
     "background-position: 0px -96px;"
   ],
   [
     "🛻",
     "10",
+    "9",
     "b95",
     "background-position: -128px -32px;"
   ],
   [
     "🚚",
     "11",
+    "0",
     "b90",
     "background-position: 0px 0px;"
   ],
   [
     "🚛",
     "12",
+    "1",
     "b90",
     "background-position: -32px 0px;"
   ],
   [
     "🚜",
     "13",
+    "2",
     "b90",
     "background-position: -64px 0px;"
   ],
   [
     "🦯",
     "14",
+    "8",
     "b10",
     "background-position: -96px -32px;"
   ],
   [
     "🦽",
     "15",
+    "5",
     "b11",
     "background-position: 0px -32px;"
   ],
   [
     "🦼",
     "16",
+    "4",
     "b11",
     "background-position: -128px 0px;"
   ],
   [
     "🩼",
     "17",
+    "3",
     "b13",
     "background-position: -96px 0px;"
   ],
   [
     "🛴",
     "18",
+    "2",
     "b95",
     "background-position: -64px 0px;"
   ],
   [
     "🚲",
     "19",
+    "11",
     "b91",
     "background-position: -32px -64px;"
   ],
   [
     "🛵",
     "20",
+    "3",
     "b95",
     "background-position: -96px 0px;"
   ],
   [
     "🏍️",
     "21",
+    "3",
     "b31",
     "background-position: -96px 0px;"
   ],
   [
     "🛺",
     "22",
+    "8",
     "b95",
     "background-position: -96px -32px;"
   ],
   [
     "🛞",
     "23",
+    "14",
     "b94",
     "background-position: -128px -64px;"
   ],
   [
     "🏰",
     "0",
+    "13",
     "b32",
     "background-position: -96px -64px;"
   ],
   [
     "🏯",
     "1",
+    "12",
     "b32",
     "background-position: -64px -64px;"
   ],
   [
     "🏟️",
     "2",
+    "21",
     "b31",
     "background-position: -32px -128px;"
   ],
   [
     "🎡",
     "3",
+    "20",
     "b26",
     "background-position: 0px -128px;"
   ],
   [
     "🎢",
     "4",
+    "21",
     "b26",
     "background-position: -32px -128px;"
   ],
   [
     "🎠",
     "5",
+    "19",
     "b26",
     "background-position: -128px -96px;"
   ],
   [
     "⛲",
     "6",
+    "7",
     "b5 ",
     "background-position: -64px -32px;"
   ],
   [
     "⛱️",
     "7",
+    "6",
     "b5 ",
     "background-position: -32px -32px;"
   ],
   [
     "🏖️",
     "8",
+    "12",
     "b31",
     "background-position: -64px -64px;"
   ],
   [
     "🏝️",
     "9",
+    "19",
     "b31",
     "background-position: -128px -96px;"
   ],
   [
     "🏜️",
     "10",
+    "18",
     "b31",
     "background-position: -96px -96px;"
   ],
   [
     "🌋",
     "11",
+    "22",
     "b20",
     "background-position: -64px -128px;"
   ],
   [
     "⛰️",
     "12",
+    "5",
     "b5 ",
     "background-position: 0px -32px;"
   ],
   [
     "🏔️",
     "13",
+    "10",
     "b31",
     "background-position: 0px -64px;"
   ],
   [
     "🗻",
     "14",
+    "10",
     "b82",
     "background-position: 0px -64px;"
   ],
   [
     "🏕️",
     "15",
+    "11",
     "b31",
     "background-position: -32px -64px;"
   ],
   [
     "⛺",
     "16",
+    "1",
     "b6 ",
     "background-position: -32px 0px;"
   ],
   [
     "🛖",
     "17",
+    "11",
     "b94",
     "background-position: -32px -64px;"
   ],
   [
     "🏠",
     "18",
+    "22",
     "b31",
     "background-position: -64px -128px;"
   ],
   [
     "🏡",
     "19",
+    "23",
     "b31",
     "background-position: -96px -128px;"
   ],
   [
     "🏘️",
     "20",
+    "14",
     "b31",
     "background-position: -128px -64px;"
   ],
   [
     "🏚️",
     "21",
+    "16",
     "b31",
     "background-position: -32px -96px;"
   ],
   [
     "🏗️",
     "22",
+    "13",
     "b31",
     "background-position: -96px -64px;"
   ],
   [
     "🏭",
     "23",
+    "10",
     "b32",
     "background-position: 0px -64px;"
   ],
   [
     "🤾‍♀️",
     "0",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🤾",
     "1",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🤾‍♂️",
     "2",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🏌️‍♀️",
     "3",
+    "1",
     "b31",
     "background-position: -32px 0px;"
   ],
   [
     "🏌️",
     "4",
+    "0",
     "b31",
     "background-position: 0px 0px;"
   ],
   [
     "🏌️‍♂️",
     "5",
+    "2",
     "b31",
     "background-position: -64px 0px;"
   ],
   [
     "🏇",
     "6",
+    "7",
     "b29",
     "background-position: -64px -32px;"
   ],
   [
     "🧘‍♀️",
     "7",
+    "11",
     "b12",
     "background-position: -32px -64px;"
   ],
   [
     "🧘",
     "8",
+    "10",
     "b12",
     "background-position: 0px -64px;"
   ],
   [
     "🧘‍♂️",
     "9",
+    "12",
     "b12",
     "background-position: -64px -64px;"
   ],
   [
     "🏄‍♀️",
     "10",
+    "18",
     "b28",
     "background-position: -96px -96px;"
   ],
   [
     "🏄",
     "11",
+    "17",
     "b28",
     "background-position: -64px -96px;"
   ],
   [
     "🏄‍♂️",
     "12",
+    "19",
     "b28",
     "background-position: -128px -96px;"
   ],
   [
     "🏊‍♀️",
     "13",
+    "16",
     "b29",
     "background-position: -32px -96px;"
   ],
   [
     "🏊",
     "14",
+    "15",
     "b29",
     "background-position: 0px -96px;"
   ],
   [
     "🏊‍♂️",
     "15",
+    "17",
     "b29",
     "background-position: -64px -96px;"
   ],
   [
     "🤽‍♀️",
     "16",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🤽",
     "17",
+    "16",
     "b10",
     "background-position: -32px -96px;"
   ],
   [
     "🤽‍♂️",
+    "18",
     "18",
     "b10",
     "background-position: -96px -96px;"
@@ -6872,425 +8017,496 @@
   [
     "🚣‍♀️",
     "19",
+    "10",
     "b90",
     "background-position: 0px -64px;"
   ],
   [
     "🚣",
     "20",
+    "9",
     "b90",
     "background-position: -128px -32px;"
   ],
   [
     "🚣‍♂️",
     "21",
+    "11",
     "b90",
     "background-position: -32px -64px;"
   ],
   [
     "🧗‍♀️",
     "22",
+    "23",
     "b12",
     "background-position: -96px -128px;"
   ],
   [
     "🧗",
     "23",
+    "22",
     "b12",
     "background-position: -64px -128px;"
   ],
   [
     "💺",
     "0",
+    "24",
     "b72",
     "background-position: -128px -128px;"
   ],
   [
     "🛰️",
     "1",
+    "0",
     "b95",
     "background-position: 0px 0px;"
   ],
   [
     "🚀",
     "2",
+    "24",
     "b88",
     "background-position: -128px -128px;"
   ],
   [
     "🛸",
     "3",
+    "6",
     "b95",
     "background-position: -32px -32px;"
   ],
   [
     "🚁",
     "4",
+    "0",
     "b89",
     "background-position: 0px 0px;"
   ],
   [
     "🛶",
     "5",
+    "4",
     "b95",
     "background-position: -128px 0px;"
   ],
   [
     "⛵",
     "6",
+    "10",
     "b5 ",
     "background-position: 0px -64px;"
   ],
   [
     "🚤",
     "7",
+    "22",
     "b90",
     "background-position: -64px -128px;"
   ],
   [
     "🛥️",
     "8",
+    "21",
     "b94",
     "background-position: -32px -128px;"
   ],
   [
     "🛳️",
     "9",
+    "1",
     "b95",
     "background-position: -32px 0px;"
   ],
   [
     "⛴️",
     "10",
+    "9",
     "b5 ",
     "background-position: -128px -32px;"
   ],
   [
     "🚢",
     "11",
+    "8",
     "b90",
     "background-position: -96px -32px;"
   ],
   [
     "🛟",
     "12",
+    "15",
     "b94",
     "background-position: 0px -96px;"
   ],
   [
     "⚓",
     "13",
+    "3",
     "b4 ",
     "background-position: -96px 0px;"
   ],
   [
     "🪝",
     "14",
+    "24",
     "b13",
     "background-position: -128px -128px;"
   ],
   [
     "⛽",
     "15",
+    "2",
     "b6 ",
     "background-position: -64px 0px;"
   ],
   [
     "🚧",
     "16",
+    "0",
     "b91",
     "background-position: 0px 0px;"
   ],
   [
     "🚦",
     "17",
+    "24",
     "b90",
     "background-position: -128px -128px;"
   ],
   [
     "🚥",
     "18",
+    "23",
     "b90",
     "background-position: -96px -128px;"
   ],
   [
     "🚏",
     "19",
+    "14",
     "b89",
     "background-position: -128px -64px;"
   ],
   [
     "🗺️",
     "20",
+    "9",
     "b82",
     "background-position: -128px -32px;"
   ],
   [
     "🗿",
     "21",
+    "14",
     "b82",
     "background-position: -128px -64px;"
   ],
   [
     "🗽",
     "22",
+    "12",
     "b82",
     "background-position: -64px -64px;"
   ],
   [
     "🗼",
     "23",
+    "11",
     "b82",
     "background-position: -32px -64px;"
   ],
   [
     "💸",
     "0",
+    "22",
     "b72",
     "background-position: -64px -128px;"
   ],
   [
     "💵",
     "1",
+    "19",
     "b72",
     "background-position: -128px -96px;"
   ],
   [
     "💴",
     "2",
+    "18",
     "b72",
     "background-position: -96px -96px;"
   ],
   [
     "💶",
     "3",
+    "20",
     "b72",
     "background-position: 0px -128px;"
   ],
   [
     "💷",
     "4",
+    "21",
     "b72",
     "background-position: -32px -128px;"
   ],
   [
     "🪙",
     "5",
+    "20",
     "b13",
     "background-position: 0px -128px;"
   ],
   [
     "💰",
     "6",
+    "14",
     "b72",
     "background-position: -128px -64px;"
   ],
   [
     "💳",
     "7",
+    "17",
     "b72",
     "background-position: -64px -96px;"
   ],
   [
     "🪪",
     "8",
+    "12",
     "b13",
     "background-position: -64px -64px;"
   ],
   [
     "💎",
     "9",
+    "15",
     "b70",
     "background-position: 0px -96px;"
   ],
   [
     "⚖️",
     "10",
+    "6",
     "b4 ",
     "background-position: -32px -32px;"
   ],
   [
     "🪜",
     "11",
+    "23",
     "b13",
     "background-position: -96px -128px;"
   ],
   [
     "🧰",
     "12",
+    "3",
     "b12",
     "background-position: -96px 0px;"
   ],
   [
     "🪛",
     "13",
+    "22",
     "b13",
     "background-position: -64px -128px;"
   ],
   [
     "🔧",
     "14",
+    "7",
     "b77",
     "background-position: -64px -32px;"
   ],
   [
     "🔨",
     "15",
+    "8",
     "b77",
     "background-position: -96px -32px;"
   ],
   [
     "⚒️",
     "16",
+    "2",
     "b4 ",
     "background-position: -64px 0px;"
   ],
   [
     "🛠️",
     "17",
+    "16",
     "b94",
     "background-position: -32px -96px;"
   ],
   [
     "⛏️",
     "18",
+    "24",
     "b4 ",
     "background-position: -128px -128px;"
   ],
   [
     "🪚",
     "19",
+    "21",
     "b13",
     "background-position: -32px -128px;"
   ],
   [
     "🔩",
     "20",
+    "9",
     "b77",
     "background-position: -128px -32px;"
   ],
   [
     "⚙️",
     "21",
+    "8",
     "b4 ",
     "background-position: -96px -32px;"
   ],
   [
     "🪤",
     "22",
+    "6",
     "b13",
     "background-position: -32px -32px;"
   ],
   [
     "🧱",
     "23",
+    "4",
     "b12",
     "background-position: -128px 0px;"
   ],
   [
     "🌄",
     "0",
+    "15",
     "b20",
     "background-position: 0px -96px;"
   ],
   [
     "🌠",
     "1",
+    "18",
     "b21",
     "background-position: -96px -96px;"
   ],
   [
     "🎇",
     "2",
+    "24",
     "b25",
     "background-position: -128px -128px;"
   ],
   [
     "🎆",
     "3",
+    "23",
     "b25",
     "background-position: -96px -128px;"
   ],
   [
     "🌇",
     "4",
+    "18",
     "b20",
     "background-position: -96px -96px;"
   ],
   [
     "🌆",
     "5",
+    "17",
     "b20",
     "background-position: -64px -96px;"
   ],
   [
     "🏙️",
     "6",
+    "15",
     "b31",
     "background-position: 0px -96px;"
   ],
   [
     "🌃",
     "7",
+    "14",
     "b20",
     "background-position: -128px -64px;"
   ],
   [
     "🌌",
     "8",
+    "23",
     "b20",
     "background-position: -96px -128px;"
   ],
   [
     "🌉",
     "9",
+    "20",
     "b20",
     "background-position: 0px -128px;"
   ],
   [
     "🌁",
     "10",
+    "12",
     "b20",
     "background-position: -64px -64px;"
   ],
   [
     "🚨",
     "0",
+    "1",
     "b91",
     "background-position: -32px 0px;"
   ],
   [
     "🚔",
     "1",
+    "19",
     "b89",
     "background-position: -128px -96px;"
   ],
   [
     "🚍",
     "2",
+    "12",
     "b89",
     "background-position: -64px -64px;"
   ],
   [
     "🚘",
     "3",
+    "23",
     "b89",
     "background-position: -96px -128px;"
   ],
   [
     "🚖",
     "4",
+    "21",
     "b89",
     "background-position: -32px -128px;"
   ],
   [
     "🚡",
     "5",
+    "7",
     "b90",
     "background-position: -64px -32px;"
   ],
   [
     "🚠",
+    "6",
     "6",
     "b90",
     "background-position: -32px -32px;"
@@ -7298,293 +8514,342 @@
   [
     "🚟",
     "7",
+    "5",
     "b90",
     "background-position: 0px -32px;"
   ],
   [
     "🚃",
     "8",
+    "2",
     "b89",
     "background-position: -64px 0px;"
   ],
   [
     "🚋",
     "9",
+    "10",
     "b89",
     "background-position: 0px -64px;"
   ],
   [
     "🚞",
     "10",
+    "4",
     "b90",
     "background-position: -128px 0px;"
   ],
   [
     "🚝",
     "11",
+    "3",
     "b90",
     "background-position: -96px 0px;"
   ],
   [
     "🚄",
     "12",
+    "3",
     "b89",
     "background-position: -96px 0px;"
   ],
   [
     "🚅",
     "13",
+    "4",
     "b89",
     "background-position: -128px 0px;"
   ],
   [
     "🚈",
     "14",
+    "7",
     "b89",
     "background-position: -64px -32px;"
   ],
   [
     "🚂",
     "15",
+    "1",
     "b89",
     "background-position: -32px 0px;"
   ],
   [
     "🚆",
     "16",
+    "5",
     "b89",
     "background-position: 0px -32px;"
   ],
   [
     "🚇",
     "17",
+    "6",
     "b89",
     "background-position: -32px -32px;"
   ],
   [
     "🚊",
     "18",
+    "9",
     "b89",
     "background-position: -128px -32px;"
   ],
   [
     "🚉",
     "19",
+    "8",
     "b89",
     "background-position: -96px -32px;"
   ],
   [
     "✈️",
     "20",
+    "5",
     "b6 ",
     "background-position: 0px -32px;"
   ],
   [
     "🛫",
     "21",
+    "23",
     "b94",
     "background-position: -96px -128px;"
   ],
   [
     "🛬",
     "22",
+    "24",
     "b94",
     "background-position: -128px -128px;"
   ],
   [
     "🛩️",
     "23",
+    "22",
     "b94",
     "background-position: -64px -128px;"
   ],
   [
     "⛓️",
     "0",
+    "1",
     "b5 ",
     "background-position: -32px 0px;"
   ],
   [
     "🧲",
     "1",
+    "5",
     "b12",
     "background-position: 0px -32px;"
   ],
   [
     "🔫",
     "2",
+    "11",
     "b77",
     "background-position: -32px -64px;"
   ],
   [
     "💣",
     "3",
+    "21",
     "b71",
     "background-position: -32px -128px;"
   ],
   [
     "🧨",
     "4",
+    "20",
     "b12",
     "background-position: 0px -128px;"
   ],
   [
     "🪓",
     "5",
+    "14",
     "b13",
     "background-position: -128px -64px;"
   ],
   [
     "🔪",
     "6",
+    "10",
     "b77",
     "background-position: 0px -64px;"
   ],
   [
     "🗡️",
     "7",
+    "4",
     "b82",
     "background-position: -128px 0px;"
   ],
   [
     "⚔️",
     "8",
+    "4",
     "b4 ",
     "background-position: -128px 0px;"
   ],
   [
     "🛡️",
     "9",
+    "17",
     "b94",
     "background-position: -64px -96px;"
   ],
   [
     "🚬",
     "10",
+    "5",
     "b91",
     "background-position: 0px -32px;"
   ],
   [
     "⚰️",
     "11",
+    "16",
     "b4 ",
     "background-position: -32px -96px;"
   ],
   [
     "🪦",
     "12",
+    "8",
     "b13",
     "background-position: -96px -32px;"
   ],
   [
     "⚱️",
     "13",
+    "17",
     "b4 ",
     "background-position: -64px -96px;"
   ],
   [
     "🏺",
     "14",
+    "3",
     "b33",
     "background-position: -96px 0px;"
   ],
   [
     "🔮",
     "15",
+    "14",
     "b77",
     "background-position: -128px -64px;"
   ],
   [
     "📿",
     "16",
+    "17",
     "b75",
     "background-position: -64px -96px;"
   ],
   [
     "🧿",
     "17",
+    "18",
     "b12",
     "background-position: -96px -96px;"
   ],
   [
     "🪬",
     "18",
+    "14",
     "b13",
     "background-position: -128px -64px;"
   ],
   [
     "💈",
     "19",
+    "9",
     "b70",
     "background-position: -128px -32px;"
   ],
   [
     "⚗️",
     "20",
+    "7",
     "b4 ",
     "background-position: -64px -32px;"
   ],
   [
     "🔭",
     "21",
+    "13",
     "b77",
     "background-position: -96px -64px;"
   ],
   [
     "🔬",
     "22",
+    "12",
     "b77",
     "background-position: -64px -64px;"
   ],
   [
     "🕳️",
     "23",
+    "12",
     "b79",
     "background-position: -64px -64px;"
   ],
   [
     "🏢",
     "0",
+    "24",
     "b31",
     "background-position: -128px -128px;"
   ],
   [
     "🏬",
     "1",
+    "9",
     "b32",
     "background-position: -128px -32px;"
   ],
   [
     "🏣",
     "2",
+    "0",
     "b32",
     "background-position: 0px 0px;"
   ],
   [
     "🏤",
     "3",
+    "1",
     "b32",
     "background-position: -32px 0px;"
   ],
   [
     "🏥",
     "4",
+    "2",
     "b32",
     "background-position: -64px 0px;"
   ],
   [
     "🏦",
     "5",
+    "3",
     "b32",
     "background-position: -96px 0px;"
   ],
   [
     "🏨",
     "6",
+    "5",
     "b32",
     "background-position: 0px -32px;"
   ],
   [
     "🏪",
+    "7",
     "7",
     "b32",
     "background-position: -64px -32px;"
@@ -7592,71 +8857,83 @@
   [
     "🏫",
     "8",
+    "8",
     "b32",
     "background-position: -96px -32px;"
   ],
   [
     "🏩",
     "9",
+    "6",
     "b32",
     "background-position: -32px -32px;"
   ],
   [
     "💒",
     "10",
+    "4",
     "b71",
     "background-position: -128px 0px;"
   ],
   [
     "🏛️",
     "11",
+    "17",
     "b31",
     "background-position: -64px -96px;"
   ],
   [
     "⛪",
     "12",
+    "4",
     "b5 ",
     "background-position: -128px 0px;"
   ],
   [
     "🕌",
     "13",
+    "8",
     "b78",
     "background-position: -96px -32px;"
   ],
   [
     "🕍",
     "14",
+    "9",
     "b78",
     "background-position: -128px -32px;"
   ],
   [
     "🛕",
     "15",
+    "10",
     "b94",
     "background-position: 0px -64px;"
   ],
   [
     "🕋",
     "16",
+    "7",
     "b78",
     "background-position: -64px -32px;"
   ],
   [
     "⛩️",
     "17",
+    "3",
     "b5 ",
     "background-position: -96px 0px;"
   ],
   [
     "🛤️",
     "18",
+    "20",
     "b94",
     "background-position: 0px -128px;"
   ],
   [
     "🛣️",
+    "19",
     "19",
     "b94",
     "background-position: -128px -96px;"
@@ -7664,239 +8941,279 @@
   [
     "🗾",
     "20",
+    "13",
     "b82",
     "background-position: -96px -64px;"
   ],
   [
     "🎑",
     "21",
+    "9",
     "b26",
     "background-position: -128px -32px;"
   ],
   [
     "🏞️",
     "22",
+    "20",
     "b31",
     "background-position: 0px -128px;"
   ],
   [
     "🌅",
     "23",
+    "16",
     "b20",
     "background-position: -32px -96px;"
   ],
   [
     "🪣",
     "0",
+    "5",
     "b13",
     "background-position: 0px -32px;"
   ],
   [
     "🧴",
     "1",
+    "7",
     "b12",
     "background-position: -64px -32px;"
   ],
   [
     "🛎️",
     "2",
+    "5",
     "b94",
     "background-position: 0px -32px;"
   ],
   [
     "🔑",
     "3",
+    "10",
     "b76",
     "background-position: 0px -64px;"
   ],
   [
     "🗝️",
     "4",
+    "2",
     "b82",
     "background-position: -64px 0px;"
   ],
   [
     "🚪",
     "5",
+    "3",
     "b91",
     "background-position: -96px 0px;"
   ],
   [
     "🪑",
     "6",
+    "12",
     "b13",
     "background-position: -64px -64px;"
   ],
   [
     "🛋️",
     "7",
+    "22",
     "b93",
     "background-position: -64px -128px;"
   ],
   [
     "🛏️",
     "8",
+    "6",
     "b94",
     "background-position: -32px -32px;"
   ],
   [
     "🛌",
     "9",
+    "23",
     "b93",
     "background-position: -96px -128px;"
   ],
   [
     "🧸",
     "10",
+    "11",
     "b12",
     "background-position: -32px -64px;"
   ],
   [
     "🪆",
     "11",
+    "10",
     "b13",
     "background-position: 0px -64px;"
   ],
   [
     "🖼️",
     "12",
+    "19",
     "b81",
     "background-position: -128px -96px;"
   ],
   [
     "🪞",
     "13",
+    "0",
     "b13",
     "background-position: 0px 0px;"
   ],
   [
     "🪟",
     "14",
+    "1",
     "b13",
     "background-position: -32px 0px;"
   ],
   [
     "🛍️",
     "15",
+    "4",
     "b94",
     "background-position: -128px 0px;"
   ],
   [
     "🛒",
     "16",
+    "9",
     "b94",
     "background-position: -128px -32px;"
   ],
   [
     "🎁",
     "17",
+    "13",
     "b25",
     "background-position: -96px -64px;"
   ],
   [
     "🎈",
     "18",
+    "0",
     "b26",
     "background-position: 0px 0px;"
   ],
   [
     "🎏",
     "19",
+    "7",
     "b26",
     "background-position: -64px -32px;"
   ],
   [
     "🎀",
     "20",
+    "12",
     "b25",
     "background-position: -64px -64px;"
   ],
   [
     "🪄",
     "21",
+    "8",
     "b13",
     "background-position: -96px -32px;"
   ],
   [
     "🪅",
     "22",
+    "9",
     "b13",
     "background-position: -128px -32px;"
   ],
   [
     "🎊",
     "23",
+    "2",
     "b26",
     "background-position: -64px 0px;"
   ],
   [
     "📟",
     "0",
+    "11",
     "b74",
     "background-position: -32px -64px;"
   ],
   [
     "📠",
     "1",
+    "12",
     "b74",
     "background-position: -64px -64px;"
   ],
   [
     "📺",
     "2",
+    "13",
     "b75",
     "background-position: -96px -64px;"
   ],
   [
     "📻",
     "3",
+    "14",
     "b75",
     "background-position: -128px -64px;"
   ],
   [
     "🎙️",
     "4",
+    "14",
     "b26",
     "background-position: -128px -64px;"
   ],
   [
     "🎚️",
     "5",
+    "15",
     "b26",
     "background-position: 0px -96px;"
   ],
   [
     "🎛️",
     "6",
+    "16",
     "b26",
     "background-position: -32px -96px;"
   ],
   [
     "🧭",
     "7",
+    "0",
     "b12",
     "background-position: 0px 0px;"
   ],
   [
     "⏱️",
     "8",
+    "13",
     "b1 ",
     "background-position: -96px -64px;"
   ],
   [
     "⏲️",
     "9",
+    "14",
     "b1 ",
     "background-position: -128px -64px;"
   ],
   [
     "⏰",
     "10",
+    "12",
     "b1 ",
     "background-position: -64px -64px;"
   ],
   [
     "🕰️",
+    "11",
     "11",
     "b79",
     "background-position: -32px -64px;"
@@ -7904,131 +9221,153 @@
   [
     "⌛",
     "12",
+    "2",
     "b1 ",
     "background-position: -64px 0px;"
   ],
   [
     "⏳",
     "13",
+    "15",
     "b1 ",
     "background-position: 0px -96px;"
   ],
   [
     "📡",
     "14",
+    "13",
     "b74",
     "background-position: -96px -64px;"
   ],
   [
     "🔋",
     "15",
+    "4",
     "b76",
     "background-position: -128px 0px;"
   ],
   [
     "🪫",
     "16",
+    "13",
     "b13",
     "background-position: -96px -64px;"
   ],
   [
     "🔌",
     "17",
+    "5",
     "b76",
     "background-position: 0px -32px;"
   ],
   [
     "💡",
     "18",
+    "19",
     "b71",
     "background-position: -128px -96px;"
   ],
   [
     "🔦",
     "19",
+    "6",
     "b77",
     "background-position: -32px -32px;"
   ],
   [
     "🕯️",
     "20",
+    "10",
     "b79",
     "background-position: 0px -64px;"
   ],
   [
     "🪔",
     "21",
+    "15",
     "b13",
     "background-position: 0px -96px;"
   ],
   [
     "🧯",
     "22",
+    "2",
     "b12",
     "background-position: -64px 0px;"
   ],
   [
     "🛢️",
     "23",
+    "18",
     "b94",
     "background-position: -96px -96px;"
   ],
   [
     "⌚",
     "0",
+    "1",
     "b1 ",
     "background-position: -32px 0px;"
   ],
   [
     "📱",
     "1",
+    "4",
     "b75",
     "background-position: -128px 0px;"
   ],
   [
     "📲",
     "2",
+    "5",
     "b75",
     "background-position: 0px -32px;"
   ],
   [
     "💻",
     "3",
+    "0",
     "b73",
     "background-position: 0px 0px;"
   ],
   [
     "⌨️",
     "4",
+    "3",
     "b1 ",
     "background-position: -96px 0px;"
   ],
   [
     "🖥️",
     "5",
+    "15",
     "b81",
     "background-position: 0px -96px;"
   ],
   [
     "🖨️",
     "6",
+    "16",
     "b81",
     "background-position: -32px -96px;"
   ],
   [
     "🖱️",
     "7",
+    "17",
     "b81",
     "background-position: -64px -96px;"
   ],
   [
     "🖲️",
     "8",
+    "18",
     "b81",
     "background-position: -96px -96px;"
   ],
   [
     "🕹️",
+    "9",
     "9",
     "b80",
     "background-position: -128px -32px;"
@@ -8036,35 +9375,41 @@
   [
     "🗜️",
     "10",
+    "1",
     "b82",
     "background-position: -32px 0px;"
   ],
   [
     "💽",
     "11",
+    "2",
     "b73",
     "background-position: -64px 0px;"
   ],
   [
     "💾",
     "12",
+    "3",
     "b73",
     "background-position: -96px 0px;"
   ],
   [
     "💿",
     "13",
+    "4",
     "b73",
     "background-position: -128px 0px;"
   ],
   [
     "📀",
     "14",
+    "5",
     "b73",
     "background-position: 0px -32px;"
   ],
   [
     "📼",
+    "15",
     "15",
     "b75",
     "background-position: 0px -96px;"
@@ -8072,275 +9417,321 @@
   [
     "📷",
     "16",
+    "10",
     "b75",
     "background-position: 0px -64px;"
   ],
   [
     "📸",
     "17",
+    "11",
     "b75",
     "background-position: -32px -64px;"
   ],
   [
     "📹",
     "18",
+    "12",
     "b75",
     "background-position: -64px -64px;"
   ],
   [
     "🎥",
     "19",
+    "24",
     "b26",
     "background-position: -128px -128px;"
   ],
   [
     "📽️",
     "20",
+    "16",
     "b75",
     "background-position: -32px -96px;"
   ],
   [
     "🎞️",
     "21",
+    "17",
     "b26",
     "background-position: -64px -96px;"
   ],
   [
     "📞",
     "22",
+    "10",
     "b74",
     "background-position: 0px -64px;"
   ],
   [
     "☎️",
     "23",
+    "8",
     "b2 ",
     "background-position: -96px -32px;"
   ],
   [
     "🏰",
     "0",
+    "13",
     "b32",
     "background-position: -96px -64px;"
   ],
   [
     "🏯",
     "1",
+    "12",
     "b32",
     "background-position: -64px -64px;"
   ],
   [
     "🏟️",
     "2",
+    "21",
     "b31",
     "background-position: -32px -128px;"
   ],
   [
     "🎡",
     "3",
+    "20",
     "b26",
     "background-position: 0px -128px;"
   ],
   [
     "🎢",
     "4",
+    "21",
     "b26",
     "background-position: -32px -128px;"
   ],
   [
     "🎠",
     "5",
+    "19",
     "b26",
     "background-position: -128px -96px;"
   ],
   [
     "⛲",
     "6",
+    "7",
     "b5 ",
     "background-position: -64px -32px;"
   ],
   [
     "⛱️",
     "7",
+    "6",
     "b5 ",
     "background-position: -32px -32px;"
   ],
   [
     "🏖️",
     "8",
+    "12",
     "b31",
     "background-position: -64px -64px;"
   ],
   [
     "🏝️",
     "9",
+    "19",
     "b31",
     "background-position: -128px -96px;"
   ],
   [
     "🏜️",
     "10",
+    "18",
     "b31",
     "background-position: -96px -96px;"
   ],
   [
     "🌋",
     "11",
+    "22",
     "b20",
     "background-position: -64px -128px;"
   ],
   [
     "⛰️",
     "12",
+    "5",
     "b5 ",
     "background-position: 0px -32px;"
   ],
   [
     "🏔️",
     "13",
+    "10",
     "b31",
     "background-position: 0px -64px;"
   ],
   [
     "🗻",
     "14",
+    "10",
     "b82",
     "background-position: 0px -64px;"
   ],
   [
     "🏕️",
     "15",
+    "11",
     "b31",
     "background-position: -32px -64px;"
   ],
   [
     "⛺",
     "16",
+    "1",
     "b6 ",
     "background-position: -32px 0px;"
   ],
   [
     "🛖",
     "17",
+    "11",
     "b94",
     "background-position: -32px -64px;"
   ],
   [
     "🏠",
     "18",
+    "22",
     "b31",
     "background-position: -64px -128px;"
   ],
   [
     "🏡",
     "19",
+    "23",
     "b31",
     "background-position: -96px -128px;"
   ],
   [
     "🏘️",
     "20",
+    "14",
     "b31",
     "background-position: -128px -64px;"
   ],
   [
     "🏚️",
     "21",
+    "16",
     "b31",
     "background-position: -32px -96px;"
   ],
   [
     "🏗️",
     "22",
+    "13",
     "b31",
     "background-position: -96px -64px;"
   ],
   [
     "🏭",
     "23",
+    "10",
     "b32",
     "background-position: 0px -64px;"
   ],
   [
     "🩻",
     "0",
+    "2",
     "b13",
     "background-position: -64px 0px;"
   ],
   [
     "🩹",
     "1",
+    "0",
     "b13",
     "background-position: 0px 0px;"
   ],
   [
     "🩺",
     "2",
+    "1",
     "b13",
     "background-position: -32px 0px;"
   ],
   [
     "💊",
     "3",
+    "11",
     "b70",
     "background-position: -32px -64px;"
   ],
   [
     "💉",
     "4",
+    "10",
     "b70",
     "background-position: 0px -64px;"
   ],
   [
     "🩸",
     "5",
+    "24",
     "b12",
     "background-position: -128px -128px;"
   ],
   [
     "🧬",
     "6",
+    "24",
     "b12",
     "background-position: -128px -128px;"
   ],
   [
     "🦠",
     "7",
+    "18",
     "b10",
     "background-position: -96px -96px;"
   ],
   [
     "🧫",
     "8",
+    "23",
     "b12",
     "background-position: -96px -128px;"
   ],
   [
     "🧪",
     "9",
+    "22",
     "b12",
     "background-position: -64px -128px;"
   ],
   [
     "🌡️",
     "10",
+    "19",
     "b21",
     "background-position: -128px -96px;"
   ],
   [
     "🧹",
     "11",
+    "12",
     "b12",
     "background-position: -64px -64px;"
   ],
   [
     "🪠",
     "12",
+    "2",
     "b13",
     "background-position: -64px 0px;"
   ],
   [
     "🧺",
+    "13",
     "13",
     "b12",
     "background-position: -96px -64px;"
@@ -8348,269 +9739,314 @@
   [
     "🧻",
     "14",
+    "14",
     "b12",
     "background-position: -128px -64px;"
   ],
   [
     "🚽",
     "15",
+    "8",
     "b93",
     "background-position: -96px -32px;"
   ],
   [
     "🚰",
     "16",
+    "9",
     "b91",
     "background-position: -128px -32px;"
   ],
   [
     "🚿",
     "17",
+    "10",
     "b93",
     "background-position: 0px -64px;"
   ],
   [
     "🛁",
     "18",
+    "17",
     "b93",
     "background-position: -64px -96px;"
   ],
   [
     "🛀",
     "19",
+    "11",
     "b93",
     "background-position: -32px -64px;"
   ],
   [
     "🧼",
     "20",
+    "15",
     "b12",
     "background-position: 0px -96px;"
   ],
   [
     "🪥",
     "21",
+    "7",
     "b13",
     "background-position: -64px -32px;"
   ],
   [
     "🪒",
     "22",
+    "13",
     "b13",
     "background-position: -96px -64px;"
   ],
   [
     "🧽",
     "23",
+    "16",
     "b12",
     "background-position: -32px -96px;"
   ],
   [
     "💺",
     "0",
+    "24",
     "b72",
     "background-position: -128px -128px;"
   ],
   [
     "🛰️",
     "1",
+    "0",
     "b95",
     "background-position: 0px 0px;"
   ],
   [
     "🚀",
     "2",
+    "24",
     "b88",
     "background-position: -128px -128px;"
   ],
   [
     "🛸",
     "3",
+    "6",
     "b95",
     "background-position: -32px -32px;"
   ],
   [
     "🚁",
     "4",
+    "0",
     "b89",
     "background-position: 0px 0px;"
   ],
   [
     "🛶",
     "5",
+    "4",
     "b95",
     "background-position: -128px 0px;"
   ],
   [
     "⛵",
     "6",
+    "10",
     "b5 ",
     "background-position: 0px -64px;"
   ],
   [
     "🚤",
     "7",
+    "22",
     "b90",
     "background-position: -64px -128px;"
   ],
   [
     "🛥️",
     "8",
+    "21",
     "b94",
     "background-position: -32px -128px;"
   ],
   [
     "🛳️",
     "9",
+    "1",
     "b95",
     "background-position: -32px 0px;"
   ],
   [
     "⛴️",
     "10",
+    "9",
     "b5 ",
     "background-position: -128px -32px;"
   ],
   [
     "🚢",
     "11",
+    "8",
     "b90",
     "background-position: -96px -32px;"
   ],
   [
     "🛟",
     "12",
+    "15",
     "b94",
     "background-position: 0px -96px;"
   ],
   [
     "⚓",
     "13",
+    "3",
     "b4 ",
     "background-position: -96px 0px;"
   ],
   [
     "🪝",
     "14",
+    "24",
     "b13",
     "background-position: -128px -128px;"
   ],
   [
     "⛽",
     "15",
+    "2",
     "b6 ",
     "background-position: -64px 0px;"
   ],
   [
     "🚧",
     "16",
+    "0",
     "b91",
     "background-position: 0px 0px;"
   ],
   [
     "🚦",
     "17",
+    "24",
     "b90",
     "background-position: -128px -128px;"
   ],
   [
     "🚥",
     "18",
+    "23",
     "b90",
     "background-position: -96px -128px;"
   ],
   [
     "🚏",
     "19",
+    "14",
     "b89",
     "background-position: -128px -64px;"
   ],
   [
     "🗺️",
     "20",
+    "9",
     "b82",
     "background-position: -128px -32px;"
   ],
   [
     "🗿",
     "21",
+    "14",
     "b82",
     "background-position: -128px -64px;"
   ],
   [
     "🗽",
     "22",
+    "12",
     "b82",
     "background-position: -64px -64px;"
   ],
   [
     "🗼",
     "23",
+    "11",
     "b82",
     "background-position: -32px -64px;"
   ],
   [
     "🔍",
     "0",
+    "6",
     "b76",
     "background-position: -32px -32px;"
   ],
   [
     "🔎",
     "1",
+    "7",
     "b76",
     "background-position: -64px -32px;"
   ],
   [
     "🔏",
     "2",
+    "8",
     "b76",
     "background-position: -96px -32px;"
   ],
   [
     "🔐",
     "3",
+    "9",
     "b76",
     "background-position: -128px -32px;"
   ],
   [
     "🔒",
     "4",
+    "11",
     "b76",
     "background-position: -32px -64px;"
   ],
   [
     "🔓",
     "5",
+    "12",
     "b76",
     "background-position: -64px -64px;"
   ],
   [
     "☢️",
     "0",
+    "20",
     "b2 ",
     "background-position: 0px -128px;"
   ],
   [
     "☣️",
     "1",
+    "21",
     "b2 ",
     "background-position: -32px -128px;"
   ],
   [
     "📴",
     "2",
+    "7",
     "b75",
     "background-position: -64px -32px;"
   ],
   [
     "📳",
     "3",
+    "6",
     "b75",
     "background-position: -32px -32px;"
   ],
   [
     "🈶",
+    "4",
     "4",
     "b20",
     "background-position: -128px 0px;"
@@ -8618,11 +10054,13 @@
   [
     "🈚",
     "5",
+    "23",
     "b19",
     "background-position: -96px -128px;"
   ],
   [
     "🈸",
+    "6",
     "6",
     "b20",
     "background-position: -32px -32px;"
@@ -8630,143 +10068,167 @@
   [
     "🈺",
     "7",
+    "8",
     "b20",
     "background-position: -96px -32px;"
   ],
   [
     "🈷️",
     "8",
+    "5",
     "b20",
     "background-position: 0px -32px;"
   ],
   [
     "✴️",
     "9",
+    "14",
     "b7 ",
     "background-position: -128px -64px;"
   ],
   [
     "🆚",
     "10",
+    "12",
     "b9 ",
     "background-position: -64px -64px;"
   ],
   [
     "💮",
     "11",
+    "12",
     "b72",
     "background-position: -64px -64px;"
   ],
   [
     "🉐",
     "12",
+    "9",
     "b20",
     "background-position: -128px -32px;"
   ],
   [
     "㊙️",
     "13",
+    "20",
     "b8 ",
     "background-position: 0px -128px;"
   ],
   [
     "㊗️",
     "14",
+    "19",
     "b8 ",
     "background-position: -128px -96px;"
   ],
   [
     "🈴",
     "15",
+    "2",
     "b20",
     "background-position: -64px 0px;"
   ],
   [
     "🈵",
     "16",
+    "3",
     "b20",
     "background-position: -96px 0px;"
   ],
   [
     "🈹",
     "17",
+    "7",
     "b20",
     "background-position: -64px -32px;"
   ],
   [
     "🈲",
     "18",
+    "0",
     "b20",
     "background-position: 0px 0px;"
   ],
   [
     "🅰️",
     "19",
+    "23",
     "b8 ",
     "background-position: -96px -128px;"
   ],
   [
     "🅱️",
     "20",
+    "24",
     "b8 ",
     "background-position: -128px -128px;"
   ],
   [
     "🆎",
     "21",
+    "2",
     "b9 ",
     "background-position: -64px 0px;"
   ],
   [
     "🆑",
     "22",
+    "3",
     "b9 ",
     "background-position: -96px 0px;"
   ],
   [
     "🅾️",
     "23",
+    "0",
     "b9 ",
     "background-position: 0px 0px;"
   ],
   [
     "🎉",
     "0",
+    "1",
     "b26",
     "background-position: -32px 0px;"
   ],
   [
     "🎎",
     "1",
+    "6",
     "b26",
     "background-position: -32px -32px;"
   ],
   [
     "🏮",
     "2",
+    "11",
     "b32",
     "background-position: -32px -64px;"
   ],
   [
     "🎐",
     "3",
+    "8",
     "b26",
     "background-position: -96px -32px;"
   ],
   [
     "🪩",
     "4",
+    "11",
     "b13",
     "background-position: -32px -64px;"
   ],
   [
     "🧧",
     "5",
+    "19",
     "b12",
     "background-position: -128px -96px;"
   ],
   [
     "✉️",
+    "6",
     "6",
     "b6 ",
     "background-position: -32px -32px;"
@@ -8774,113 +10236,132 @@
   [
     "📩",
     "7",
+    "21",
     "b74",
     "background-position: -32px -128px;"
   ],
   [
     "📨",
     "8",
+    "20",
     "b74",
     "background-position: 0px -128px;"
   ],
   [
     "📧",
     "9",
+    "19",
     "b74",
     "background-position: -128px -96px;"
   ],
   [
     "💌",
     "10",
+    "13",
     "b70",
     "background-position: -96px -64px;"
   ],
   [
     "📥",
     "11",
+    "17",
     "b74",
     "background-position: -64px -96px;"
   ],
   [
     "📤",
     "12",
+    "16",
     "b74",
     "background-position: -32px -96px;"
   ],
   [
     "📦",
     "13",
+    "18",
     "b74",
     "background-position: -96px -96px;"
   ],
   [
     "🏷️",
     "14",
+    "0",
     "b33",
     "background-position: 0px 0px;"
   ],
   [
     "🪧",
     "15",
+    "9",
     "b13",
     "background-position: -128px -32px;"
   ],
   [
     "📪",
     "16",
+    "22",
     "b74",
     "background-position: -64px -128px;"
   ],
   [
     "📫",
     "17",
+    "23",
     "b74",
     "background-position: -96px -128px;"
   ],
   [
     "📬",
     "18",
+    "24",
     "b74",
     "background-position: -128px -128px;"
   ],
   [
     "📭",
     "19",
+    "0",
     "b75",
     "background-position: 0px 0px;"
   ],
   [
     "📮",
     "20",
+    "1",
     "b75",
     "background-position: -32px 0px;"
   ],
   [
     "📯",
     "21",
+    "2",
     "b75",
     "background-position: -64px 0px;"
   ],
   [
     "📜",
     "22",
+    "8",
     "b74",
     "background-position: -96px -32px;"
   ],
   [
     "📃",
     "23",
+    "8",
     "b73",
     "background-position: -96px -32px;"
   ],
   [
     "🕉️",
     "0",
+    "5",
     "b78",
     "background-position: 0px -32px;"
   ],
   [
     "☸️",
+    "1",
     "1",
     "b3 ",
     "background-position: -32px 0px;"
@@ -8888,35 +10369,41 @@
   [
     "✡️",
     "2",
+    "11",
     "b7 ",
     "background-position: -32px -64px;"
   ],
   [
     "🔯",
     "3",
+    "15",
     "b77",
     "background-position: 0px -96px;"
   ],
   [
     "🕎",
     "4",
+    "10",
     "b78",
     "background-position: 0px -64px;"
   ],
   [
     "☯️",
     "5",
+    "0",
     "b3 ",
     "background-position: 0px 0px;"
   ],
   [
     "☦️",
     "6",
+    "22",
     "b2 ",
     "background-position: -64px -128px;"
   ],
   [
     "🛐",
+    "7",
     "7",
     "b94",
     "background-position: -64px -32px;"
@@ -8924,203 +10411,237 @@
   [
     "⛎",
     "8",
+    "23",
     "b4 ",
     "background-position: -96px -128px;"
   ],
   [
     "♈",
     "9",
+    "6",
     "b3 ",
     "background-position: -32px -32px;"
   ],
   [
     "♉",
     "10",
+    "7",
     "b3 ",
     "background-position: -64px -32px;"
   ],
   [
     "♊",
     "11",
+    "8",
     "b3 ",
     "background-position: -96px -32px;"
   ],
   [
     "♋",
     "12",
+    "9",
     "b3 ",
     "background-position: -128px -32px;"
   ],
   [
     "♌",
     "13",
+    "10",
     "b3 ",
     "background-position: 0px -64px;"
   ],
   [
     "♍",
     "14",
+    "11",
     "b3 ",
     "background-position: -32px -64px;"
   ],
   [
     "♎",
     "15",
+    "12",
     "b3 ",
     "background-position: -64px -64px;"
   ],
   [
     "♏",
     "16",
+    "13",
     "b3 ",
     "background-position: -96px -64px;"
   ],
   [
     "♐",
     "17",
+    "14",
     "b3 ",
     "background-position: -128px -64px;"
   ],
   [
     "♑",
     "18",
+    "15",
     "b3 ",
     "background-position: 0px -96px;"
   ],
   [
     "♒",
     "19",
+    "16",
     "b3 ",
     "background-position: -32px -96px;"
   ],
   [
     "♓",
     "20",
+    "17",
     "b3 ",
     "background-position: -64px -96px;"
   ],
   [
     "🆔",
     "21",
+    "6",
     "b9 ",
     "background-position: -32px -32px;"
   ],
   [
     "⚛️",
     "22",
+    "9",
     "b4 ",
     "background-position: -128px -32px;"
   ],
   [
     "🉑",
     "23",
+    "10",
     "b20",
     "background-position: 0px -64px;"
   ],
   [
     "📕",
     "0",
+    "1",
     "b74",
     "background-position: -32px 0px;"
   ],
   [
     "📗",
     "1",
+    "3",
     "b74",
     "background-position: -96px 0px;"
   ],
   [
     "📘",
     "2",
+    "4",
     "b74",
     "background-position: -128px 0px;"
   ],
   [
     "📙",
     "3",
+    "5",
     "b74",
     "background-position: 0px -32px;"
   ],
   [
     "📚",
     "4",
+    "6",
     "b74",
     "background-position: -32px -32px;"
   ],
   [
     "📖",
     "5",
+    "2",
     "b74",
     "background-position: -64px 0px;"
   ],
   [
     "🔖",
     "6",
+    "15",
     "b76",
     "background-position: 0px -96px;"
   ],
   [
     "🧷",
     "7",
+    "10",
     "b12",
     "background-position: 0px -64px;"
   ],
   [
     "🔗",
     "8",
+    "16",
     "b76",
     "background-position: -32px -96px;"
   ],
   [
     "📎",
     "9",
+    "19",
     "b73",
     "background-position: -128px -96px;"
   ],
   [
     "🖇️",
     "10",
+    "16",
     "b80",
     "background-position: -32px -96px;"
   ],
   [
     "📐",
     "11",
+    "21",
     "b73",
     "background-position: -32px -128px;"
   ],
   [
     "📏",
     "12",
+    "20",
     "b73",
     "background-position: 0px -128px;"
   ],
   [
     "🧮",
     "13",
+    "1",
     "b12",
     "background-position: -32px 0px;"
   ],
   [
     "📌",
     "14",
+    "17",
     "b73",
     "background-position: -64px -96px;"
   ],
   [
     "📍",
     "15",
+    "18",
     "b73",
     "background-position: -96px -96px;"
   ],
   [
     "✂️",
     "16",
+    "3",
     "b6 ",
     "background-position: -96px 0px;"
   ],
   [
     "🖊️",
+    "17",
     "17",
     "b80",
     "background-position: -64px -96px;"
@@ -9128,113 +10649,132 @@
   [
     "🖋️",
     "18",
+    "18",
     "b80",
     "background-position: -96px -96px;"
   ],
   [
     "✒️",
     "19",
+    "7",
     "b7 ",
     "background-position: -64px -32px;"
   ],
   [
     "🖌️",
     "20",
+    "19",
     "b80",
     "background-position: -128px -96px;"
   ],
   [
     "🖍️",
     "21",
+    "20",
     "b80",
     "background-position: 0px -128px;"
   ],
   [
     "📝",
     "22",
+    "9",
     "b74",
     "background-position: -128px -32px;"
   ],
   [
     "✏️",
     "23",
+    "6",
     "b7 ",
     "background-position: -32px -32px;"
   ],
   [
     "🆘",
     "0",
+    "10",
     "b9 ",
     "background-position: 0px -64px;"
   ],
   [
     "❌",
     "1",
+    "17",
     "b7 ",
     "background-position: -64px -96px;"
   ],
   [
     "⭕",
     "2",
+    "16",
     "b8 ",
     "background-position: -32px -96px;"
   ],
   [
     "🛑",
     "3",
+    "8",
     "b94",
     "background-position: -96px -32px;"
   ],
   [
     "⛔",
     "4",
+    "2",
     "b5 ",
     "background-position: -64px 0px;"
   ],
   [
     "📛",
     "5",
+    "7",
     "b74",
     "background-position: -64px -32px;"
   ],
   [
     "🚫",
     "6",
+    "4",
     "b91",
     "background-position: -128px 0px;"
   ],
   [
     "💯",
     "7",
+    "13",
     "b72",
     "background-position: -96px -64px;"
   ],
   [
     "💢",
     "8",
+    "20",
     "b71",
     "background-position: 0px -128px;"
   ],
   [
     "♨️",
     "9",
+    "23",
     "b3 ",
     "background-position: -96px -128px;"
   ],
   [
     "🚷",
     "10",
+    "2",
     "b93",
     "background-position: -64px 0px;"
   ],
   [
     "🚯",
     "11",
+    "8",
     "b91",
     "background-position: -96px -32px;"
   ],
   [
     "🚳",
+    "12",
     "12",
     "b91",
     "background-position: -64px -64px;"
@@ -9242,41 +10782,48 @@
   [
     "🚱",
     "13",
+    "10",
     "b91",
     "background-position: 0px -64px;"
   ],
   [
     "🔞",
     "14",
+    "23",
     "b76",
     "background-position: -96px -128px;"
   ],
   [
     "📵",
     "15",
+    "8",
     "b75",
     "background-position: -96px -32px;"
   ],
   [
     "🚭",
     "16",
+    "6",
     "b91",
     "background-position: -32px -32px;"
   ],
   [
     "❗",
     "17",
+    "22",
     "b7 ",
     "background-position: -64px -128px;"
   ],
   [
     "❕",
     "18",
+    "21",
     "b7 ",
     "background-position: -32px -128px;"
   ],
   [
     "❓",
+    "19",
     "19",
     "b7 ",
     "background-position: -128px -96px;"
@@ -9284,23 +10831,27 @@
   [
     "❔",
     "20",
+    "20",
     "b7 ",
     "background-position: 0px -128px;"
   ],
   [
     "‼️",
     "21",
+    "14",
     "b0 ",
     "background-position: -128px -64px;"
   ],
   [
     "⁉️",
     "22",
+    "15",
     "b0 ",
     "background-position: 0px -96px;"
   ],
   [
     "🔅",
+    "23",
     "23",
     "b75",
     "background-position: -96px -128px;"
@@ -9308,287 +10859,335 @@
   [
     "🪣",
     "0",
+    "5",
     "b13",
     "background-position: 0px -32px;"
   ],
   [
     "🧴",
     "1",
+    "7",
     "b12",
     "background-position: -64px -32px;"
   ],
   [
     "🛎️",
     "2",
+    "5",
     "b94",
     "background-position: 0px -32px;"
   ],
   [
     "🔑",
     "3",
+    "10",
     "b76",
     "background-position: 0px -64px;"
   ],
   [
     "🗝️",
     "4",
+    "2",
     "b82",
     "background-position: -64px 0px;"
   ],
   [
     "🚪",
     "5",
+    "3",
     "b91",
     "background-position: -96px 0px;"
   ],
   [
     "🪑",
     "6",
+    "12",
     "b13",
     "background-position: -64px -64px;"
   ],
   [
     "🛋️",
     "7",
+    "22",
     "b93",
     "background-position: -64px -128px;"
   ],
   [
     "🛏️",
     "8",
+    "6",
     "b94",
     "background-position: -32px -32px;"
   ],
   [
     "🛌",
     "9",
+    "23",
     "b93",
     "background-position: -96px -128px;"
   ],
   [
     "🧸",
     "10",
+    "11",
     "b12",
     "background-position: -32px -64px;"
   ],
   [
     "🪆",
     "11",
+    "10",
     "b13",
     "background-position: 0px -64px;"
   ],
   [
     "🖼️",
     "12",
+    "19",
     "b81",
     "background-position: -128px -96px;"
   ],
   [
     "🪞",
     "13",
+    "0",
     "b13",
     "background-position: 0px 0px;"
   ],
   [
     "🪟",
     "14",
+    "1",
     "b13",
     "background-position: -32px 0px;"
   ],
   [
     "🛍️",
     "15",
+    "4",
     "b94",
     "background-position: -128px 0px;"
   ],
   [
     "🛒",
     "16",
+    "9",
     "b94",
     "background-position: -128px -32px;"
   ],
   [
     "🎁",
     "17",
+    "13",
     "b25",
     "background-position: -96px -64px;"
   ],
   [
     "🎈",
     "18",
+    "0",
     "b26",
     "background-position: 0px 0px;"
   ],
   [
     "🎏",
     "19",
+    "7",
     "b26",
     "background-position: -64px -32px;"
   ],
   [
     "🎀",
     "20",
+    "12",
     "b25",
     "background-position: -64px -64px;"
   ],
   [
     "🪄",
     "21",
+    "8",
     "b13",
     "background-position: -96px -32px;"
   ],
   [
     "🪅",
     "22",
+    "9",
     "b13",
     "background-position: -128px -32px;"
   ],
   [
     "🎊",
     "23",
+    "2",
     "b26",
     "background-position: -64px 0px;"
   ],
   [
     "❤️",
     "0",
+    "24",
     "b7 ",
     "background-position: -128px -128px;"
   ],
   [
     "🧡",
     "1",
+    "13",
     "b12",
     "background-position: -96px -64px;"
   ],
   [
     "💛",
     "2",
+    "13",
     "b71",
     "background-position: -96px -64px;"
   ],
   [
     "💚",
     "3",
+    "12",
     "b71",
     "background-position: -64px -64px;"
   ],
   [
     "💙",
     "4",
+    "11",
     "b71",
     "background-position: -32px -64px;"
   ],
   [
     "💜",
     "5",
+    "14",
     "b71",
     "background-position: -128px -64px;"
   ],
   [
     "🖤",
     "6",
+    "14",
     "b81",
     "background-position: -128px -64px;"
   ],
   [
     "🤍",
     "7",
+    "5",
     "b96",
     "background-position: 0px -32px;"
   ],
   [
     "🤎",
     "8",
+    "6",
     "b96",
     "background-position: -32px -32px;"
   ],
   [
     "💔",
     "9",
+    "6",
     "b71",
     "background-position: -32px -32px;"
   ],
   [
     "❤️‍🔥",
     "10",
+    "0",
     "b8 ",
     "background-position: 0px 0px;"
   ],
   [
     "❤️‍🩹",
     "11",
+    "1",
     "b8 ",
     "background-position: -32px 0px;"
   ],
   [
     "❣️",
     "12",
+    "23",
     "b7 ",
     "background-position: -96px -128px;"
   ],
   [
     "💕",
     "13",
+    "7",
     "b71",
     "background-position: -64px -32px;"
   ],
   [
     "💞",
     "14",
+    "16",
     "b71",
     "background-position: -32px -96px;"
   ],
   [
     "💓",
     "15",
+    "5",
     "b71",
     "background-position: 0px -32px;"
   ],
   [
     "💗",
     "16",
+    "9",
     "b71",
     "background-position: -128px -32px;"
   ],
   [
     "💖",
     "17",
+    "8",
     "b71",
     "background-position: -96px -32px;"
   ],
   [
     "💘",
     "18",
+    "10",
     "b71",
     "background-position: 0px -64px;"
   ],
   [
     "💝",
     "19",
+    "15",
     "b71",
     "background-position: 0px -96px;"
   ],
   [
     "💟",
     "20",
+    "17",
     "b71",
     "background-position: -64px -96px;"
   ],
   [
     "☮️",
     "21",
+    "24",
     "b2 ",
     "background-position: -128px -128px;"
   ],
   [
     "✝️",
     "22",
+    "10",
     "b7 ",
     "background-position: 0px -64px;"
   ],
   [
     "☪️",
+    "23",
     "23",
     "b2 ",
     "background-position: -96px -128px;"
@@ -9596,23 +11195,27 @@
   [
     "🔆",
     "0",
+    "24",
     "b75",
     "background-position: -128px -128px;"
   ],
   [
     "〽️",
     "1",
+    "18",
     "b8 ",
     "background-position: -96px -96px;"
   ],
   [
     "⚠️",
     "2",
+    "11",
     "b4 ",
     "background-position: -32px -64px;"
   ],
   [
     "🚸",
+    "3",
     "3",
     "b93",
     "background-position: -96px 0px;"
@@ -9620,263 +11223,307 @@
   [
     "🔱",
     "4",
+    "17",
     "b77",
     "background-position: -64px -96px;"
   ],
   [
     "⚜️",
     "5",
+    "10",
     "b4 ",
     "background-position: 0px -64px;"
   ],
   [
     "🔰",
     "6",
+    "16",
     "b77",
     "background-position: -32px -96px;"
   ],
   [
     "♻️",
     "7",
+    "24",
     "b3 ",
     "background-position: -128px -128px;"
   ],
   [
     "✅",
     "8",
+    "4",
     "b6 ",
     "background-position: -128px 0px;"
   ],
   [
     "🈯",
     "9",
+    "24",
     "b19",
     "background-position: -128px -128px;"
   ],
   [
     "💹",
     "10",
+    "23",
     "b72",
     "background-position: -96px -128px;"
   ],
   [
     "❇️",
     "11",
+    "16",
     "b7 ",
     "background-position: -32px -96px;"
   ],
   [
     "✳️",
     "12",
+    "13",
     "b7 ",
     "background-position: -96px -64px;"
   ],
   [
     "❎",
     "13",
+    "18",
     "b7 ",
     "background-position: -96px -96px;"
   ],
   [
     "🌐",
     "14",
+    "2",
     "b21",
     "background-position: -64px 0px;"
   ],
   [
     "💠",
     "15",
+    "18",
     "b71",
     "background-position: -96px -96px;"
   ],
   [
     "Ⓜ️",
     "16",
+    "19",
     "b1 ",
     "background-position: -128px -96px;"
   ],
   [
     "🌀",
     "17",
+    "11",
     "b20",
     "background-position: -32px -64px;"
   ],
   [
     "💤",
     "18",
+    "22",
     "b71",
     "background-position: -64px -128px;"
   ],
   [
     "🏧",
     "19",
+    "4",
     "b32",
     "background-position: -128px 0px;"
   ],
   [
     "🚾",
     "20",
+    "9",
     "b93",
     "background-position: -128px -32px;"
   ],
   [
     "♿",
     "21",
+    "1",
     "b4 ",
     "background-position: -32px 0px;"
   ],
   [
     "🅿️",
     "22",
+    "1",
     "b9 ",
     "background-position: -32px 0px;"
   ],
   [
     "🛗",
     "23",
+    "12",
     "b94",
     "background-position: -64px -64px;"
   ],
   [
     "📄",
     "0",
+    "9",
     "b73",
     "background-position: -128px -32px;"
   ],
   [
     "📑",
     "1",
+    "22",
     "b73",
     "background-position: -64px -128px;"
   ],
   [
     "🧾",
     "2",
+    "17",
     "b12",
     "background-position: -64px -96px;"
   ],
   [
     "📊",
     "3",
+    "15",
     "b73",
     "background-position: 0px -96px;"
   ],
   [
     "📈",
     "4",
+    "13",
     "b73",
     "background-position: -96px -64px;"
   ],
   [
     "📉",
     "5",
+    "14",
     "b73",
     "background-position: -128px -64px;"
   ],
   [
     "🗒️",
     "6",
+    "24",
     "b81",
     "background-position: -128px -128px;"
   ],
   [
     "🗓️",
     "7",
+    "0",
     "b82",
     "background-position: 0px 0px;"
   ],
   [
     "📆",
     "8",
+    "11",
     "b73",
     "background-position: -32px -64px;"
   ],
   [
     "📅",
     "9",
+    "10",
     "b73",
     "background-position: 0px -64px;"
   ],
   [
     "🗑️",
     "10",
+    "23",
     "b81",
     "background-position: -96px -128px;"
   ],
   [
     "📇",
     "11",
+    "12",
     "b73",
     "background-position: -64px -64px;"
   ],
   [
     "🗃️",
     "12",
+    "21",
     "b81",
     "background-position: -32px -128px;"
   ],
   [
     "🗳️",
     "13",
+    "8",
     "b82",
     "background-position: -96px -32px;"
   ],
   [
     "🗄️",
     "14",
+    "22",
     "b81",
     "background-position: -64px -128px;"
   ],
   [
     "📋",
     "15",
+    "16",
     "b73",
     "background-position: -32px -96px;"
   ],
   [
     "📁",
     "16",
+    "6",
     "b73",
     "background-position: -32px -32px;"
   ],
   [
     "📂",
     "17",
+    "7",
     "b73",
     "background-position: -64px -32px;"
   ],
   [
     "🗂️",
     "18",
+    "20",
     "b81",
     "background-position: 0px -128px;"
   ],
   [
     "🗞️",
     "19",
+    "3",
     "b82",
     "background-position: -96px 0px;"
   ],
   [
     "📰",
     "20",
+    "3",
     "b75",
     "background-position: -96px 0px;"
   ],
   [
     "📓",
     "21",
+    "24",
     "b73",
     "background-position: -128px -128px;"
   ],
   [
     "📔",
     "22",
+    "0",
     "b74",
     "background-position: 0px 0px;"
   ],
   [
     "📒",
+    "23",
     "23",
     "b73",
     "background-position: -96px -128px;"
@@ -9884,233 +11531,272 @@
   [
     "🈳",
     "0",
+    "1",
     "b20",
     "background-position: -32px 0px;"
   ],
   [
     "🈂️",
     "1",
+    "22",
     "b19",
     "background-position: -64px -128px;"
   ],
   [
     "🛂",
     "2",
+    "18",
     "b93",
     "background-position: -96px -96px;"
   ],
   [
     "🛃",
     "3",
+    "19",
     "b93",
     "background-position: -128px -96px;"
   ],
   [
     "🛄",
     "4",
+    "20",
     "b93",
     "background-position: 0px -128px;"
   ],
   [
     "🛅",
     "5",
+    "21",
     "b93",
     "background-position: -32px -128px;"
   ],
   [
     "🚹",
     "6",
+    "4",
     "b93",
     "background-position: -128px 0px;"
   ],
   [
     "🚺",
     "7",
+    "5",
     "b93",
     "background-position: 0px -32px;"
   ],
   [
     "🚼",
     "8",
+    "7",
     "b93",
     "background-position: -64px -32px;"
   ],
   [
     "⚧️",
     "9",
+    "13",
     "b4 ",
     "background-position: -96px -64px;"
   ],
   [
     "🚻",
     "10",
+    "6",
     "b93",
     "background-position: -32px -32px;"
   ],
   [
     "🚮",
     "11",
+    "7",
     "b91",
     "background-position: -64px -32px;"
   ],
   [
     "🎦",
     "12",
+    "0",
     "b27",
     "background-position: 0px 0px;"
   ],
   [
     "📶",
     "13",
+    "9",
     "b75",
     "background-position: -128px -32px;"
   ],
   [
     "🈁",
     "14",
+    "21",
     "b19",
     "background-position: -32px -128px;"
   ],
   [
     "🔣",
     "15",
+    "3",
     "b77",
     "background-position: -96px 0px;"
   ],
   [
     "ℹ️",
     "16",
+    "17",
     "b0 ",
     "background-position: -64px -96px;"
   ],
   [
     "🔤",
     "17",
+    "4",
     "b77",
     "background-position: -128px 0px;"
   ],
   [
     "🔡",
     "18",
+    "1",
     "b77",
     "background-position: -32px 0px;"
   ],
   [
     "🔠",
     "19",
+    "0",
     "b77",
     "background-position: 0px 0px;"
   ],
   [
     "🆖",
     "20",
+    "8",
     "b9 ",
     "background-position: -96px -32px;"
   ],
   [
     "🆗",
     "21",
+    "9",
     "b9 ",
     "background-position: -128px -32px;"
   ],
   [
     "🆙",
     "22",
+    "11",
     "b9 ",
     "background-position: -32px -64px;"
   ],
   [
     "🆒",
     "23",
+    "4",
     "b9 ",
     "background-position: -128px 0px;"
   ],
   [
     "🏳️",
     "0",
+    "15",
     "b32",
     "background-position: 0px -96px;"
   ],
   [
     "🏴",
     "1",
+    "18",
     "b32",
     "background-position: -96px -96px;"
   ],
   [
     "🏴‍☠️",
     "2",
+    "19",
     "b32",
     "background-position: -128px -96px;"
   ],
   [
     "🏁",
     "3",
+    "2",
     "b28",
     "background-position: -64px 0px;"
   ],
   [
     "🚩",
     "4",
+    "2",
     "b91",
     "background-position: -64px 0px;"
   ],
   [
     "🏳️‍🌈",
     "5",
+    "17",
     "b32",
     "background-position: -64px -96px;"
   ],
   [
     "🏳️‍⚧️",
     "6",
+    "16",
     "b32",
     "background-position: -32px -96px;"
   ],
   [
     "🏳‍🟧‍⬛‍🟧",
     "7",
+    "14",
     "b32",
     "background-position: -128px -64px;"
   ],
   [
     "🇺🇳",
     "8",
+    "2",
     "b19",
     "background-position: -64px 0px;"
   ],
   [
     "🇦🇫",
     "9",
+    "16",
     "b9 ",
     "background-position: -32px -96px;"
   ],
   [
     "🇦🇽",
     "10",
+    "3",
     "b10",
     "background-position: -96px 0px;"
   ],
   [
     "🇦🇱",
     "11",
+    "19",
     "b9 ",
     "background-position: -128px -96px;"
   ],
   [
     "🇩🇿",
     "12",
+    "2",
     "b12",
     "background-position: -64px 0px;"
   ],
   [
     "🇦🇸",
     "13",
+    "24",
     "b9 ",
     "background-position: -128px -128px;"
   ],
   [
     "🇦🇩",
+    "14",
     "14",
     "b9 ",
     "background-position: -128px -64px;"
@@ -10118,35 +11804,41 @@
   [
     "🇦🇴",
     "15",
+    "21",
     "b9 ",
     "background-position: -32px -128px;"
   ],
   [
     "🇦🇮",
     "16",
+    "18",
     "b9 ",
     "background-position: -96px -96px;"
   ],
   [
     "🇦🇶",
     "17",
+    "22",
     "b9 ",
     "background-position: -64px -128px;"
   ],
   [
     "🇦🇬",
     "18",
+    "17",
     "b9 ",
     "background-position: -64px -96px;"
   ],
   [
     "🇦🇷",
     "19",
+    "23",
     "b9 ",
     "background-position: -96px -128px;"
   ],
   [
     "🇦🇲",
+    "20",
     "20",
     "b9 ",
     "background-position: 0px -128px;"
@@ -10154,23 +11846,27 @@
   [
     "🇦🇼",
     "21",
+    "2",
     "b10",
     "background-position: -64px 0px;"
   ],
   [
     "🇦🇺",
     "22",
+    "1",
     "b10",
     "background-position: -32px 0px;"
   ],
   [
     "🇦🇹",
     "23",
+    "0",
     "b10",
     "background-position: 0px 0px;"
   ],
   [
     "◼️",
+    "0",
     "0",
     "b2 ",
     "background-position: 0px 0px;"
@@ -10178,281 +11874,328 @@
   [
     "◻️",
     "1",
+    "24",
     "b1 ",
     "background-position: -128px -128px;"
   ],
   [
     "🟥",
     "2",
+    "16",
     "b95",
     "background-position: -32px -96px;"
   ],
   [
     "🟧",
     "3",
+    "18",
     "b95",
     "background-position: -96px -96px;"
   ],
   [
     "🟨",
     "4",
+    "19",
     "b95",
     "background-position: -128px -96px;"
   ],
   [
     "🟩",
     "5",
+    "20",
     "b95",
     "background-position: 0px -128px;"
   ],
   [
     "🟦",
     "6",
+    "17",
     "b95",
     "background-position: -64px -96px;"
   ],
   [
     "🟪",
     "7",
+    "21",
     "b95",
     "background-position: -32px -128px;"
   ],
   [
     "⬛",
     "8",
+    "13",
     "b8 ",
     "background-position: -96px -64px;"
   ],
   [
     "⬜",
     "9",
+    "14",
     "b8 ",
     "background-position: -128px -64px;"
   ],
   [
     "🟫",
     "10",
+    "22",
     "b95",
     "background-position: -64px -128px;"
   ],
   [
     "🔈",
     "11",
+    "1",
     "b76",
     "background-position: -32px 0px;"
   ],
   [
     "🔇",
     "12",
+    "0",
     "b76",
     "background-position: 0px 0px;"
   ],
   [
     "🔉",
     "13",
+    "2",
     "b76",
     "background-position: -64px 0px;"
   ],
   [
     "🔊",
     "14",
+    "3",
     "b76",
     "background-position: -96px 0px;"
   ],
   [
     "🔔",
     "15",
+    "13",
     "b76",
     "background-position: -96px -64px;"
   ],
   [
     "🔕",
     "16",
+    "14",
     "b76",
     "background-position: -128px -64px;"
   ],
   [
     "📣",
     "17",
+    "15",
     "b74",
     "background-position: 0px -96px;"
   ],
   [
     "📢",
     "18",
+    "14",
     "b74",
     "background-position: -128px -64px;"
   ],
   [
     "💬",
     "19",
+    "10",
     "b72",
     "background-position: 0px -64px;"
   ],
   [
     "💭",
     "20",
+    "11",
     "b72",
     "background-position: -32px -64px;"
   ],
   [
     "🗯️",
     "21",
+    "7",
     "b82",
     "background-position: -64px -32px;"
   ],
   [
     "♠️",
     "22",
+    "19",
     "b3 ",
     "background-position: -128px -96px;"
   ],
   [
     "♣️",
     "23",
+    "20",
     "b3 ",
     "background-position: 0px -128px;"
   ],
   [
     "🇨🇻",
     "0",
+    "16",
     "b11",
     "background-position: -32px -96px;"
   ],
   [
     "🇧🇶",
     "1",
+    "18",
     "b10",
     "background-position: -96px -96px;"
   ],
   [
     "🇰🇾",
     "2",
+    "17",
     "b14",
     "background-position: -64px -96px;"
   ],
   [
     "🇨🇫",
     "3",
+    "4",
     "b11",
     "background-position: -128px 0px;"
   ],
   [
     "🇹🇩",
     "4",
+    "9",
     "b18",
     "background-position: -128px -32px;"
   ],
   [
     "🇮🇴",
     "5",
+    "24",
     "b13",
     "background-position: -128px -128px;"
   ],
   [
     "🇨🇱",
     "6",
+    "9",
     "b11",
     "background-position: -128px -32px;"
   ],
   [
     "🇨🇳",
     "7",
+    "11",
     "b11",
     "background-position: -32px -64px;"
   ],
   [
     "🇨🇽",
     "8",
+    "18",
     "b11",
     "background-position: -96px -96px;"
   ],
   [
     "🇨🇨",
     "9",
+    "2",
     "b11",
     "background-position: -64px 0px;"
   ],
   [
     "🇨🇴",
     "10",
+    "12",
     "b11",
     "background-position: -64px -64px;"
   ],
   [
     "🇰🇲",
     "11",
+    "12",
     "b14",
     "background-position: -64px -64px;"
   ],
   [
     "🇨🇬",
     "12",
+    "5",
     "b11",
     "background-position: 0px -32px;"
   ],
   [
     "🇨🇩",
     "13",
+    "3",
     "b11",
     "background-position: -96px 0px;"
   ],
   [
     "🇨🇰",
     "14",
+    "8",
     "b11",
     "background-position: -96px -32px;"
   ],
   [
     "🇨🇷",
     "15",
+    "14",
     "b11",
     "background-position: -128px -64px;"
   ],
   [
     "🇨🇮",
     "16",
+    "7",
     "b11",
     "background-position: -64px -32px;"
   ],
   [
     "🇭🇷",
     "17",
+    "15",
     "b13",
     "background-position: 0px -96px;"
   ],
   [
     "🇨🇺",
     "18",
+    "15",
     "b11",
     "background-position: 0px -96px;"
   ],
   [
     "🇨🇼",
     "19",
+    "17",
     "b11",
     "background-position: -64px -96px;"
   ],
   [
     "🇨🇾",
     "20",
+    "19",
     "b11",
     "background-position: -128px -96px;"
   ],
   [
     "🇨🇿",
     "21",
+    "20",
     "b11",
     "background-position: 0px -128px;"
   ],
   [
     "🇩🇰",
     "22",
+    "24",
     "b11",
     "background-position: -128px -128px;"
   ],
   [
     "🇩🇯",
+    "23",
     "23",
     "b11",
     "background-position: -96px -128px;"
@@ -10460,245 +12203,286 @@
   [
     "♥️",
     "0",
+    "21",
     "b3 ",
     "background-position: -32px -128px;"
   ],
   [
     "♦️",
     "1",
+    "22",
     "b3 ",
     "background-position: -64px -128px;"
   ],
   [
     "🃏",
     "2",
+    "22",
     "b8 ",
     "background-position: -64px -128px;"
   ],
   [
     "🎴",
     "3",
+    "14",
     "b27",
     "background-position: -128px -64px;"
   ],
   [
     "🀄",
     "4",
+    "21",
     "b8 ",
     "background-position: -32px -128px;"
   ],
   [
     "🕐",
     "5",
+    "11",
     "b78",
     "background-position: -32px -64px;"
   ],
   [
     "🕑",
     "6",
+    "12",
     "b78",
     "background-position: -64px -64px;"
   ],
   [
     "🕒",
     "7",
+    "13",
     "b78",
     "background-position: -96px -64px;"
   ],
   [
     "🕓",
     "8",
+    "14",
     "b78",
     "background-position: -128px -64px;"
   ],
   [
     "🕔",
     "9",
+    "15",
     "b78",
     "background-position: 0px -96px;"
   ],
   [
     "🕕",
     "10",
+    "16",
     "b78",
     "background-position: -32px -96px;"
   ],
   [
     "🕖",
     "11",
+    "17",
     "b78",
     "background-position: -64px -96px;"
   ],
   [
     "🕗",
     "12",
+    "18",
     "b78",
     "background-position: -96px -96px;"
   ],
   [
     "🕘",
     "13",
+    "19",
     "b78",
     "background-position: -128px -96px;"
   ],
   [
     "🕙",
     "14",
+    "20",
     "b78",
     "background-position: 0px -128px;"
   ],
   [
     "🕚",
     "15",
+    "21",
     "b78",
     "background-position: -32px -128px;"
   ],
   [
     "🕛",
     "16",
+    "22",
     "b78",
     "background-position: -64px -128px;"
   ],
   [
     "🕜",
     "17",
+    "23",
     "b78",
     "background-position: -96px -128px;"
   ],
   [
     "🕝",
     "18",
+    "24",
     "b78",
     "background-position: -128px -128px;"
   ],
   [
     "🕞",
     "19",
+    "0",
     "b79",
     "background-position: 0px 0px;"
   ],
   [
     "🕟",
     "20",
+    "1",
     "b79",
     "background-position: -32px 0px;"
   ],
   [
     "🕠",
     "21",
+    "2",
     "b79",
     "background-position: -64px 0px;"
   ],
   [
     "🕡",
     "22",
+    "3",
     "b79",
     "background-position: -96px 0px;"
   ],
   [
     "🕢",
     "23",
+    "4",
     "b79",
     "background-position: -128px 0px;"
   ],
   [
     "🇦🇿",
     "0",
+    "4",
     "b10",
     "background-position: -128px 0px;"
   ],
   [
     "🇧🇸",
     "1",
+    "20",
     "b10",
     "background-position: 0px -128px;"
   ],
   [
     "🇧🇭",
     "2",
+    "11",
     "b10",
     "background-position: -32px -64px;"
   ],
   [
     "🇧🇩",
     "3",
+    "7",
     "b10",
     "background-position: -64px -32px;"
   ],
   [
     "🇧🇧",
     "4",
+    "6",
     "b10",
     "background-position: -32px -32px;"
   ],
   [
     "🇧🇾",
     "5",
+    "24",
     "b10",
     "background-position: -128px -128px;"
   ],
   [
     "🇧🇪",
     "6",
+    "8",
     "b10",
     "background-position: -96px -32px;"
   ],
   [
     "🇧🇿",
     "7",
+    "0",
     "b11",
     "background-position: 0px 0px;"
   ],
   [
     "🇧🇯",
     "8",
+    "13",
     "b10",
     "background-position: -96px -64px;"
   ],
   [
     "🇧🇲",
     "9",
+    "15",
     "b10",
     "background-position: 0px -96px;"
   ],
   [
     "🇧🇹",
     "10",
+    "21",
     "b10",
     "background-position: -32px -128px;"
   ],
   [
     "🇧🇴",
     "11",
+    "17",
     "b10",
     "background-position: -64px -96px;"
   ],
   [
     "🇧🇦",
     "12",
+    "5",
     "b10",
     "background-position: 0px -32px;"
   ],
   [
     "🇧🇼",
     "13",
+    "23",
     "b10",
     "background-position: -96px -128px;"
   ],
   [
     "🇧🇷",
     "14",
+    "19",
     "b10",
     "background-position: -128px -96px;"
   ],
   [
     "🇻🇬",
     "15",
+    "9",
     "b19",
     "background-position: -128px -32px;"
   ],
   [
     "🇧🇳",
+    "16",
     "16",
     "b10",
     "background-position: -32px -96px;"
@@ -10706,167 +12490,195 @@
   [
     "🇧🇬",
     "17",
+    "10",
     "b10",
     "background-position: 0px -64px;"
   ],
   [
     "🇧🇫",
     "18",
+    "9",
     "b10",
     "background-position: -128px -32px;"
   ],
   [
     "🇧🇮",
     "19",
+    "12",
     "b10",
     "background-position: -64px -64px;"
   ],
   [
     "🇰🇭",
     "20",
+    "10",
     "b14",
     "background-position: 0px -64px;"
   ],
   [
     "🇨🇲",
     "21",
+    "10",
     "b11",
     "background-position: 0px -64px;"
   ],
   [
     "🇨🇦",
     "22",
+    "1",
     "b11",
     "background-position: -32px 0px;"
   ],
   [
     "🇮🇨",
     "23",
+    "18",
     "b13",
     "background-position: -96px -96px;"
   ],
   [
     "✔️",
     "0",
+    "8",
     "b7 ",
     "background-position: -96px -32px;"
   ],
   [
     "☑️",
     "1",
+    "9",
     "b2 ",
     "background-position: -128px -32px;"
   ],
   [
     "🔘",
     "2",
+    "17",
     "b76",
     "background-position: -64px -96px;"
   ],
   [
     "🔴",
     "3",
+    "20",
     "b77",
     "background-position: 0px -128px;"
   ],
   [
     "🟠",
     "4",
+    "11",
     "b95",
     "background-position: -32px -64px;"
   ],
   [
     "🟡",
     "5",
+    "12",
     "b95",
     "background-position: -64px -64px;"
   ],
   [
     "🟢",
     "6",
+    "13",
     "b95",
     "background-position: -96px -64px;"
   ],
   [
     "🔵",
     "7",
+    "21",
     "b77",
     "background-position: -32px -128px;"
   ],
   [
     "🟣",
     "8",
+    "14",
     "b95",
     "background-position: -128px -64px;"
   ],
   [
     "⚫",
     "9",
+    "15",
     "b4 ",
     "background-position: 0px -96px;"
   ],
   [
     "⚪",
     "10",
+    "14",
     "b4 ",
     "background-position: -128px -64px;"
   ],
   [
     "🟤",
     "11",
+    "15",
     "b95",
     "background-position: 0px -96px;"
   ],
   [
     "🔺",
     "12",
+    "1",
     "b78",
     "background-position: -32px 0px;"
   ],
   [
     "🔻",
     "13",
+    "2",
     "b78",
     "background-position: -64px 0px;"
   ],
   [
     "🔸",
     "14",
+    "24",
     "b77",
     "background-position: -128px -128px;"
   ],
   [
     "🔹",
     "15",
+    "0",
     "b78",
     "background-position: 0px 0px;"
   ],
   [
     "🔶",
     "16",
+    "22",
     "b77",
     "background-position: -64px -128px;"
   ],
   [
     "🔷",
     "17",
+    "23",
     "b77",
     "background-position: -96px -128px;"
   ],
   [
     "🔳",
     "18",
+    "19",
     "b77",
     "background-position: -128px -96px;"
   ],
   [
     "🔲",
     "19",
+    "18",
     "b77",
     "background-position: -96px -96px;"
   ],
   [
     "▪️",
+    "20",
     "20",
     "b1 ",
     "background-position: 0px -128px;"
@@ -10874,341 +12686,398 @@
   [
     "▫️",
     "21",
+    "21",
     "b1 ",
     "background-position: -32px -128px;"
   ],
   [
     "◾",
     "22",
+    "2",
     "b2 ",
     "background-position: -64px 0px;"
   ],
   [
     "◽",
     "23",
+    "1",
     "b2 ",
     "background-position: -32px 0px;"
   ],
   [
     "🔄",
     "0",
+    "22",
     "b75",
     "background-position: -64px -128px;"
   ],
   [
     "🔃",
     "1",
+    "21",
     "b75",
     "background-position: -32px -128px;"
   ],
   [
     "🎵",
     "2",
+    "15",
     "b27",
     "background-position: 0px -96px;"
   ],
   [
     "🎶",
     "3",
+    "16",
     "b27",
     "background-position: -32px -96px;"
   ],
   [
     "➕",
     "4",
+    "2",
     "b8 ",
     "background-position: -64px 0px;"
   ],
   [
     "➖",
     "5",
+    "3",
     "b8 ",
     "background-position: -96px 0px;"
   ],
   [
     "➗",
     "6",
+    "4",
     "b8 ",
     "background-position: -128px 0px;"
   ],
   [
     "✖️",
     "7",
+    "9",
     "b7 ",
     "background-position: -128px -32px;"
   ],
   [
     "🟰",
     "8",
+    "23",
     "b95",
     "background-position: -96px -128px;"
   ],
   [
     "♾️",
     "9",
+    "0",
     "b4 ",
     "background-position: 0px 0px;"
   ],
   [
     "💲",
     "10",
+    "16",
     "b72",
     "background-position: -32px -96px;"
   ],
   [
     "💱",
     "11",
+    "15",
     "b72",
     "background-position: 0px -96px;"
   ],
   [
     "™️",
     "12",
+    "16",
     "b0 ",
     "background-position: -32px -96px;"
   ],
   [
     "©️",
     "13",
+    "12",
     "b0 ",
     "background-position: -64px -64px;"
   ],
   [
     "®️",
     "14",
+    "13",
     "b0 ",
     "background-position: -96px -64px;"
   ],
   [
     "👁️‍🗨️",
     "15",
+    "3",
     "b36",
     "background-position: -96px 0px;"
   ],
   [
     "🔚",
     "16",
+    "19",
     "b76",
     "background-position: -128px -96px;"
   ],
   [
     "🔙",
     "17",
+    "18",
     "b76",
     "background-position: -96px -96px;"
   ],
   [
     "🔛",
     "18",
+    "20",
     "b76",
     "background-position: 0px -128px;"
   ],
   [
     "🔝",
     "19",
+    "22",
     "b76",
     "background-position: -64px -128px;"
   ],
   [
     "🔜",
     "20",
+    "21",
     "b76",
     "background-position: -32px -128px;"
   ],
   [
     "〰️",
     "21",
+    "17",
     "b8 ",
     "background-position: -64px -96px;"
   ],
   [
     "➰",
     "22",
+    "6",
     "b8 ",
     "background-position: -32px -32px;"
   ],
   [
     "➿",
     "23",
+    "7",
     "b8 ",
     "background-position: -64px -32px;"
   ],
   [
     "🕣",
     "0",
+    "5",
     "b79",
     "background-position: 0px -32px;"
   ],
   [
     "🕤",
     "1",
+    "6",
     "b79",
     "background-position: -32px -32px;"
   ],
   [
     "🕥",
     "2",
+    "7",
     "b79",
     "background-position: -64px -32px;"
   ],
   [
     "🕦",
     "3",
+    "8",
     "b79",
     "background-position: -96px -32px;"
   ],
   [
     "🕧",
     "4",
+    "9",
     "b79",
     "background-position: -128px -32px;"
   ],
   [
     "🇯🇲",
     "0",
+    "5",
     "b14",
     "background-position: 0px -32px;"
   ],
   [
     "🇯🇵",
     "1",
+    "7",
     "b14",
     "background-position: -64px -32px;"
   ],
   [
     "🎌",
     "2",
+    "4",
     "b26",
     "background-position: -128px 0px;"
   ],
   [
     "🇯🇪",
     "3",
+    "4",
     "b14",
     "background-position: -128px 0px;"
   ],
   [
     "🇯🇴",
     "4",
+    "6",
     "b14",
     "background-position: -32px -32px;"
   ],
   [
     "🇰🇿",
     "5",
+    "18",
     "b14",
     "background-position: -96px -96px;"
   ],
   [
     "🇰🇪",
     "6",
+    "8",
     "b14",
     "background-position: -96px -32px;"
   ],
   [
     "🇰🇮",
     "7",
+    "11",
     "b14",
     "background-position: -32px -64px;"
   ],
   [
     "🇽🇰",
     "8",
+    "15",
     "b19",
     "background-position: 0px -96px;"
   ],
   [
     "🇰🇼",
     "9",
+    "16",
     "b14",
     "background-position: -32px -96px;"
   ],
   [
     "🇰🇬",
     "10",
+    "9",
     "b14",
     "background-position: -128px -32px;"
   ],
   [
     "🇱🇦",
     "11",
+    "19",
     "b14",
     "background-position: -128px -96px;"
   ],
   [
     "🇱🇻",
     "12",
+    "3",
     "b15",
     "background-position: -96px 0px;"
   ],
   [
     "🇱🇧",
     "13",
+    "20",
     "b14",
     "background-position: 0px -128px;"
   ],
   [
     "🇱🇸",
     "14",
+    "0",
     "b15",
     "background-position: 0px 0px;"
   ],
   [
     "🇱🇷",
     "15",
+    "24",
     "b14",
     "background-position: -128px -128px;"
   ],
   [
     "🇱🇾",
     "16",
+    "4",
     "b15",
     "background-position: -128px 0px;"
   ],
   [
     "🇱🇮",
     "17",
+    "22",
     "b14",
     "background-position: -64px -128px;"
   ],
   [
     "🇱🇹",
     "18",
+    "1",
     "b15",
     "background-position: -32px 0px;"
   ],
   [
     "🇱🇺",
     "19",
+    "2",
     "b15",
     "background-position: -64px 0px;"
   ],
   [
     "🇲🇴",
     "20",
+    "16",
     "b15",
     "background-position: -32px -96px;"
   ],
   [
     "🇲🇬",
     "21",
+    "10",
     "b15",
     "background-position: 0px -64px;"
   ],
   [
     "🇲🇼",
     "22",
+    "24",
     "b15",
     "background-position: -128px -128px;"
   ],
   [
     "🇲🇾",
     "23",
+    "1",
     "b16",
     "background-position: -32px 0px;"
   ],
   [
     "🇩🇲",
+    "0",
     "0",
     "b12",
     "background-position: 0px 0px;"
@@ -11216,29 +13085,34 @@
   [
     "🇩🇴",
     "1",
+    "1",
     "b12",
     "background-position: -32px 0px;"
   ],
   [
     "🇪🇨",
     "2",
+    "4",
     "b12",
     "background-position: -128px 0px;"
   ],
   [
     "🇪🇬",
     "3",
+    "6",
     "b12",
     "background-position: -32px -32px;"
   ],
   [
     "🇸🇻",
     "4",
+    "3",
     "b18",
     "background-position: -96px 0px;"
   ],
   [
     "🇬🇶",
+    "5",
     "5",
     "b13",
     "background-position: 0px -32px;"
@@ -11246,47 +13120,55 @@
   [
     "🇪🇷",
     "6",
+    "8",
     "b12",
     "background-position: -96px -32px;"
   ],
   [
     "🇪🇪",
     "7",
+    "5",
     "b12",
     "background-position: 0px -32px;"
   ],
   [
     "🇸🇿",
     "8",
+    "6",
     "b18",
     "background-position: -32px -32px;"
   ],
   [
     "🇪🇹",
     "9",
+    "10",
     "b12",
     "background-position: 0px -64px;"
   ],
   [
     "🇪🇺",
     "10",
+    "11",
     "b12",
     "background-position: -32px -64px;"
   ],
   [
     "🇫🇰",
     "11",
+    "14",
     "b12",
     "background-position: -128px -64px;"
   ],
   [
     "🇫🇴",
     "12",
+    "16",
     "b12",
     "background-position: -32px -96px;"
   ],
   [
     "🇫🇯",
+    "13",
     "13",
     "b12",
     "background-position: -96px -64px;"
@@ -11294,47 +13176,55 @@
   [
     "🇫🇮",
     "14",
+    "12",
     "b12",
     "background-position: -64px -64px;"
   ],
   [
     "🇫🇷",
     "15",
+    "17",
     "b12",
     "background-position: -64px -96px;"
   ],
   [
     "🇬🇫",
     "16",
+    "22",
     "b12",
     "background-position: -64px -128px;"
   ],
   [
     "🇵🇫",
     "17",
+    "18",
     "b16",
     "background-position: -96px -96px;"
   ],
   [
     "🇹🇫",
     "18",
+    "10",
     "b18",
     "background-position: 0px -64px;"
   ],
   [
     "🇬🇦",
     "19",
+    "18",
     "b12",
     "background-position: -96px -96px;"
   ],
   [
     "🇬🇲",
     "20",
+    "2",
     "b13",
     "background-position: -64px 0px;"
   ],
   [
     "🇬🇪",
+    "21",
     "21",
     "b12",
     "background-position: -32px -128px;"
@@ -11342,17 +13232,20 @@
   [
     "🇩🇪",
     "22",
+    "21",
     "b11",
     "background-position: -32px -128px;"
   ],
   [
     "🇬🇭",
     "23",
+    "24",
     "b12",
     "background-position: -128px -128px;"
   ],
   [
     "🇬🇮",
+    "0",
     "0",
     "b13",
     "background-position: 0px 0px;"
@@ -11360,23 +13253,27 @@
   [
     "🇬🇷",
     "1",
+    "6",
     "b13",
     "background-position: -32px -32px;"
   ],
   [
     "🇬🇱",
     "2",
+    "1",
     "b13",
     "background-position: -32px 0px;"
   ],
   [
     "🇬🇩",
     "3",
+    "20",
     "b12",
     "background-position: 0px -128px;"
   ],
   [
     "🇬🇵",
+    "4",
     "4",
     "b13",
     "background-position: -128px 0px;"
@@ -11384,95 +13281,111 @@
   [
     "🇬🇺",
     "5",
+    "9",
     "b13",
     "background-position: -128px -32px;"
   ],
   [
     "🇬🇹",
     "6",
+    "8",
     "b13",
     "background-position: -96px -32px;"
   ],
   [
     "🇬🇬",
     "7",
+    "23",
     "b12",
     "background-position: -96px -128px;"
   ],
   [
     "🇬🇳",
     "8",
+    "3",
     "b13",
     "background-position: -96px 0px;"
   ],
   [
     "🇬🇼",
     "9",
+    "10",
     "b13",
     "background-position: 0px -64px;"
   ],
   [
     "🇬🇾",
     "10",
+    "11",
     "b13",
     "background-position: -32px -64px;"
   ],
   [
     "🇭🇹",
     "11",
+    "16",
     "b13",
     "background-position: -32px -96px;"
   ],
   [
     "🇭🇳",
     "12",
+    "14",
     "b13",
     "background-position: -128px -64px;"
   ],
   [
     "🇭🇰",
     "13",
+    "12",
     "b13",
     "background-position: -64px -64px;"
   ],
   [
     "🇭🇺",
     "14",
+    "17",
     "b13",
     "background-position: -64px -96px;"
   ],
   [
     "🇮🇸",
     "15",
+    "2",
     "b14",
     "background-position: -64px 0px;"
   ],
   [
     "🇮🇳",
     "16",
+    "23",
     "b13",
     "background-position: -96px -128px;"
   ],
   [
     "🇮🇩",
     "17",
+    "19",
     "b13",
     "background-position: -128px -96px;"
   ],
   [
     "🇮🇷",
     "18",
+    "1",
     "b14",
     "background-position: -32px 0px;"
   ],
   [
     "🇮🇶",
     "19",
+    "0",
     "b14",
     "background-position: 0px 0px;"
   ],
   [
     "🇮🇪",
+    "20",
     "20",
     "b13",
     "background-position: 0px -128px;"
@@ -11480,18 +13393,21 @@
   [
     "🇮🇲",
     "21",
+    "22",
     "b13",
     "background-position: -64px -128px;"
   ],
   [
     "🇮🇱",
     "22",
+    "21",
     "b13",
     "background-position: -32px -128px;"
   ],
   [
     "🇮🇹",
     "23",
+    "3",
     "b14",
     "background-position: -96px 0px;"
   ]
