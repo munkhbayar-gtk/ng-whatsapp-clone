@@ -10,13 +10,17 @@ import { EmojiDataService } from 'src/app/services/emoji-data.service';
 export class EmojiComponent implements OnInit {
 
   @Input("subIdx")
-  subIdx : number = 0;
+  subIdx : number = -1;
 
   @Input("idx")
-  idx : number = 0;
+  idx : number = -1;
 
   @Input("scale")
   scale : number = 0.8;
+
+  @Input("emoji-data")
+  eData : EmojiData
+
   private _emojiData : EmojiData;
 
   get emojiData() : EmojiData {
@@ -37,9 +41,14 @@ export class EmojiComponent implements OnInit {
     this.redraw();
   }
   private redraw() {
-    console.log('redraw', this.idx, this.subIdx);
-    const data = this.emojiService.getEmoji(this.idx, this.subIdx);
-    this._emojiData = data !!;
+    if(this.idx < 0) {
+      console.log('redraw by input data', this.idx, this.subIdx);
+      this._emojiData = this.eData;
+    }else{
+      console.log('redraw by indices', this.idx, this.subIdx);
+      const data = this.emojiService.getEmoji(this.idx, this.subIdx);
+      this._emojiData = data !!;
+    }
   }
 
   url() : string {

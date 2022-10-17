@@ -21,32 +21,50 @@ export class EmojiDataService {
   constructor() {
   }
 
+  getEmojisByIndex(idx : number) : Array<EmojiData>{
+    const idxAsStr = `${idx}`;
+    const ret = new Array<EmojiData>();
+    for(const prop in this.emojiData) {
+      const val = this.emojiData[prop];
+      if(val[val.length - 1] == idxAsStr) {
+        ret.push(this.convert(val));
+      }
+    }
+    return ret;
+  }
 
   getEmoji(idx : number, subIdx : number) : EmojiData | undefined {
     //const i = Math.floor(subIdx / this.n);
     //const j = subIdx % this.m;
     const data  = this.emojiData[`${idx}_${subIdx}`];
+
     /*
-        "94_7": [
-            "94",
-            "7",
-            "7",
-            "🛐",
-            "b94",
-            "emoji-94-40_3ab7358.webp",
-            "background-position: -64px -32px;",
-            "background-position: -80px -40px;"
-          ]
+      "94_6": [
+        0:  "94",
+        1:  "6",
+        2:  "8",
+        3:  "🛏️",
+        4:  "b94",
+        5:  "emoji-94-40_3ab7358.webp",
+        6:  "background-position: -40px -40px;",
+        7:  "-40",
+        8:  "-40",
+        9:  "6"
+      ]
     */
-   const [posX, posY] = this.extractPos(data[data.length - 1]);
+    //
+    return this.convert(data);
+  }
+
+  private convert(data: string[]) : EmojiData {
+    const [idx, posX, posY] = [parseInt(data[0]),parseInt(data[7]), parseInt(data[8])]; //this.extractPos(data[6]);
     return {
       idx : idx,
       url: `/assets/images/webp-icons/${data[5]}`,
       posX: posX,
       posY: posY
-    };//this.data.get(k);
+    };
   }
-
   private extractPos(pos : string) : Array<number> {
     //"background-position: -80px -40px;"
     pos = pos.replace('background-position:', '').replace(' ', '');

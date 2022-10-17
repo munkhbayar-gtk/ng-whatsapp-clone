@@ -1,3 +1,4 @@
-<p>
-  emoji-selector works!
-</p>
+<div id="media-selector-container">
+  <div class="ttl">{{mediaTitle}}</div>
+  <app-emoji *ngFor="let e of data" [emoji-data]="e"></app-emoji>
+</div>

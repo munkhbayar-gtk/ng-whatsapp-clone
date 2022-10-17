@@ -22,6 +22,11 @@ export class MediaPanelComponent implements OnInit {
   tabTexts: Array<string>=[];
   constructor() { }
 
+  @Input("tab-groups")
+  tabGroups : string[]=[]
+
+  @Input("tab-datasource")
+  mediaDataSource : string
   @Input("tab-insertable")
   tabInsertable : boolean = false;
 
@@ -121,7 +126,7 @@ export class MediaPanelComponent implements OnInit {
     }
     this.scrollStopId = window.setTimeout(() => {
       this._onScrollStopped(event);
-    }, 150);
+    }, 50);
   }
 
   private tabRequestIndex : number = -1;

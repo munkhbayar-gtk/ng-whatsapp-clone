@@ -32,7 +32,7 @@ export class BuddyBoxComponent implements OnInit {
   @HostListener('window:resize', ['$event'])
   onResize(event : any) {
     const parentWidth = this.container?.nativeElement?.parentElement?.offsetWidth;
-    console.log('width', event.target.innerWidth, parentWidth);
+    console.log('width1', event.target.innerWidth, parentWidth);
 
   }
 

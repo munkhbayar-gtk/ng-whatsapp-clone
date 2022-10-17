@@ -22,7 +22,10 @@
     //background-color: green;
     //width: 100%;
   }
-
+  #tabs ::ng-deep .mat-tab-label {
+    min-width: 25px !important; // In addition to mat-strech-tabs allowing tabs to fill remaining space in parent container
+    padding: 5px;
+  }
   .example-viewport {
     flex-grow: 1;
     width: 100%;

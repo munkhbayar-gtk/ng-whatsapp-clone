@@ -109,16 +109,17 @@
   }
 
   #emoji-area {
+    width: auto;
     overflow: hidden;
     max-height: 0;
     min-height: 0;
-    transition: 300ms ease-in;
+    transition: 20ms ease-out;
     transition-timing-function: cubic-bezier(0.1,0.82,0.25,1);
   }
   #emoji-area.active {
     max-height: 320px;
     min-height: 320px;
-    transition: 300ms ease-out;
+    transition: 200ms ease-in;
     transition-timing-function: cubic-bezier(0.1,0.82,0.25,1);
   }
 }

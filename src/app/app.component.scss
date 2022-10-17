@@ -14,13 +14,14 @@
   top: 0px;
   bottom: 0px;
   margin: auto;
-  height: 90%;
-  width: 97%;
   background-color: rgb(255, 255, 255);
+  height: calc(100% - 38px);
+  width: calc(100% - 38px);
+  max-width: 1600px;
   left: 0px;
   right: 0px;
-  box-shadow: 0 6px 18px rgba(var(--shadow-rgb),.05);
   display: flex;
+  justify-content: center;
 }
 .chat-container {
   width: 100%;
@@ -28,7 +29,7 @@
   flex-direction: row;
   overflow: hidden;
   #sidebar{
-    flex-basis: calc(30%);
+    flex-basis: 45%;
     border-right: 0px solid #e1e4e5;
     display: flex;
     flex-direction: column;

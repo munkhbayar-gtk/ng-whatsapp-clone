@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { EmojiData, EmojiDataService } from 'src/app/services/emoji-data.service';
 
 @Component({
   selector: 'app-media-selector',
@@ -6,23 +7,22 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./media-selector.component.scss']
 })
 export class MediaSelectorComponent implements OnInit {
+  @Input('media-title')
+  mediaTitle : string;
 
   @Input('media-index')
   mediaIndex : number = 0;
 
-  constructor() { }
+  @Input('media-datasource')
+  ds : string
+
+  private _data : EmojiData[];
+  get data() : EmojiData[] { return this._data}
+  constructor(private emojiDataService : EmojiDataService) { }
 
   ngOnInit() {
+    if(this.ds == 'emoji'){
+      this._data = this.emojiDataService.getEmojisByIndex(this.mediaIndex);
+    }
   }
-
-  private emojiTabMap = [
-    [
-      {82: []},
-      {98: []},
-      {106: []},
-      {3: []},
-      {83: []},
-      {82: []},
-    ]
-  ]
 }

@@ -61,14 +61,16 @@
       <div id="emoji-area"
          [ngClass]="{'active':emojiState}"
         style=" background-color: transparent; z-index: 0;">
-        <app-media-panel *ngIf="mediaType == 'emoji'"
+        <app-media-panel [hidden]="mediaType != 'emoji'"
+          [tab-datasource]="'emoji'"
+          [tab-groups]="['Smileys & People', 'Animals & Nature', 'Food & Drink', 'Activity', 'Travel & Places', 'Objects', 'Symbols','Flags']"
           [tab-icons]="['smile','teddy','cup', 'soccer','car','bulb','hashtag','flag']"
         ></app-media-panel>
-        <app-media-panel *ngIf="mediaType == 'gif'"
+        <app-media-panel [hidden]="mediaType != 'gif'"
           [tab-texts]="['TRENDING','HAHA','SAD', 'LOVE','REACTIONS','SPORTS','TV']"
         ></app-media-panel>
         <app-media-panel
-          *ngIf="mediaType == 'sticker'"
+          [hidden]="mediaType != 'sticker'"
           [tab-insertable]="true"
           [tab-icons]="['clock']"
           [tab-texts]="['','LOVE','GREETINGS', 'HAPPY','SAD','ANGRY','CELEBRATE']"
