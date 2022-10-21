@@ -45,8 +45,10 @@ export class MessageTypingService {
 
     //this.editor.selectionStart = startIndex;
     //this.editor.selectionEnd = startIndex;
-    this.editor.setSelectionRange(startIndex + txt.length, 1);
     this.editor.focus();
+    window.setTimeout(()=>{
+      this.editor.setSelectionRange(startIndex + txt.length, startIndex + txt.length);
+    }, 2);
   }
 
   send(){
