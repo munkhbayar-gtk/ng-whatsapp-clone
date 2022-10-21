@@ -26,7 +26,9 @@ export class ChatMessageComponent implements OnInit {
           isYesNo: false,
           answered: false,
           date: new Date(),
-          dir: 'r'
+          dir: 'r',
+          buddyId: 1,
+          reactions: []
       };
     }
   }

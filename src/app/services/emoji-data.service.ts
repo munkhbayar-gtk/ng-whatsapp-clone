@@ -9,7 +9,8 @@ export interface EmojiData {
   idx : number,
   url: string,
   posX: number,
-  posY: number
+  posY: number,
+  emoji: string
 }
 @Injectable({
   providedIn: 'root'
@@ -62,7 +63,8 @@ export class EmojiDataService {
       idx : idx,
       url: `/assets/images/webp-icons/${data[5]}`,
       posX: posX,
-      posY: posY
+      posY: posY,
+      emoji: data[3]
     };
   }
   private extractPos(pos : string) : Array<number> {

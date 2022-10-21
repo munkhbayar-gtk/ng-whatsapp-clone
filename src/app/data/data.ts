@@ -3,10 +3,24 @@ export interface ChatMessage {
   text: string,
   dir: string,
   date: Date,
-  isYesNo : boolean,
-  answered: boolean
+  buddyId: number,
+  isYesNo : boolean | null,
+  answered: boolean | null,
+  reactions: Reaction[]
+}
+export interface User {
+  id: number,
+  firstname: string,
+  lastname: string,
+  username: string,
+  avatarUrl: string,
+}
+export interface Reaction {
+  id: number,
+  type: string,
+  senderId: number
 }
 export interface Conversation {
-  userId: string,
-  lastMessage : ChatMessage,
+  user: User,
+  lastMessage : ChatMessage | null | undefined
 }

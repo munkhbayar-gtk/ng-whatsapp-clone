@@ -1,4 +1,4 @@
-<div id="buddy-container" #container  >
+<div id="buddy-container" #container [ngClass]="{'selected' : selected}">
   <div id="icon-container">
     <img src="../../../assets/images/avatar.jpg">
   </div>
@@ -6,13 +6,13 @@
     <div id="last-message-container">
       <div id="contact-info-container">
         <div id="contact-info">
-          <span>Munkhbayar-gtk</span>
-          <span>10:30:15</span>
+          <span>{{conversation.user.firstname}} {{conversation.user.lastname}}</span>
+          <span>{{conversation.lastMessage?.date | date: 'h:mm:ss'}}</span>
         </div>
         <div id="message-date"></div>
       </div>
       <div id="message-container">
-         {{longText}}
+         {{conversation.lastMessage?.text}}
       </div>
     </div>
   </div>

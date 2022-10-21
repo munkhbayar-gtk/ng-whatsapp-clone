@@ -105,11 +105,13 @@
         </div>
         <div id="input-container">
           <input type="text"
-            [(ngModel)]="textToSend" placeholder=" Type a message" id="messageToSend">
+            [(ngModel)]="typingService.text" placeholder=" Type a message" id="messageToSend"
+            (keydown)="_handleEnter($event)"
+            >
         </div>
         <div id="audio-icon-container">
-          <mat-icon *ngIf="textToSend.length == 0">mic</mat-icon>
-          <mat-icon *ngIf="textToSend.length > 0">send</mat-icon>
+          <mat-icon *ngIf="typingService.text.length == 0">mic</mat-icon>
+          <mat-icon *ngIf="typingService.text.length > 0" (click)="this.typingService.send()">send</mat-icon>
         </div>
       </div>
     </div>

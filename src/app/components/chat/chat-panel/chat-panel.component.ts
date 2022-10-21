@@ -1,3 +1,4 @@
+import { MessageTypingService } from './../../../services/message-typing-service.service';
 import { trigger, state, style, transition, animate } from '@angular/animations';
 import { Component, Input, OnInit } from '@angular/core';
 
@@ -48,8 +49,7 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class ChatPanelComponent implements OnInit {
 
-  textToSend = "";
-  constructor() { }
+  constructor(public typingService : MessageTypingService) { }
 
   emojiState : boolean = false;
 
@@ -63,5 +63,12 @@ export class ChatPanelComponent implements OnInit {
 
   log(msg : any) {
     console.log('msg', msg);
+  }
+
+  _handleEnter(event : KeyboardEvent) {
+    const keyCode = event.key.toLowerCase();
+    if(keyCode == 'enter') {
+      this.typingService.send()
+    }
   }
 }

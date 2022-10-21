@@ -1,3 +1,4 @@
+import { MessageTypingService } from './../../../services/message-typing-service.service';
 import { EmojiData } from './../../../services/emoji-data.service';
 import { Component, Input, OnInit } from '@angular/core';
 import { EmojiDataService } from 'src/app/services/emoji-data.service';
@@ -27,7 +28,8 @@ export class EmojiComponent implements OnInit {
     return this._emojiData;
   }
 
-  constructor(private emojiService : EmojiDataService) { }
+  constructor(private emojiService : EmojiDataService,
+    private typingService: MessageTypingService) { }
 
   ngOnInit() {
     this.redraw();
@@ -53,5 +55,9 @@ export class EmojiComponent implements OnInit {
 
   url() : string {
     return `url(${this.emojiData.url})`;
+  }
+
+  _handleClick(event : Event) {
+    this.typingService.addText(this._emojiData.emoji)
   }
 }

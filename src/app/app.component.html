@@ -28,29 +28,15 @@
               ></app-profile-box>
             </div>
             <app-chat-search-box></app-chat-search-box>
-            <div id="sidebarContent" class="v-scrollbar" style="width: {{calculatedWidth}}px; max-width: {{calculatedWidth}}px;">
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <app-buddy-box></app-buddy-box>
-              <div id="no-conversations">All chats are archived</div>
+            <div id="sidebarContent" class="v-scrollbar"
+                style="width: {{calculatedWidth}}px; max-width: {{calculatedWidth}}px;">
+
+              <app-buddy-box *ngFor="let conversation of conversations; index as i"
+                [selected]="i == selectedConversationIndex"
+                [conversation]="conversation"
+                (click)="_handleConversationClick($event, conversation); selectedConversationIndex = i"
+              ></app-buddy-box>
+              <div id="no-conversations" *ngIf="conversations && conversations.length == 0">All chats are archived</div>
             </div>
           </mat-sidenav-content>
         </mat-sidenav-container>
