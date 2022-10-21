@@ -22,6 +22,25 @@ export class EmojiDataService {
   constructor() {
   }
 
+  html(emojiData: EmojiData, scale: number = 0.5) : Element {
+
+    const span = document.createElement('span');
+    span.classList.add('emoji-img');
+    span.setAttribute('area-label', '1');
+    span.style.cssText=`display: inline-block; border-radius: 3px; border: 0px solid white; height:40px, width: 40px, image-rendering: -webkit-optimize-contrast, scale: ${scale};background-image: url(${emojiData.url}) ${emojiData.posX}px ${emojiData.posY}px`;
+    /*
+    span.style.scale=`${scale}`;
+    span.style.background=`'url('${emojiData.url}') ${emojiData.posX}px ${emojiData.posY}px'`;
+    */
+    return span;
+    /*
+    return `<span class="emoji-img"
+      area-label="1"
+      style="{'scale': ${scale}, background: url('${emojiData.url}') ${emojiData.posX}px ${emojiData.posY}px}"
+    ></span>
+    `;
+    */
+  }
   getEmojisByIndex(idx : number) : Array<EmojiData>{
     const idxAsStr = `${idx}`;
     const ret = new Array<EmojiData>();

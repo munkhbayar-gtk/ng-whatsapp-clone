@@ -105,10 +105,30 @@
         </div>
         <div id="input-container">
           <input type="text"
+            #editor
+            ngInit
+            (ngInit)="typingService.editor = editor"
+            (keydown)="_handleEnter($event)"
             [(ngModel)]="typingService.text" placeholder=" Type a message" id="messageToSend"
             (keydown)="_handleEnter($event)"
             >
+          <!--
+          <div
+            contenteditable="true"
+            #editor
+            ngInit
+            (ngInit)="typingService.editor = editor"
+            style="outline:none; background: pink; width: 100%"
+            placeholder=" Type a message"
+           >
+            <p
+              [textContent]="typingService.text"
+              (keydown)="_handleEnter($event)"
+              (input)="typingService.text = getTextContent($event)"></p>
+          </div>
+          -->
         </div>
+
         <div id="audio-icon-container">
           <mat-icon *ngIf="typingService.text.length == 0">mic</mat-icon>
           <mat-icon *ngIf="typingService.text.length > 0" (click)="this.typingService.send()">send</mat-icon>

@@ -58,6 +58,8 @@ export class EmojiComponent implements OnInit {
   }
 
   _handleClick(event : Event) {
-    this.typingService.addText(this._emojiData.emoji)
+    //const html = this.emojiService.html(this._emojiData)
+    //this.typingService.addNode(html);
+    this.typingService.addText(this._emojiData.emoji);
   }
 }
