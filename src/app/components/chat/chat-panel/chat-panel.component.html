@@ -9,9 +9,9 @@
     <div id="chat-panel-container">
       <div id="profile-header-container">
         <div id="profile-picture">
-          <img src="../../../assets/images/avatar.jpg">
+          <img src="{{conversation.user.avatarUrl}}">
         </div>
-        <div style="flex-grow: 1;">-1 (111) 111-0111</div>
+        <div style="flex-grow: 1;"> {{conversation.user.firstname}} {{conversation.user.lastname}} (-1 (111) 111-0111)</div>
         <app-mat-icon-circle-button
           [focusable]="true"
           (click)="chatSearchNav.toggle()"
@@ -54,8 +54,8 @@
         </mat-menu>
 
       </div>
-      <div id="chat-messages-container" class="v-scrollbar">
-        <app-chat-message></app-chat-message>
+      <div id="chat-messages-container" #scroller class="v-scrollbar">
+        <app-chat-message *ngFor="let message of messages" [data]="message"></app-chat-message>
       </div>
       <!-- -->
       <div id="emoji-area"
@@ -108,7 +108,6 @@
             #editor
             ngInit
             (ngInit)="typingService.editor = editor"
-            (keydown)="_handleEnter($event)"
             [(ngModel)]="typingService.text" placeholder=" Type a message" id="messageToSend"
             (keydown)="_handleEnter($event)"
             >
@@ -131,7 +130,7 @@
 
         <div id="audio-icon-container">
           <mat-icon *ngIf="typingService.text.length == 0">mic</mat-icon>
-          <mat-icon *ngIf="typingService.text.length > 0" (click)="this.typingService.send()">send</mat-icon>
+          <mat-icon *ngIf="typingService.text.length > 0" (click)="send()">send</mat-icon>
         </div>
       </div>
     </div>

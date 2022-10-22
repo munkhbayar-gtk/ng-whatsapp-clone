@@ -1,3 +1,4 @@
+import { ChatMessage } from 'src/app/data/data';
 import { HostListener, Injectable } from '@angular/core';
 import { Conversation } from '../data/data';
 import { MessageDataService } from './message-data.service';
@@ -51,9 +52,13 @@ export class MessageTypingService {
     }, 2);
   }
 
-  send(){
-    this.messageDataService.sendMessage(this.selectedConversation, this.text).then(() => {
-      this.text = "";
-    });
+  send() : Promise<ChatMessage>{
+    const retPromise = new Promise<ChatMessage>((resolve, reject)=>{
+      this.messageDataService.sendMessage(this.selectedConversation, this.text).then((chatMessage) => {
+        this.text = "";
+        resolve(chatMessage);
+      });
+    })
+    return retPromise;
   }
 }

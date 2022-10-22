@@ -45,6 +45,7 @@ export class MessageDataService {
 
   getChatMessages(conversation : Conversation) : Promise<ChatMessage[]>{
     return new Promise<ChatMessage[]>((resolve, reject)=>{
+        console.log('conversation', conversation);
         const buddyId = conversation.user.id;
         resolve(this.messages.filter(msg => msg.buddyId === buddyId));
     });
@@ -92,35 +93,35 @@ export class MessageDataService {
       firstname: 'Jordan',
       lastname: 'Micheal',
       username: 'mj.whatsapp.clone',
-      avatarUrl: ''
+      avatarUrl: '../assets/images/avatars/mj.png'
     },
     {
-      id: 3,
+      id: 2,
       firstname: 'Kobe',
       lastname: 'Bryant',
       username: 'kb.whatsapp.clone',
-      avatarUrl: ''
+      avatarUrl: '../assets/images/avatars/kobe.png'
     },
     {
-      id: 4,
+      id: 3,
       firstname: 'Lebron',
       lastname: 'James',
       username: 'lbn.whatsapp.clone',
-      avatarUrl: ''
+      avatarUrl: '../assets/images/avatars/lebron.png'
     },
     {
-      id: 5,
+      id: 4,
       firstname: 'Steph',
       lastname: 'Curry',
       username: 'curry.whatsapp.clone',
-      avatarUrl: ''
+      avatarUrl: '../assets/images/avatars/curry.png'
     },
     {
-      id: 6,
+      id: 5,
       firstname: 'Kevin',
       lastname: 'Durant',
       username: 'snake.whatsapp.clone',
-      avatarUrl: ''
+      avatarUrl: '../assets/images/avatars/kd.png'
     }
   ]
   private messages : ChatMessage[] = [

@@ -1,6 +1,6 @@
 <div id="buddy-container" #container [ngClass]="{'selected' : selected}">
   <div id="icon-container">
-    <img src="../../../assets/images/avatar.jpg">
+    <img src="{{conversation.user.avatarUrl}}">
   </div>
   <div id="r-container">
     <div id="last-message-container">
@@ -12,7 +12,7 @@
         <div id="message-date"></div>
       </div>
       <div id="message-container">
-         {{conversation.lastMessage?.text}}
+         <span *ngIf="conversation.lastMessage?.dir == 's'" style="font-weight: 450;">You: </span>{{conversation.lastMessage?.text}}
       </div>
     </div>
   </div>

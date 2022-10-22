@@ -43,7 +43,7 @@
       </div>
 
       <div id="chat-panel" style="">
-        <app-chat-panel [sidenavWidth]="calculatedWidth"></app-chat-panel>
+        <app-chat-panel [conversationIndex]="selectedConversationIndex" *ngIf="selectedConversationIndex > -1" [sidenavWidth]="calculatedWidth"></app-chat-panel>
       </div>
     </div>
   </div>

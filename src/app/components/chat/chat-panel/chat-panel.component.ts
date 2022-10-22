@@ -1,6 +1,10 @@
+import { Conversation } from './../../../data/data';
+import { ChatMessageComponent } from './../chat-message/chat-message.component';
 import { MessageTypingService } from './../../../services/message-typing-service.service';
 import { trigger, state, style, transition, animate } from '@angular/animations';
 import { Component, ElementRef, HostListener, Input, OnInit, ViewChild } from '@angular/core';
+import { MessageDataService } from 'src/app/services/message-data.service';
+import { ChatMessage } from 'src/app/data/data';
 
 @Component({
   selector: 'app-chat-panel',
@@ -49,8 +53,37 @@ import { Component, ElementRef, HostListener, Input, OnInit, ViewChild } from '@
 })
 export class ChatPanelComponent implements OnInit {
 
-  constructor(public typingService : MessageTypingService) { }
+  @ViewChild('scroller')
+  scroller: ElementRef<HTMLElement>;
 
+  messages: ChatMessage[] = [];
+
+  @Input('conversationIndex')
+  conversationIndex = -1;
+
+  get conversation() : Conversation{
+    return this.typingService.selectedConversation;
+  }
+
+  constructor(public typingService : MessageTypingService, public dataMessageService : MessageDataService) { }
+
+  ngOnChanges(changes: any){
+    if(changes.conversationIndex) {
+      if(changes.conversationIndex.previousValue !== changes.conversationIndex.currentValue){
+        this.refresh();
+      }
+    }
+  }
+
+  refresh() {
+    console.log('conv', this.typingService.selectedConversation);
+    this.dataMessageService
+      .getChatMessages(this.typingService.selectedConversation)
+      .then((messages) => {
+        this.messages = messages;
+        this.onMessageAdded();
+      })
+  }
   emojiState : boolean = false;
 
   mediaType : string='';
@@ -61,47 +94,39 @@ export class ChatPanelComponent implements OnInit {
   ngOnInit() {
   }
 
-  log(msg : any) {
-    console.log('msg', msg);
-  }
-
-  /*
-  @HostListener('document:click', ['$event'])
-  @HostListener('document:keydown', ['$event'])
-  _handleDocClick(event: Event) {
-    console.log('event', event);
-    const editor = this.typingService.editor;
-    if(editor.contains(event.target as Node)){
-      const selection = window.getSelection() ?? null;
-    // Check if there is a selection (i.e. cursor in place)
-      if (selection && selection.rangeCount !== 0) {
-        // Store the original range
-        const range = selection.getRangeAt(0) ?? null;
-        // Clone the range
-        const preCaretRange = range.cloneRange();
-        // Select all textual contents from the contenteditable element
-        preCaretRange.selectNodeContents(editor);
-        // And set the range end to the original clicked position
-        preCaretRange.setEnd(range.endContainer, range.endOffset);
-        // Return the text length from contenteditable start to the range end
-        const position = preCaretRange.toString().length;
-        console.log('cursor at: ', position);
-        this.typingService.editorPosition = position ?? -1;
-      }
-    }
-  }
-  */
   _handleEnter(event : KeyboardEvent) {
     const keyCode = event.key.toLowerCase();
     if(keyCode == 'enter') {
-      this.typingService.send();
       event.preventDefault();
       event.stopPropagation();
+
+      this.send();
     }
   }
 
   getTextContent(event: Event) : string{
     const div = event.target as HTMLDivElement;
     return div.textContent ?? '';
+  }
+
+  send() : void{
+    this.typingService.send().then((chatMessage)=>{
+      this.messages.push(chatMessage);
+      //console.log('messages', this.messages);
+      //this.refresh();
+      this.onMessageAdded();
+    });
+  }
+
+  private onMessageAdded() {
+    window.setTimeout(()=>{
+      this.scrollToBottom();
+    }, 10);
+  }
+  private scrollToBottom() {
+    const scroller = this.scroller.nativeElement;
+    const children = scroller.children;
+    const lastChild = children.item(children.length - 1); //scroller.lastChild;
+    lastChild?.scrollIntoView({'behavior': 'smooth'});
   }
 }
